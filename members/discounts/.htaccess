@@ -1,0 +1,4 @@
+AuthUserFile /home/www/www.edinburghtwins.co.uk/public/.htpasswd
+AuthName "Members Area"
+AuthType Basic
+require valid-user
