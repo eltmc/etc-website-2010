@@ -18,8 +18,6 @@ Hello and welcome to the Edinburgh Twins Club website. If you have or are expect
       <p>
         <center><b>Announcements</b></center><br/>
       <ul>
-	<li><a href="http://www.edinburghtwins.co.uk/events/">MUMS or DADS NIGHT OFF!</a> Enjoy a meal out on March 19th at the Caley Sample Rooms</li><br>
-	<li>Nearly new sale is nearly upon us again, 27th of March is the date. <a href="nearlynewsale/index.php">Check out the details of who to contact and rules of play</a>	</li><br>
         <li>Expecting twins? Maybe your babies have arrived?  Come along to <b><a href="http://www.edinburghtwins.co.uk/groups/">First Years</a></b> 8pm on the first Wednesday of every month.  Next meeting: Wednesday 3rd June.</li><br>
         <li>If you have tried to register for the <a href="http://www.edinburghtwins.co.uk/messageboard">messageboard</a> and haven't had your account activated, please email your username to webmaster@edinburghtwins.co.uk</li><br>
         <li>We've updated the <b><a href="http://www.edinburghtwins.co.uk/groups">Groups</a></b> page to include non-ETC babies, bumps and toddler groups</li><br>
