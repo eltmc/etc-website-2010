@@ -8,27 +8,40 @@
     </div>
     <div id="content">
     <h1 class="header">Events</h1>
-<p>
-Here are the events for the first quarter of 2009.  Use the <a href="http://www.edinburghtwins.co.uk/events/map">map</a> link to find event locations. To book any event please email our wonderful social convener Donna - social@edinburghtwins.co.uk:</p>
-<h1>Nearly New Sale</h1> 
-<p> The Nearly New Sale is nearly upon us, 27th of March is the date. <a href="../nearlynewsale/index.php">Check out the details of who to contact and rules of play!</a>. The sale will be held at St. Stephens Church at Comley Bank. Entry is 10am for ETC Members and 10:30 for the general public. £1 entry and cash purchases only.</p>
-<h1>Mums or Dad's Night out</h1>
-On Friday March 19TH, 2010, enjoy some well deserved 'me' time with a night off!
-We are planning a meal out on March 19 at the Caley Sample Rooms, Angle Terrace, Edinburgh.
- 
-http://www.thecaleysampleroom.co.uk/.
- 
-Donna has booked the table for 8pm.
-Please let her know if you are interested so she can confirm numbers Tel: 01506 883652 or 07595350036
-PLEASE NOTE THIS IS A CHANGE OF VENUE FROM WHAT IS ADVERTISED IN THE NEWSLETTER!
- 
 
-<h1>Twins Club Easter Egg Hunt</h1>
-On Saturday 10th April hop on over to Vogrie Country Park, Midlothian and join us for a morning filled with Easter fun. 
-The Easter Egg Hunt is due to start at 10:45am.
-Vogrie Country Park has a cafe also so why not make a day of it and join us for lunch!
-For further information or book tickets email Donna. 
-Please be aware that you do need to book as we need to make sure the Easter Bunny leaves enough eggs!
+<p> Here are some upcoming events.  Use this <a
+href="http://www.edinburghtwins.co.uk/events/map">map</a> link to find
+event locations.</p>
+
+<p>To book any event please email our wonderful social convener Donna
+- email: <a
+href="mailto:social@edinburghtwins.co.uk">social@edinburghtwins.co.uk</a></p>
+
+ 
+<h2>Edinburgh Twins Club Sponsored Walk 2010</h2>
+
+<p>Saturday 5th June - over the Forth Road Bridge (and back!) Open to
+all members of the twins club. No minimum sponsorship required - just
+come along and enjoy the view across the Forth!</p>
+ 
+<h2>Mums' and dads' night out</h2>
+
+<p>Come and shoot some bowls, have a drink, a laugh and a good natter
+at Fountainpark Tenpin bowling alley on Dundee Street, Edinburgh.</p>
+
+<p>Meet on Thursday 15th July at 8pm or after.</p>
+ 
+<h2>Summer Fair</h2>
+
+<p>Come along and have fun at our annual summer fair.  Stands include
+an adults and children’s tombola, home baking, second hand books, CDs
+and DVDs, face painting, gift stalls and the ever popular carousel
+will be back.</p>
+
+<p>Saturday 21st August 2010, South Queensferry Scout Hut, 10.30am to
+1.30pm.  Entry (incl BBQ) for adults costs &pound;3.50, children over
+two &pound;2.00. Children under two are free</p>
+
 
     </div>
     <div class="clear">
