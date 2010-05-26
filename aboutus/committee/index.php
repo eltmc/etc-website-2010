@@ -20,7 +20,7 @@ Committee meetings are held every six weeks and preparing agendas and bringing a
 Roping members both on and off the committee into helping out.
 Instrumental in the orgainsation of the annual Summer Fair and Christmas party.
 </p>  
-<p><strong>Vice-Chairperson </strong>Take minutes at committee meetings and generally support the committee and the club throughout the year.
+<p><strong>Secretary</strong> Take minutes at committee meetings and generally support the committee and the club throughout the year.
 This would be an ideal role for anyone wanting either to join or stay on the committee and undertake a role that is enjoyable but not too onerous!</p>
 <p><strong>Treasurer </strong>The main duties involve banking cheques, writing cheques and updating the records to produce an income and expenditure account for the year.</p>
 <p><strong>Fundraiser </strong>Responsible for raising funds through a variety of means.  This includes running the nearly new sales and approaching businesses for raffle prices or donations for specific equipment.</p>
