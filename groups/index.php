@@ -28,10 +28,23 @@ gone from strength to strength.  The group meets on Mondays from
 
 <p> The <strong>Oxgangs</strong> group meets every Thursday from
 10-11:30am at the Oxgangs Neighbourhood Centre, Firrhill Drive
-(Tel:0131 441 7558). All families and Mum's-to-be are very
+(Tel:0131 441 7558). All families and Mums-to-be are very
 welcome. Meeting other people who understand the joys and hazards of
-life with twins has certainly helped me, and it's great to see the
+life with twins has certainly helped me, and it is great to see the
 children playing and growing up.  </p>
+
+<p><strong>Oxgangs</strong>, the longest established twin group in
+Edinburgh, providing a welcoming, relaxed and supportive atmosphere
+for all twin mums (including those at bump stage) and carers. It meets
+every Thursday from 10-11:30am at the Oxgangs Neighbourhood Centre,
+Firrhill Drive (Tel:0131 441 7558), and has a number of regulars and a
+wide age-group from teeny babies through to pre-schoolers.  There are
+plenty of toys to keep your children amused (ie kitchens, trikes,
+slides, tunnels), soft mats and bouncy chairs for babies and high
+chairs available.  The friendly staff in the centre help with teas and
+coffees.  We also have a selection of books for mums which can be lent
+our during sessions.  </p>
+
 
 <p> The <strong>South Queensferry</strong> group meets every Friday
 morning from 10am-noon at the Scout Hut in Port Edgar, South
