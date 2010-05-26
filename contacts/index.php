@@ -21,13 +21,17 @@ newsletter@edinburghtwins.co.uk<br><br>
 <strong>Website</strong> comments or questions:<br>
 webmaster@edinburghtwins.co.uk<br><br>
 <strong>Each of the regular Babies, Bumps and Toddler groups has a coordinator.  If you have any questions they can be contacted as follows:</strong><br><br>
+<strong>Comeley Bank:</strong><br>
+comelybank@edinburghtwins.co.uk<br><br>
+)<strong>Joppa:</strong><br>
+joppa@edinburghtwins.co.uk<br><br>
 <strong>Oxgangs:</strong><br>
 oxgangs@edinburghtwins.co.uk<br><br>
 <strong>South Queensferry:</strong><br>
 sqf@edinburghtwins.co.uk<br><br>
-<strong>Longniddry:</strong><br>
-longniddry@edinburghtwins.co.uk
-
+<strong>There are now two First Years groups, however they are currently contactable via a single address:</strong><br><br>
+<strong>First Years:</strong><br>
+firstyears@edinburghtwins.co.uk<br><br>
     </div>
     <div class="clear">
       <br />
