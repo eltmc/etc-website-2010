@@ -18,6 +18,7 @@ Hello and welcome to the Edinburgh Twins Club website. If you have or are expect
       <p>
         <center><b>Announcements</b></center><br/>
       <ul>
+        <li><b>NOTE:</b> Comley Bank Toddler Group will be <b>closed on Monday 31st May and will reopen on Monday 7th June.</b></li><br>
         <li>Expecting twins? Maybe your babies have arrived?  Come along to <b><a href="http://www.edinburghtwins.co.uk/groups/">First Years</a></b> 8pm on the first Wednesday of every month.  Next meeting: Wednesday 3rd June.</li><br>
         <li>If you have tried to register for the <a href="http://www.edinburghtwins.co.uk/messageboard">messageboard</a> and haven't had your account activated, please email your username to webmaster@edinburghtwins.co.uk</li><br>
         <li>We've updated the <b><a href="http://www.edinburghtwins.co.uk/groups">Groups</a></b> page to include non-ETC babies, bumps and toddler groups</li><br>
