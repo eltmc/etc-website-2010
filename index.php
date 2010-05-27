@@ -35,6 +35,13 @@
             <center><b>Announcements</b></center><br/>
             <ul>
 
+              <li>Put the dates of the <b>Nearly New Sale, 11th
+              September</b> and the <b>Christmas Event, 6th
+              November</b> in your diary. You will find details of the
+              registration for the September sale in your May
+              Newsletter and further information about the Christmas
+              Event and Toy Sale will be in the Summer newsletter</li><br>
+
               <li><b>NOTE:</b> Comley Bank Toddler Group will be
               <b>closed on Monday 31st May and will reopen on Monday
               7th June.</b></li><br>
