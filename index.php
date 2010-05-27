@@ -7,25 +7,61 @@
 
     </div>
     <div id="content">
-        <p>
-        <strong>
-Hello and welcome to the Edinburgh Twins Club website. If you have or are expecting twins or more, especially if you live in or around Edinburgh, then there should be some useful information for you here.  </p>
-<p>We are a registered charity, celebrating and supporting families of multiples in Edinburgh and the Lothians.  We have a membership of over 150 families - the largest in Scotland!</p>
-<p>Last year we celebrated 30 years since the club started.</p>
-<p>Come on in and take a look around.  If there is anything you need from our old website, you can still find it <a href="http://www.edinburghtwins.co.uk/oldwebsite">here</a>.</strong> Last update 7th of March 2010</p>
-      <center>
-      <table border=1 cellpadding=5 cellspacing=0 bgcolor=#ffd9ff><tr><td>
-      <p>
-        <center><b>Announcements</b></center><br/>
-      <ul>
-        <li><b>NOTE:</b> Comley Bank Toddler Group will be <b>closed on Monday 31st May and will reopen on Monday 7th June.</b></li><br>
-        <li>Expecting twins? Maybe your babies have arrived?  Come along to <b><a href="http://www.edinburghtwins.co.uk/groups/">First Years</a></b> 8pm on the first Wednesday of every month.  Next meeting: Wednesday 3rd June.</li><br>
-        <li>If you have tried to register for the <a href="http://www.edinburghtwins.co.uk/messageboard">messageboard</a> and haven't had your account activated, please email your username to webmaster@edinburghtwins.co.uk</li><br>
-        <li>We've updated the <b><a href="http://www.edinburghtwins.co.uk/groups">Groups</a></b> page to include non-ETC babies, bumps and toddler groups</li><br>
-      </ul>
-      </p>
-      </td></tr></table>
+
+        <p><strong>Hello and welcome to the Edinburgh Twins Club
+        website. If you have or are expecting twins or more,
+        especially if you live in or around Edinburgh, then there
+        should be some useful information for you here.</strong></p>
+
+        <p>We are a registered charity, celebrating and supporting
+        families of multiples in Edinburgh and the Lothians.  We have
+        a membership of over 150 families - the largest in
+        Scotland!</p>
+        
+        <p>Last year we celebrated 30 years since the club
+        started.</p>
+        
+        <p>Come on in and take a look around.  If there is anything
+        you need from our old website, you can still find it <a
+        href="http://www.edinburghtwins.co.uk/oldwebsite">here</a>.
+
+        <center>
+        
+        <table border=1 cellpadding=5 cellspacing=0 bgcolor=#ffd9ff>
+
+        <tr><td>
+
+          <p>
+            <center><b>Announcements</b></center><br/>
+            <ul>
+
+              <li><b>NOTE:</b> Comley Bank Toddler Group will be
+              <b>closed on Monday 31st May and will reopen on Monday
+              7th June.</b></li><br>
+
+              <li>Expecting twins? Maybe your babies have arrived?
+              Come along to <b><a
+              href="http://www.edinburghtwins.co.uk/groups/">First
+              Years</a></b> 8pm on the first Wednesday of every month.
+              Next meeting: Wednesday 3rd June.</li><br>
+
+              <li>If you have tried to register for the <a
+              href="http://www.edinburghtwins.co.uk/messageboard">messageboard</a>
+              and haven't had your account activated, please email
+              your username to webmaster@edinburghtwins.co.uk</li><br>
+
+              <li>We've updated the <b><a
+              href="http://www.edinburghtwins.co.uk/groups">Groups</a></b>
+              page to include non-ETC babies, bumps and toddler
+              groups</li><br>
+
+            </ul>
+          </p>
+
+        </td></tr>
+        </table>
       </center>
+
 <br>
 <hr width=100% noshade size=1>
 <center>
@@ -34,6 +70,7 @@ Hello and welcome to the Edinburgh Twins Club website. If you have or are expect
 <img src="graphics/photos/DSC01163.JPG" height=100 border=1>
 <img src="graphics/photos/IMG_1873.JPG" height=100 border=1>
 </center>
+
 <hr width=100% noshade size=1>
 <p align=center><font size=-2>Please support the twin club -- if you buy from amazon using the search box on the menu  we earn a small commission</font></strong></p>
         </p>
