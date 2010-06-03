@@ -11,10 +11,12 @@ Password: {PASSWORD}
 Board URL: {U_BOARD}
 ----------------------------
 
-Your account is currently inactive, the administrator of the board will need to activate it before you can log in. You will receive another e-mail when this has occurred.
+Your account is currently inactive - the administrator of the board will need to activate it before you can log in. 
 
-Please do not forget your password as it has been encrypted in our database and we cannot retrieve it for you. However, should you forget your password you can request a new one which will be activated in the same way as this account.
+However, because the administrator is constantly swamped by fake spam-bot registrations, your registration unfortunately will not be activated unless you reply to this message with some indication that you are a legitimate user of the board and not a malevolent tinned-meat dispenser.  The administrator's job is typically rather dull, so perhaps a joke would seem convincing, plus cheer him/her up at the same time?
 
-Thank you for registering.
+Also, please do not forget your password as it has been encrypted in our database and we cannot retrieve it for you. However, should you forget your password you can request a new one which will be activated in the same way as this account.
+
+Sleep well, and thank you for registering.
 
 {EMAIL_SIG}
