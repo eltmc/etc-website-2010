@@ -26,17 +26,17 @@ newest Babies, Bumps and Toddlers group and since then the group has
 gone from strength to strength.  The group meets on Mondays from
 10am-11:30am every week.</p>
 
-<p><strong>Oxgangs</strong>, the longest established twin group in
-Edinburgh, providing a welcoming, relaxed and supportive atmosphere
-for all twin mums (including those at bump stage) and carers. It meets
-every Thursday from 10-11:30am at the Oxgangs Neighbourhood Centre,
-Firrhill Drive (Tel:0131 441 7558), and has a number of regulars and a
-wide age-group from teeny babies through to pre-schoolers.  There are
-plenty of toys to keep your children amused (ie kitchens, trikes,
-slides, tunnels), soft mats and bouncy chairs for babies and high
-chairs available.  The friendly staff in the centre help with teas and
-coffees.  We also have a selection of books for mums which can be lent
-our during sessions.  </p>
+<p>The <strong>Oxgangs</strong> group is the longest established twin
+group in Edinburgh, providing a welcoming, relaxed and supportive
+atmosphere for all twin mums (including those at bump stage) and
+carers. It meets every Thursday from 10-11:30am at the Oxgangs
+Neighbourhood Centre, Firrhill Drive (Tel:0131 441 7558), and has a
+number of regulars and a wide age-group, from teeny babies through to
+pre-schoolers. There are plenty of toys to keep your children amused
+(i.e. kitchens, trikes, slides, tunnels).  Soft mats and bouncy chairs
+for babies and high chairs are available and the friendly staff in the
+centre can provide tea, coffee and snacks.  Plus, we also have a
+selection of books for mums which can be lent our during sessions.</p>
 
 
 <p> The <strong>South Queensferry</strong> group meets every Friday
