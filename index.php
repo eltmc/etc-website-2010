@@ -45,7 +45,7 @@
               <li>Expecting twins? Maybe your babies have arrived?
               Come along to <b><a
               href="http://www.edinburghtwins.co.uk/groups/">First
-              Years</a></b> 8pm on the first Wednesday of every month.
+              Year's</a></b> 8pm on the first Wednesday of every month.
               Next meeting: Wednesday 3rd June.</li><br>
 
               <li>If you have tried to register for the <a

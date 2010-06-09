@@ -9,18 +9,21 @@
     <div id="content">
     <h1 class="header">Groups</h1>
 
-<p> We have three regular Babies, Bumps and Toddler Groups held in
-Oxgangs, South Queensferry and St Stephens church hall, Comely Bank.
-Each group costs &pound;2 per family. If you are expecting multiples
-it is well worth popping along to your nearest group and chatting to
-the those who already have twins or more.  It is also a chance to see
-which pushchairs are the easiest to handle! All the groups are very
-happy to welcome new multiple families.  More information about the
-groups is shown below.  For locations and directions please see the
-groups <a href="http://www.edinburghtwins.co.uk//groups/map">map</a>.
+<h2>Babies, Bumps and Toddlers groups</h2>
+
+<p> There are several Babies Bumps and Toddlers groups based around
+Edinburgh and Lothian.  Each group costs &pound;2 per family. If you
+are expecting multiples it is well worth popping along to your nearest
+group and chatting to the those who already have twins or more.  It is
+also a chance to see which pushchairs are the easiest to handle! All
+the groups are very happy to welcome new multiple families.  
+
+More information about individual groups follows.  For locations and
+directions please see the <a
+href="http://www.edinburghtwins.co.uk/groups/map">groups map</a>.
 </p>
 
-<p> We had a successful trial meeting at St Stephens Church hall,
+<p>We had a successful trial meeting at St Stephens Church hall,
 <strong>Comely Bank</strong> on Monday 18th February 2008, of our
 newest Babies, Bumps and Toddlers group and since then the group has
 gone from strength to strength.  The group meets on Mondays from
@@ -43,7 +46,7 @@ selection of books for mums which can be lent our during sessions.</p>
 morning from 10am-noon at the Scout Hut in Port Edgar, South
 Queensferry.  There is an area for babies with soft toys and baby
 seats.  For the toddlers there are a selection of books, toy trains
-and cars, pushchairs and dolls, pushalong toys, and climb on/in toys
+and cars, pushchairs and dolls, push-along toys, and climb on/in toys
 such as slides, see-saws, cars and trikes.  Mums, dads and carers can
 have a chat with a tea or coffee and a biscuit (with high chairs for
 the babies), while the little ones play.  We also have a special table
@@ -51,18 +54,54 @@ and chairs for the little ones so they can enjoy a drink and biscuit
 too.  Outside we have access to an enclosed grass area overlooking the
 Fourth, where the children can play during the summer.  </p>
 
-<p> The <strong>First Years Group</strong> meets in the Parentcraft
-Room at St Johns Hospital, Livingston, from 8-10pm on the first
-Wednesday of every month.  This group is for pregnant parents and
-parents in their first year of raising multiples.  Feel free to bring
-your babies and we'll help while we chat.  We have different speakers
-and topics every month (equipment for the first year, birth
-experiences, weaning, buggies and prams etc).  This is a good chance
-to meet other people at the same stage and talk to multiple mums
-who've been there already and can give advice and support.  There is
-some more info in this Word <a
+<p>The <strong>Joppa</strong> group was restarted in 2008 and meets on
+Mondays at 10am in St Philip's church hall.</p>
+
+
+<h2>First Years groups</h2>
+
+<p>There are now two <strong>First Years groups</strong> these are for
+pregnant parents and parents in their first year of raising
+multiples. Please bring your babies and we'll help while we chat. We
+sometimes have speakers and there is the opportunity to meet others at
+the same stage and talk to multiple mums who've been there but whose
+children are sleeping so they can concentrate! We hope to make it a
+relaxed and open resource. Don't worry about turning up late!<p>
+
+<p>Topics for speakers include such things as:</p>
+
+<ul>
+<li>equipment for the first year,
+<li>birth experiences, 
+<li>sleep,
+<li>weaning,
+<li>slings,
+<li>buggies and prams.
+</ul>
+
+<p>These groups offer a good chance to meet other people at the same
+stage, and talk to multiple mums who've been there already and can
+give advice and support. <!--More information in this Word <a
 href="http://www.edinburghtwins.co.uk/documents/First_Years.doc">document</a>.
-</p>
+</p>-->
+
+
+<p><strong>St John's First Years Groups</strong> is the original one,
+and meets in the Parentcraft Room at St John's Hospital,
+Livingston, from 8.00-10.00pm on the first Wednesday of every
+month.</p>
+
+<p>A new <strong>Oxgangs First Years Group</strong> has started in
+addition to the other one. This group meets at Oxgangs Neighbourhood
+Centre (where the Oxgangs "Babies Bumps and Toddlers" Group meets) on
+the second Tuesday of every month, from 8.00-9.30pm (please see the <a
+href="http://www.edinburghtwins.co.uk/messageboard/viewforum.php?f=7">First
+Years message board</a> for address and directions/buses). This runs
+very similar topics to the established First Years Group at
+St. John's.</p>
+
+
+<h2>Other groups</h2>
 
 <p> There are several other groups we know about, but which are not
 run by Edinburgh Twins Club.  They are all fantastic places to meet
@@ -93,8 +132,6 @@ merrier". So wherever you are in Central Scotland, bring your babies,
 bumps or toddlers and meet some friendly mums who've been through it
 all!  </p>
 
-<p>The <strong>Joppa</strong> group was restarted in 2008 and meets on
-Mondays at 10am in St Philip's church hall.</p>
 
     </div>
     <div class="clear">
