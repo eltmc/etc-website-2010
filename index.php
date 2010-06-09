@@ -45,8 +45,9 @@
               <li>Expecting twins? Maybe your babies have arrived?
               Come along to <b><a
               href="http://www.edinburghtwins.co.uk/groups/">First
-              Year's</a></b> 8pm on the first Wednesday of every month.
-              Next meeting: Wednesday 3rd June.</li><br>
+              Year's</a></b> 8pm on the first Wednesday of every
+              month.  Next meetings: Wednesday 7th July (St John's)
+              and Tuesday 13th July (Oxgangs).</li><br>
 
               <li>If you have tried to register for the <a
               href="http://www.edinburghtwins.co.uk/messageboard">messageboard</a>
