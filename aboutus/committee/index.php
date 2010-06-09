@@ -69,7 +69,7 @@ taking money, paying for the hall, and giving the Treasurer an account
 of ins and outs.  There are also posters to make sometimes and forms
 to print.</p>
 
-<p><strong>Coordinators for First-Years groups (currently at St John's
+<p><strong>Coordinators for First-Year's groups (currently at St John's
 hospital and Oxgangs)</strong> The role exists to run these
 educational/social evening groups for prospective parents and parents
 of multiples in their first year.  The aim is to arrange to have

@@ -58,9 +58,9 @@ Fourth, where the children can play during the summer.  </p>
 Mondays at 10am in St Philip's church hall.</p>
 
 
-<h2>First Years groups</h2>
+<h2>First Year's groups</h2>
 
-<p>There are now two <strong>First Years groups</strong> these are for
+<p>There are now two <strong>First Year's groups</strong> these are for
 pregnant parents and parents in their first year of raising
 multiples. Please bring your babies and we'll help while we chat. We
 sometimes have speakers and there is the opportunity to meet others at
@@ -86,18 +86,18 @@ href="http://www.edinburghtwins.co.uk/documents/First_Years.doc">document</a>.
 </p>-->
 
 
-<p><strong>St John's First Years Groups</strong> is the original one,
+<p><strong>St John's First Year's Groups</strong> is the original one,
 and meets in the Parentcraft Room at St John's Hospital,
 Livingston, from 8.00-10.00pm on the first Wednesday of every
 month.</p>
 
-<p>A new <strong>Oxgangs First Years Group</strong> has started in
+<p>A new <strong>Oxgangs First Year's Group</strong> has started in
 addition to the other one. This group meets at Oxgangs Neighbourhood
 Centre (where the Oxgangs "Babies Bumps and Toddlers" Group meets) on
 the second Tuesday of every month, from 8.00-9.30pm (please see the <a
 href="http://www.edinburghtwins.co.uk/messageboard/viewforum.php?f=7">First
-Years message board</a> for address and directions/buses). This runs
-very similar topics to the established First Years Group at
+Year's message board</a> for address and directions/buses). This runs
+very similar topics to the established First Year's Group at
 St. John's.</p>
 
 
