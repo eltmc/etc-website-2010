@@ -18,12 +18,6 @@ event locations.</p>
 href="mailto:social@edinburghtwins.co.uk">social@edinburghtwins.co.uk</a></p>
 
  
-<h2>Edinburgh Twins Club Sponsored Walk 2010</h2>
-
-<p>Saturday 5th June - over the Forth Road Bridge (and back!) Open to
-all members of the twins club. No minimum sponsorship required - just
-come along and enjoy the view across the Forth!</p>
- 
 <h2>Mums' and dads' night out</h2>
 
 <p>Come and shoot some bowls, have a drink, a laugh and a good natter
