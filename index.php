@@ -42,10 +42,6 @@
               Newsletter and further information about the Christmas
               Event and Toy Sale will be in the Summer newsletter</li><br>
 
-              <li><b>NOTE:</b> Comley Bank Toddler Group will be
-              <b>closed on Monday 31st May and will reopen on Monday
-              7th June.</b></li><br>
-
               <li>Expecting twins? Maybe your babies have arrived?
               Come along to <b><a
               href="http://www.edinburghtwins.co.uk/groups/">First
