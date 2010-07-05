@@ -34,16 +34,16 @@
           <p>
             <center><b>Announcements</b></center><br/>
             <ul>
-              <li>South Queensferry Group will be closed on <b>Friday
-              30th July and Friday 13th August</b>.  There is a an
+              <li><b>South Queensferry Group</b> will be closed on <b>Friday
+              30th July and Friday 13th August 2010</b>.  There is a an
               outing to Mill Farm planned for Friday 30th July,
               meeting around 10.30am. If you would like to come along
               please contact Michelle on <a
               href="mailto:sqf@edinburghtwins.co.uk">sqf@edinburghtwins.co.uk</a></li><br>
 
               <li>Put the dates of the <b>Nearly New Sale, 11th
-              September</b> and the <b>Christmas Event, 6th
-              November</b> in your diary. You will find details of the
+              September 2010</b> and the <b>Christmas Event, 6th
+              November 2010</b> in your diary. You will find details of the
               registration for the September sale in your May
               Newsletter and further information about the Christmas
               Event and Toy Sale will be in the Summer newsletter</li><br>
