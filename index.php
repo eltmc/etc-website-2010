@@ -35,6 +35,10 @@
             <center><b>Announcements</b></center><br/>
             <ul>
 
+              <li><b>Come and join us for our Summer Fair</b>,
+              Saturday 21st August 2010, at the Scout Hall, South
+              Queensferry. See the <a href="/events">events</a> page for more details.</li><br>
+
               <li><b>First Year's Group Tuesday 13th July 2010</b> -
               DADS' NIGHT - Oxgangs Neighbourhood Centre is <b>closed
               for two weeks</b> beginning 5th July, so our First
