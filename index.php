@@ -35,6 +35,14 @@
             <center><b>Announcements</b></center><br/>
             <ul>
 
+              <li>Join us for a night of fun on our <b>Bowling Night
+              on 15 July 2010</b> at Edinburgh Fountain Park.  Our
+              lane has been booked for 8:30pm but we need to be there
+              for <b>8:15pm</b> to be kitted up! Email Donna if you
+              can attend, ASAP: <a
+              href="mailto:social@edinburghtwins.co.uk">social@edinburghtwins.co.uk</a></li><br>
+
+
               <li><b>Come and join us for our Summer Fair</b>,
               Saturday 21st August 2010, at the Scout Hall, South
               Queensferry. See the <a href="/events">events</a> page for more details.</li><br>

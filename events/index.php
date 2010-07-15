@@ -23,8 +23,12 @@ href="mailto:social@edinburghtwins.co.uk">social@edinburghtwins.co.uk</a></p>
 <p>Come and shoot some bowls, have a drink, a laugh and a good natter
 at Fountainpark Tenpin bowling alley on Dundee Street, Edinburgh.</p>
 
-<p>Meet on Thursday 15th July at 8pm or after.</p>
- 
+<p>Meet on Thursday 15th July - our lane has been booked for 8:30pm
+but we need to be there for 8:15pm to be kitted up!</p>
+
+<p>Email Donna if you can attend, ASAP: <a
+href="mailto:social@edinburghtwins.co.uk">social@edinburghtwins.co.uk</a></p>
+
 <h2>Summer Fair: 21st August 2010</h2>
 
 <p>Come along and have fun at our annual Summer Fair!  Stands
