@@ -42,16 +42,6 @@
               <li>The next <b>Oxgangs First Year's Group</b> is on
               <b>Tuesday 10th August 2010</b></li><br>
 
-              <li><b>Oxgangs BB&amp;T Group</b> will be meeting at
-              local parks (weather permitting) on <b>8th and 15th July
-              2010</b>, also due to Oxgangs Neighbourhood Centre closing
-              for two weeks for its summer break. It will be up and
-              running as usual on 22nd July but in the meantime if you
-              want to join them check the message board for details
-              (in the <a
-              href="http://www.edinburghtwins.co.uk/messageboard/viewforum.php?f=5">Things
-              To Do</a> forum)</li><br>
-
               <li><b>South Queensferry Group</b> will be closed on <b>Friday
               30th July and Friday 13th August 2010</b>.  There is a an
               outing to Mill Farm planned for Friday 30th July,
