@@ -39,16 +39,8 @@
               Saturday 21st August 2010, at the Scout Hall, South
               Queensferry. See the <a href="/events">events</a> page for more details.</li><br>
 
-              <li><b>First Year's Group Tuesday 13th July 2010</b> -
-              DADS' NIGHT - Oxgangs Neighbourhood Centre is <b>closed
-              for two weeks</b> beginning 5th July, so our First
-              Year's Group this month is being held at <a
-              href="http://www.emberinns.co.uk/thehunterstrystedinburgh/">Hunters
-              Tryst pub</a>, Oxgangs, Edinburgh!  (<a
-              href="http://maps.google.co.uk/maps?cid=3150241578610453791">map</a>). For
-              more details, see this <a
-              href="http://www.edinburghtwins.co.uk/messageboard/viewtopic.php?f=7&t=224">messageboard
-              post</a>.</li><br>
+              <li>The next <b>Oxgangs First Year's Group</b> is on
+              <b>Tuesday 10th August 2010</b></li><br>
 
               <li><b>Oxgangs BB&amp;T Group</b> will be meeting at
               local parks (weather permitting) on <b>8th and 15th July
