@@ -42,12 +42,8 @@
               <li>The next <b>Oxgangs First Year's Group</b> is on
               <b>Tuesday 10th August 2010</b></li><br>
 
-              <li><b>South Queensferry Group</b> will be closed on <b>Friday
-              30th July and Friday 13th August 2010</b>.  There is a an
-              outing to Mill Farm planned for Friday 30th July,
-              meeting around 10.30am. If you would like to come along
-              please contact Michelle on <a
-              href="mailto:sqf@edinburghtwins.co.uk">sqf@edinburghtwins.co.uk</a></li><br>
+              <li><b>South Queensferry Group</b> will be closed on
+              <b>Friday 13th August 2010</b>.</li><br>
 
               <li>Put the dates of the <b>Nearly New Sale, 11th
               September 2010</b> and the <b>Christmas Event, 6th
