@@ -33,8 +33,8 @@ include:</p>
    <li>Face Painting</li>
    <li>Home Baking</li>
    <li>Toys & Books</li>
+   <li><a href="http://www.smallp.co.uk/">Smallprint</a> jewellery</li>
  </ul>
-
 
 <p>Saturday 21st August 2010, 10.30am to 1.30pm, at the <a
 href="http://maps.google.co.uk/maps?q=EH30+9SQ">Scout Hall, Port
@@ -56,6 +56,17 @@ for the postal address.</a>
 href="/messageboard/viewtopic.php?f=5&t=197">announcement</a> and
 -->this <a href="/messageboard/viewtopic.php?f=5&t=197">call for
 stallholders.</a></p>
+
+<h3>Vendor information</h3>
+
+<h4>Smallprint: <a href="http://www.smallp.co.uk/">www.smallp.co.uk</a></h4>
+
+<p>Children's silver fingerprint jewellery. Smallprint offers all
+TAMBA members (with valid membership details) a buy-one-get-one-free
+discount on their first order - further details can be gained by
+emailing Karen on <a
+href="mailto:karen@smallp.co.uk">karen@smallp.co.uk</a></p>
+
 
     </div>
     <div class="clear">
