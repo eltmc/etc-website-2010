@@ -32,7 +32,7 @@ include:</p>
    <li>Tombola</li>
    <li>Face Painting</li>
    <li>Home Baking</li>
-   <li>Toys & Books5B</li>
+   <li>Toys & Books</li>
  </ul>
 
 
