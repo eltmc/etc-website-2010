@@ -35,16 +35,6 @@
             <center><b>Announcements</b></center><br/>
             <ul>
 
-              <li><b>Come and join us for our Summer Fair</b>,
-              Saturday 21st August 2010, at the Scout Hall, South
-              Queensferry. See the <a href="/events">events</a> page for more details.</li><br>
-
-              <li>The next <b>Oxgangs First Year's Group</b> is on
-              <b>Tuesday 10th August 2010</b></li><br>
-
-              <li><b>South Queensferry Group</b> will be closed on
-              <b>Friday 13th August 2010</b>.</li><br>
-
               <li>Put the dates of the <b>Nearly New Sale, 11th
               September 2010</b> and the <b>Christmas Event, 6th
               November 2010</b> in your diary. You will find details of the
