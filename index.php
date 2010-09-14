@@ -35,6 +35,10 @@
             <center><b>Announcements</b></center><br/>
             <ul>
 
+              <li>Join us for a night of creativity at <b>Doodles
+              Ceramic Experience, September 16th, 8pm</b>... see the
+              <a href="events">events page</a> for full details</li><br>
+
               <li>Keep the date of the <b>Christmas Event, 6th
               November 2010</b> in your diary. You will find further
               information about the Christmas Event and Toy Sale in
