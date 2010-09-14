@@ -35,10 +35,6 @@
             <center><b>Announcements</b></center><br/>
             <ul>
 
-              <li><b>Nearly New Sale, 11th September 2010<b> - another
-              chance to get a bargain.  See the <a
-              href="events">Events page</a> for details.</li><br>
-
               <li>Keep the date of the <b>Christmas Event, 6th
               November 2010</b> in your diary. You will find further
               information about the Christmas Event and Toy Sale in
