@@ -18,8 +18,11 @@ event locations.</p>
 href="mailto:social@edinburghtwins.co.uk">social@edinburghtwins.co.uk</a></p>
 
 
-<h2>Doodles Ceramic Experience: September 16th, 8pm</h2>
+<h2>Doodles Ceramic Experience: September 16th, 8pm - <b>CANCELLED</b></h2>
 
+<p><i>Unfortunately this has been called off due to insufficient interest.</i></p>
+
+<div style="text-decoration: line-through;">
 <p><i>Donna says:</i> Join us for a night of creativity... Or, if you are as artistic as me, maybe just an evening of fun with the chance to relax.</p>
 
 <p>Please let me know if you are able to make it ASAP so I can make sure that we have space booked!</p>
@@ -34,7 +37,7 @@ href="mailto:social@edinburghtwins.co.uk">social@edinburghtwins.co.uk</a></p>
   <span>Not for kids, just adults!</span><br>
 
 </p> 
-
+</div>
     </div>
     <div class="clear">
       <br />
