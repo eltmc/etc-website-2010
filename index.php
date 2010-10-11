@@ -35,6 +35,11 @@
             <center><b>Announcements</b></center><br/>
             <ul>
 
+              <li><b>GOT THE LAST NEWSLETTER? No? Check your
+              membership.</b> See <a
+              href="http://www.edinburghtwins.co.uk/messageboard/viewtopic.php?f=3&t=327">this
+              notice</a> </li><br>
+
               <li>Keep the date of the <b>Christmas Event, 6th
               November 2010</b> in your diary. You will find further
               information about the Christmas Event and Toy Sale in
