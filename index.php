@@ -40,10 +40,8 @@
               href="http://www.edinburghtwins.co.uk/messageboard/viewtopic.php?f=3&t=327">this
               notice</a> </li><br>
 
-              <li>Keep the date of the <b>Christmas Event, 6th
-              November 2010</b> in your diary. You will find further
-              information about the Christmas Event and Toy Sale in
-              the Summer newsletter</li><br>
+              <li>The <b>Christmas Event and Toy Sale</b> approaches, on Saturday 6th
+              November 2010. See the <a href="events">events</a> page for details.</li><br>
 
               <li>Expecting twins? Maybe your babies have arrived?
               Come along to <b><a
