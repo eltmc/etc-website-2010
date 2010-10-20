@@ -54,10 +54,11 @@
               messageboard.</li><br>
 
 
-              <li>We've updated the <b><a
+              <li>And don't forget the regular <b>Babies, Bumps and
+              Toddler</b> groups! See the <b><a
               href="http://www.edinburghtwins.co.uk/groups">Groups</a></b>
-              page to include non-ETC babies, bumps and toddler
-              groups</li><br>
+              page for details, including information about
+              non-Twins-Club babies, bumps and toddler groups</li><br>
 
             </ul>
           </p>
