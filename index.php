@@ -54,11 +54,6 @@
               messageboard.</li><br>
 
 
-              <li>If you have tried to register for the <a
-              href="http://www.edinburghtwins.co.uk/messageboard">messageboard</a>
-              and haven't had your account activated, please email
-              your username to webmaster@edinburghtwins.co.uk</li><br>
-
               <li>We've updated the <b><a
               href="http://www.edinburghtwins.co.uk/groups">Groups</a></b>
               page to include non-ETC babies, bumps and toddler
