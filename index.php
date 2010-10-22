@@ -18,8 +18,7 @@
         a membership of over 150 families - the largest in
         Scotland!</p>
         
-        <p>Last year we celebrated 30 years since the club
-        started.</p>
+        <p>In 2008 we celebrated 30 years since the club started.</p>
         
         <p>Come on in and take a look around.  If there is anything
         you need from our old website, you can still find it <a
