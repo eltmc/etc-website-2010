@@ -50,10 +50,10 @@
               <li>Expecting twins? Maybe your babies have arrived?
               Come along to <b><a
               href="http://www.edinburghtwins.co.uk/groups/#FirstYears">First
-              Year's</a></b> 8pm on the first Wednesday of every month
-              at Oxgangs Neighbourhood Centre, or the second Tuesday
-              in St John's Hospital, Livingston.  Watch for
-              announcements of upcoming meetings on our <a
+              Year's</a> group</b>, at 8pm on the first Wednesday of
+              the month in St John's Hospital, Livingston, or 8pm on
+              the second Tuesday at Oxgangs Neighbourhood Centre.
+              Watch for announcements of upcoming meetings on our <a
               href="/messageboard/viewforum.php?f=7">First Years</a>
               messageboard.</li><br>
 
