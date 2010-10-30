@@ -20,6 +20,52 @@ event locations.</p>
 href="mailto:social@edinburghtwins.co.uk">social@edinburghtwins.co.uk</a></p>
 
 
+<h2>Annual Dinner at Vittoria's On The Bridge: Saturday 13th November, 8pm</h2>
+
+
+
+<p>Back by popular demand! We welcome all of you to join us for a cosy
+chatty meal to mark our <b>Annual Dinner 2010</b>.  We have chosen an
+informal annual dinner setting and have booked a table at
+<b>Vittoria's Italian Restaurant</b> on George IV Bridge at <b>8pm on
+Saturday, 13th November 2010</b>.</p>
+
+<p>Mums and Dads welcome (but we know how much a babysitter costs so call
+in those favours!)</p>
+
+<p>Do get a group of you together - either friends or from our toddler
+groups - and come and join us for a well deserved night out!  If you
+have any questions, reply to the announcement on our <a
+href="http://www.edinburghtwins.co.uk/messageboard/viewtopic.php?f=3&t=335">message
+board</a>.</p> 
+
+<p>This venue is much talked about as those that went last time had a
+lovely evening - let's have another one! Looking forward to seeing you
+there - and as always don't worry about coming late (we also all know
+what bedtime can be like) - just come!</p>
+
+
+<p style="margin-left: 2em">
+
+  <b>Where:</b>
+  <span><a href="http://www.vittoriarestaurant.com/onthebridge/">Vittoria's Italian Restaurant</a>, 
+        19, George IV Bridge, Edinburgh EH1 1EE
+        (<a href="http://maps.google.co.uk/maps/place?cid=13030650945809251764">map &amp; phone number</a>).</span><br>
+  <span style="padding-left: 5em;">Walkable from Edinburgh Waverley;
+        Buses 23, 27, 45, 41, 42, and 67.</span><br>
+  <b>When:</b>
+  <span>8pm on Saturday, 13th November 2010</span><br>
+  <b>Deposit:</b>
+  <span>&pound;10 by Friday 5th November 2010</span><br>
+  <span style="padding-left: 5em;">contact Sue-Ella 
+  <a href="mailto:chair@edinburghtwins.co.uk">chair@edinburghtwins.co.uk</a> 
+  or Donna 
+  <a href="social@edinburghtwins.co.uk">social@edinburghtwins.co.uk</a>.</span><br>
+
+</p> 
+
+
+
 <h2>Baby and Toddler Toy and Christmas Event Sale: Saturday November 6th, 10am</h2>
 
 <p>Come along and browse for all your Christmas bargains! There will
