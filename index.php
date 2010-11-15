@@ -39,16 +39,6 @@
               href="http://www.edinburghtwins.co.uk/messageboard/viewtopic.php?f=3&t=327">this
               notice</a> </li><br>
 
-              <li>The <b>Christmas Event and Toy Sale</b> approaches, on Saturday 6th
-              November 2010. See the <a href="events">events</a> page for details.</li><br>
-
-              <li>Please come to our <b>Annual Twins Club Dinner</b>
-              on the <b>13th November 2010</b>. Again see the <a
-              href="events">events</a> page and the announcement on
-              our <a
-              href="http://www.edinburghtwins.co.uk/messageboard/viewtopic.php?f=3&t=335">message
-              board</a> for details.</li><br>
-
               <li>Save the date for the <b>Twins Club Christmas Party
               on the 4th December 2010</b> - all welcome, details to
               follow shortly.</li><br>
