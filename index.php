@@ -34,14 +34,17 @@
             <center><b>Announcements</b></center><br/>
             <ul>
 
-              <li><b>GOT THE LAST NEWSLETTER? No? Check your
+              <li><b>BOOK NOW</b> for the <b>Twins Club Christmas
+              Party on the 4th December 2010</b>! All welcome, full
+              details are on the <a href="events">events</a> page, see
+              also this post on the <a
+              href="http://www.edinburghtwins.co.uk/messageboard/viewtopic.php?f=5&t=357">messsage
+              board</a>.</li><br>
+
+              <li><b>Got the last newsletter? No? Check your
               membership.</b> See <a
               href="http://www.edinburghtwins.co.uk/messageboard/viewtopic.php?f=3&t=327">this
               notice</a> </li><br>
-
-              <li>Save the date for the <b>Twins Club Christmas Party
-              on the 4th December 2010</b> - all welcome, details to
-              follow shortly.</li><br>
 
               <li>Expecting twins? Maybe your babies have arrived?
               Come along to <b><a
