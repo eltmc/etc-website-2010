@@ -22,6 +22,9 @@ href="mailto:social@edinburghtwins.co.uk">social@edinburghtwins.co.uk</a></p>
 
 <h2>Christmas Party! Murrayfield Parish Church Hall, 4 December 2010</h2>
 
+<div>
+<img style="float: left; clear: none; margin-right: 1em;" src="../images/xmas-party_come-join-us.jpeg">
+<div style="clear: none">
 <p><b>Ho! Ho! Ho!</b> Join us for a morning of fun at the <b>Edinburgh Twins and
 Multiples Club Christmas Party!</b></p>
 
@@ -48,7 +51,8 @@ before November 24th to ensure Santa has time to prepare!</b></p>
   by Wednesday 24th November 2010.</span><br>
 
 </p> 
-
+</div>
+</div>
 
     </div>
     <div class="clear">
