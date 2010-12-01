@@ -34,6 +34,13 @@
             <center><b>Announcements</b></center><br/>
             <ul>
 
+              <li>Next <b><a
+              href="/messageboard/viewtopic.php?f=3&t=364">Oxgangs
+              twins club is cancelled</a> this 2nd December</b> - due
+              to weather and dangerous driving conditions.  Hope you
+              are surviving this crazy weather!</li><br>
+
+
               <li><b>BOOK NOW</b> for the <b>Twins Club Christmas
               Party on the 4th December 2010</b>! All welcome, full
               details are on the <a href="events">events</a> page, see
