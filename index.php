@@ -40,11 +40,11 @@
               Friday 3rd December</a></b>.  Sorry!</li><br>
 
 
-              <li><b>BOOK NOW</b> for the <b>Twins Club Christmas
-              Party on the 4th December 2010</b>! All welcome, full
-              details are on the <a href="events">events</a> page, see
-              also this post on the <a
-              href="http://www.edinburghtwins.co.uk/messageboard/viewtopic.php?f=5&t=357">messsage
+              <li>Also <b>CANCELLED DUE TO SEVERE WEATHER:</b> The
+              <b>Twins Club Christmas Party</b>, which was scheduled
+              for the 4th December 2010.  For more details see the <a
+              href="events">events</a> page and this post on the <a
+              href="http://www.edinburghtwins.co.uk/messageboard/viewtopic.php?f=5&t=367">messsage
               board</a>.</li><br>
 
               <li><b>Got the last newsletter? No? Check your

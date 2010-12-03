@@ -24,11 +24,35 @@ event locations.</p>
 href="mailto:social@edinburghtwins.co.uk">social@edinburghtwins.co.uk</a></p>
 
 
-<h2>Christmas Party! Murrayfield Parish Church Hall, 4 December 2010</h2>
+<h2>Christmas Party! Murrayfield Parish Church Hall, 4 December 2010 - <b>CANCELLED</b></h2>
 
 <div>
+
+<p><b>It is with much regret that due to the severe weather conditions,
+we have had to make the difficult decision this morning to cancel the
+Christmas party scheduled on the 4th December 2010.</b></p>
+
+<p>We are very sorry and hope you don't have too many disappointed
+little people!!!</p>
+ 
+<p>With regards to the cheques we have received. None of them have
+been banked therefore we will destroy the cheques unless we hear
+otherwise from anyone who would like them returned. If you paid cash,
+we will arrange for a refund to be sent to you.</p>
+ 
+<p>On a happier note we are organising a ceilidh in the new year for
+the children (February) so hope you will all be able to make
+it. Details will be available shortly!</p>
+ 
+<p>Hope you all have a lovely Christmas and we see you in the new year
+if not before!</p>
+ 
+<p>Best Wishes, Sue Ella, Vicki and Donna</p>
+
+
 <img style="float: left; clear: none; margin-right: 1em;" src="../images/xmas-party_come-join-us.jpeg">
-<div style="clear: none">
+<div style="clear: none" class="cancelled">
+
 <p><b>Ho! Ho! Ho!</b> Join us for a morning of fun at the <b>Edinburgh Twins and
 Multiples Club Christmas Party!</b></p>
 
