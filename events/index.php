@@ -4,7 +4,11 @@
         include('../includes/header.inc');
     include('../includes/sidebar.inc');
 ?>
-
+<style>
+.cancelled {
+      text-decoration: line-through;
+}
+</style>
     </div>
     <div id="content">
     <h1 class="header">Events</h1>
