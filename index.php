@@ -39,14 +39,6 @@
               href="/messageboard/viewtopic.php?f=3&t=366">closed on
               Friday 3rd December</a></b>.  Sorry!</li><br>
 
-
-              <li>Also <b>CANCELLED DUE TO SEVERE WEATHER:</b> The
-              <b>Twins Club Christmas Party</b>, which was scheduled
-              for the 4th December 2010.  For more details see the <a
-              href="events">events</a> page and this post on the <a
-              href="http://www.edinburghtwins.co.uk/messageboard/viewtopic.php?f=5&t=367">messsage
-              board</a>.</li><br>
-
               <li><b>Got the last newsletter? No? Check your
               membership.</b> See <a
               href="http://www.edinburghtwins.co.uk/messageboard/viewtopic.php?f=3&t=327">this
