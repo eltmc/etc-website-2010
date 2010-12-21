@@ -34,12 +34,6 @@
             <center><b>Announcements</b></center><br/>
             <ul>
 
-              <li>Yet again this week: due to bad weather conditions
-              <b>South Queensferry Baby, Bumps and Toddlers group</b>
-              will be <b><a
-              href="/messageboard/viewtopic.php?f=3&t=375">closed on
-              Friday 10th December</a></b>.  Sorry!</li><br>
-
               <li><b>Got the last newsletter? No? Check your
               membership.</b> See <a
               href="http://www.edinburghtwins.co.uk/messageboard/viewtopic.php?f=3&t=327">this
