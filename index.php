@@ -33,6 +33,9 @@
           <p>
             <center><b>Announcements</b></center><br/>
             <ul>
+            
+              <li>South Queensferry Baby Bumps and Toddlers group
+              will be closed on Friday 24th December.</li><br>
 
               <li>Apologies! <b>The Winter Newsletter will be
               delayed.</b> Please see the announcement on the
