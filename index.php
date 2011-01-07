@@ -33,10 +33,11 @@
           <p>
             <center><b>Announcements</b></center><br/>
             <ul>
-            
-              <li>South Queensferry Baby Bumps and Toddlers group
-              will be closed on Friday 24th December.</li><br>
 
+              <li>Join us for the very first <b>Kids Ceilidh: Saturday
+              26th February, 10am - 12am</b> see the <a
+              href="events">Events page</a> for details.</li><br>
+            
               <li><b>MEMBERSHIP UPDATE:</b> Membership administration
               is closed for the holidays. Membership packs for new
               members and updated cards for renewing members will be
