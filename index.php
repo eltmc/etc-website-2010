@@ -47,14 +47,6 @@
               26th February, 10am - 12am</b> see the <a
               href="events">Events page</a> for details.</li><br>
             
-              <li><b>MEMBERSHIP UPDATE:</b> Membership administration
-              is closed for the holidays. Membership packs for new
-              members and updated cards for renewing members will be
-              sent out the week commencing 3rd January 2011. The
-              membership secretary can still be contacted via e-mail
-              at <a
-              href="mailto:membership@edinburghtwins.co.uk">membership@edinburghtwins.co.uk</a></li><br>
-
               <li>Apologies! <b>The Winter Newsletter will be
               delayed.</b> Please see the announcement on the
               messageboard <a
