@@ -34,6 +34,10 @@
             <center><b>Announcements</b></center><br/>
             <ul>
 
+              <li>From Friday 18th February the <b>South Queensferry
+              Group will be relocating</b> - see the <a href="groups">Groups
+              page</a></li><br>
+
               <li>Join us for the very first <b>Kids Ceilidh: Saturday
               26th February, 10am - 12am</b> see the <a
               href="events">Events page</a> for details.</li><br>

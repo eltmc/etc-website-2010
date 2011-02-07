@@ -42,17 +42,30 @@ centre can provide tea, coffee and snacks.  Plus, we also have a
 selection of books for mums which can be lent our during sessions.</p>
 
 
-<p> The <strong>South Queensferry</strong> group meets every Friday
-morning from 10am-noon at the Scout Hut in Port Edgar, South
-Queensferry.  There is an area for babies with soft toys and baby
-seats.  For the toddlers there are a selection of books, toy trains
-and cars, pushchairs and dolls, push-along toys, and climb on/in toys
-such as slides, see-saws, cars and trikes.  Mums, dads and carers can
-have a chat with a tea or coffee and a biscuit (with high chairs for
-the babies), while the little ones play.  We also have a special table
-and chairs for the little ones so they can enjoy a drink and biscuit
-too.  Outside we have access to an enclosed grass area overlooking the
-Fourth, where the children can play during the summer.  </p>
+<p>The <strong>South Queensferry</strong> group currently meets every
+Friday morning from 10am-noon at the Scout Hut in Port Edgar, South
+Queensferry (although see below).  There is an area for babies with
+soft toys and baby seats.  For the toddlers there are a selection of
+books, toy trains and cars, pushchairs and dolls, push-along toys, and
+climb on/in toys such as slides, see-saws, cars and trikes.  Mums,
+dads and carers can have a chat with a tea or coffee and a biscuit
+(with high chairs for the babies), while the little ones play.  We
+also have a special table and chairs for the little ones so they can
+enjoy a drink and biscuit too.  Outside we have access to an enclosed
+grass area overlooking the Fourth, where the children can play during
+the summer.  </p>
+
+<p>However, from <b>Friday 18th February 2011, the South Queensferry
+Group will be relocating to St Thomas&apos;s Church, Glasgow Road,
+Edinburgh, EH12 8LJ <a
+href="http://maps.google.co.uk/maps/place?cid=7326416247164003070">(map)</a>.</b>
+The new premises are conveniently located to support families from the
+surrounding areas, both within and out with the West side of
+Edinburgh.  The group will run on Fridays 9.30am - 11.30am.  Parking
+and access to the group can be found to the rear of St Thomas&apos;s.
+(Take the opening for David Lloyd after the church, then first left
+into car park.  Access to the hall through gate at far end of car
+park.)</p>
 
 <p>The <strong>Joppa</strong> group was restarted in 2008 and meets on
 Mondays at 10am in St Philip's church hall.</p>
