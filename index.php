@@ -34,15 +34,6 @@
             <center><b>Announcements</b></center><br/>
             <ul>
 
-              <li>There will be a <b>Strategy Meeting on Thursday 27th
-              January 2011, 8pm - 9.30pm at Oxgangs Neighbourhood
-              Centre</b>: all members welcome to attend. We plan to
-              discuss many key issues including how best to support
-              our membership. See <a
-              href="http://www.edinburghtwins.co.uk/messageboard/viewtopic.php?f=3&t=407">this
-              post</a> for more details.</li><br>
-
-
               <li>Join us for the very first <b>Kids Ceilidh: Saturday
               26th February, 10am - 12am</b> see the <a
               href="events">Events page</a> for details.</li><br>
