@@ -102,8 +102,8 @@
         return marker;
       }
 
-var point  = new GPoint(dataSiteLongObj['South-Queensferry'],dataSiteLatObj['South-Queensferry']);
-var marker = createMarker(point,"South-Queensferry","South-Queensferry");
+var point  = new GPoint(dataSiteLongObj['West-Edinburgh'],dataSiteLatObj['West-Edinburgh']);
+var marker = createMarker(point,"West-Edinburgh","West-Edinburgh");
 map.addOverlay(marker);
 var point  = new GPoint(dataSiteLongObj['Oxgangs'],dataSiteLatObj['Oxgangs']);
 var marker = createMarker(point,"Oxgangs","Oxgangs");
