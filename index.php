@@ -38,15 +38,6 @@
               Group will be relocating</b> - see the <a href="groups">Groups
               page</a></li><br>
 
-              <li>Join us for the very first <b>Kids Ceilidh: Saturday
-              26th February, 10am - 12am</b> see the <a
-              href="events">Events page</a> for details.</li><br>
-            
-              <li>Apologies! <b>The Winter Newsletter will be
-              delayed.</b> Please see the announcement on the
-              messageboard <a
-              href="/messageboard/viewtopic.php?f=3&t=382">here</a>.</li><br>
-
               <li><b>Got the last newsletter? No? Check your
               membership.</b> See <a
               href="http://www.edinburghtwins.co.uk/messageboard/viewtopic.php?f=3&t=327">this
