@@ -62,23 +62,44 @@ Mondays at 10am in St Philip's church hall.</p>
 
 <h2><a name="FirstYears"></a>First Year's groups</h2>
 
-<p>There are now two <strong>First Year's groups</strong> these are for
-pregnant parents and parents in their first year of raising
-multiples. Please bring your babies and we'll help while we chat. We
-sometimes have speakers and there is the opportunity to meet others at
-the same stage and talk to multiple mums who've been there but whose
-children are sleeping so they can concentrate! We hope to make it a
-relaxed and open resource. Don't worry about turning up late!<p>
+<p>There are now two <strong>First Year's groups</strong> - these are
+for pregnant parents and parents in their first year of raising
+multiples.</p>
 
-<p>Topics for speakers include such things as:</p>
+<p>Following the survey in early 2011, from <b>2nd March 2011</b>
+First Years will run on the <b>first Wednesday of each month,
+8.00-10.00pm</b>,
+<i>alternating</i> between Oxgangs Neighbourhood Centre in Edinburgh
+and St John's Hospital.</p>
+
+<p>We will be there from 8pm. Tea, coffee or soft drinks are
+provided. There is always lots of time for questions and advice as we
+go along. Feel free to bring your babies and dads are always welcome
+too. Latecomers welcome!</p>
+
+<p><b>Oxgangs First Year's Group meets at Oxgangs Neighbourhood
+Centre.</b> This is located at 71 Firrhill Drive, EH13 9EU (<a
+href="http://maps.google.co.uk/maps/place?cid=4151846121787784878">map</a>)</b>.
+
+<p><b>St John's First Year's Groups meets in the Parentcraft Room.</b>
+This is located in OPD3 next to the maternity entrance, on the ground
+floor at St John's Hospital at Howden, Livingston, EH54 6PP (<a
+href="http://maps.google.co.uk/maps/place?ftid=0x4887d9565f2fa69b:0x1c5397685847df36">map</a>).</p>
+
+<p>Please see the <a
+href="http://www.edinburghtwins.co.uk/messageboard/viewforum.php?f=7">First
+Year's message board</a> for address and directions/buses.</p>
+
+
+<p>Topics and venues are as follows:</p>
 
 <ul>
-<li>equipment for the first year,
-<li>birth experiences, 
-<li>sleep,
-<li>weaning,
-<li>slings,
-<li>buggies and prams.
+<li>March - <b>HELP (Childcare & Support)</b> <i>(Oxgangs)</i>
+<li>April - <b>Weaning / Feeding</b> <i>(St Johns)</i>
+<li>May - <b>Childhood Illnesses</b> <i>(Oxgangs)</i>
+<li>June - <b>Routines & Sleep</b> <i>(St Johns)</i>
+<li>July - <i>NO FIRST YEARS</i>
+<li>August - <b>Development</b> <i>(St Johns)</i>
 </ul>
 
 <p>These groups offer a good chance to meet other people at the same
@@ -86,21 +107,6 @@ stage, and talk to multiple mums who've been there already and can
 give advice and support. <!--More information in this Word <a
 href="http://www.edinburghtwins.co.uk/documents/First_Years.doc">document</a>.
 </p>-->
-
-
-<p><strong>St John's First Year's Groups</strong> is the original one,
-and meets in the Parentcraft Room at St John's Hospital,
-Livingston, from 8.00-10.00pm on the first Wednesday of every
-month.</p>
-
-<p>A new <strong>Oxgangs First Year's Group</strong> has started in
-addition to the other one. This group meets at Oxgangs Neighbourhood
-Centre (where the Oxgangs "Babies Bumps and Toddlers" Group meets) on
-the second Tuesday of every month, from 8.00-9.30pm (please see the <a
-href="http://www.edinburghtwins.co.uk/messageboard/viewforum.php?f=7">First
-Year's message board</a> for address and directions/buses). This runs
-very similar topics to the established First Year's Group at
-St. John's.</p>
 
 
 <h2>Other groups</h2>

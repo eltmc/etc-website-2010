@@ -34,6 +34,14 @@
             <center><b>Announcements</b></center><br/>
             <ul>
 
+              <li>Following the recent survey, from 2nd March 2011,
+              <b>First Years now will run on the first Wednesday of
+              each month, alternating between Oxgangs Neighbourhood
+              Centre in Edinburgh and St John's Hospital.</b> See the
+              <a href="groups/index.php#FirstYears">groups page</a>
+              for more details and directions.</li><br>
+
+
               <li>From Friday 18th February the <b>South Queensferry
               Group will be relocating</b> - see the <a href="groups">Groups
               page</a></li><br>
