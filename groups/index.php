@@ -54,7 +54,7 @@ href="http://maps.google.co.uk/maps/place?cid=7326416247164003070">map)</a>.
 <p>Parking and access to the group can be found to the rear of St
 Thomas&apos;s.  (Take the opening for David Lloyd after the church,
 then first left into car park.  Access to the hall through gate at far
-end of car park.)</p>)
+end of car park.)</p>
 
 <p>The <strong>Joppa</strong> group was restarted in 2008 and meets on
 Mondays at 10am in St Philip's church hall.</p>
