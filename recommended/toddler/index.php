@@ -1,7 +1,7 @@
 [%
     SET title = "Edinburgh Twins Club :: Recommended - Toddler";
     SET root = "../../";
-        INCLUDE '../../includes/header.inc';
+    INCLUDE '../../includes/header.inc';
     INCLUDE '../../includes/sidebar.inc';
 %]
 

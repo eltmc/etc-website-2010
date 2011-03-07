@@ -95,7 +95,7 @@ map.addOverlay(marker);
 [%
     SET title = "Edinburgh Twins Club :: Groups - Map";
     SET root = "../../";
-        INCLUDE '../../includes/header.inc';
+    INCLUDE '../../includes/header.inc';
     INCLUDE '../../includes/sidebar.inc';
 %]
 

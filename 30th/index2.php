@@ -1,7 +1,7 @@
 [%
     SET title = "Edinburgh and Lothians Twins and Multiples Club :: 30th Celebrations";
     SET root = "../";
-        INCLUDE '../includes/header.inc';
+    INCLUDE '../includes/header.inc';
     INCLUDE '../includes/sidebar.inc';
 %]
 

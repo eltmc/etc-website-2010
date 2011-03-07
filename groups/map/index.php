@@ -130,7 +130,7 @@ map.addOverlay(marker);
       [%
     SET title = "Edinburgh and Lothians Twins and Multiples Club :: Groups - Map";
     SET root = "../../";
-        INCLUDE '../../includes/header.inc';
+    INCLUDE '../../includes/header.inc';
     INCLUDE '../../includes/sidebar.inc';
       %]
     </div>
