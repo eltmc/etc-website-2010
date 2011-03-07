@@ -6,11 +6,11 @@
     <link rel="shortcut icon" href="img/favicon.png" />
     <meta name="MSSmartTagsPreventParsing" content="true" />
     <meta name="ROBOTS" content="ALL" />
-    <title><? echo $title; ?></title>
+    <title>[% title %]</title>
   </head>
   <body>
 
       
       <div class="pagetitle">
-      <a href="/"><img src="<? echo "$root"; ?>graphics/twinslogo7.gif" height=140 alt="Edinburgh and Lothians Twin Club" /></a><hr>
+      <a href="/"><img src="[% root %]graphics/twinslogo7.gif" height=140 alt="Edinburgh and Lothians Twin Club" /></a><hr>
       </div>

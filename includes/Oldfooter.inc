@@ -1,9 +1,9 @@
 <div id="footer">
-	<? $showibm = 0; if($showibm == 1) { ?>
+	[% SET showibm = 0; IF showibm == 1 %]
 		<a href="http://egee-intranet.web.cern.ch/egee-intranet/gateway.html"><img src="graphics/EGEElogo.jpg" alt="EGEE" /></a>&nbsp;&nbsp;&nbsp;<a href="http://www.ibm.com/"><img src="graphics/ibmlogohome.gif" alt="IBM" /></a><br />
-	<? } ?>
+	[% END %]
     
-	<img src="<? echo $root; ?>graphics/scotgridsmall.png" alt="ScotGrid Logo" /><br />
+	<img src="[% root %]graphics/scotgridsmall.png" alt="ScotGrid Logo" /><br />
 	<a href="http://www.gridpp.ac.uk">A member of GridPP</a>
 	<hr />
 	<a href="http://validator.w3.org/check/referer">Valid XHTML 1.0 Strict</a> | 
