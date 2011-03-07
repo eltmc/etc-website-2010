@@ -1,8 +1,8 @@
 <?
         $title="Edinburgh Twins Club :: About Us - How it started";
         $root = "../../";
-        include('../../includes/header.inc');
-    include('../../includes/sidebar.inc');
+        INCLUDE '../../includes/header.inc';
+    INCLUDE '../../includes/sidebar.inc';
 ?>
 
     </div>
@@ -28,4 +28,4 @@ Aileen Crosbie
     <div class="clear">
       <br />
     </div>
-<? include('../../includes/footer.inc'); ?>
+<? INCLUDE '../../includes/footer.inc'; ?>

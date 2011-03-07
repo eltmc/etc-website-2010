@@ -1,8 +1,8 @@
 <?
         $title="Edinburgh Twins Club :: Tips - Out and About";
         $root = "../../";
-        include('../../includes/header.inc');
-    include('../../includes/sidebar.inc');
+        INCLUDE '../../includes/header.inc';
+    INCLUDE '../../includes/sidebar.inc';
 ?>
 
     </div>
@@ -25,4 +25,4 @@ The Creche at Ainslie Park Leisure Pool is very good and accepts
     <div class="clear">
       <br />
     </div>
-<? include('../../includes/footer.inc'); ?>
+<? INCLUDE '../../includes/footer.inc'; ?>

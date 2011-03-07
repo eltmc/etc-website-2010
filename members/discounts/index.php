@@ -1,8 +1,8 @@
 <?
         $title="Edinburgh and Lothians Twins and Multiples Club :: Members - Discounts";
         $root = "../../";
-        include('../../includes/header.inc');
-    include('../../includes/sidebar.inc');
+        INCLUDE '../../includes/header.inc';
+    INCLUDE '../../includes/sidebar.inc';
 ?>
 
     </div>
@@ -41,4 +41,4 @@ I am mainly helping small businesses and start ups to develop their marketing.  
     <div class="clear">
       <br />
     </div>
-<? include('../../includes/footer.inc'); ?>
+<? INCLUDE '../../includes/footer.inc'; ?>

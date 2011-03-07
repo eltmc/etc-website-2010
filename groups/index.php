@@ -1,8 +1,8 @@
 <?
         $title="Edinburgh Twins Club :: Groups";
         $root = "../";
-        include('../includes/header.inc');
-    include('../includes/sidebar.inc');
+        INCLUDE '../includes/header.inc';
+    INCLUDE '../includes/sidebar.inc';
 ?>
 
     </div>
@@ -145,4 +145,4 @@ all!  </p>
     <div class="clear">
       <br />
     </div>
-<? include('../includes/footer.inc'); ?>
+<? INCLUDE '../includes/footer.inc'; ?>

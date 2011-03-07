@@ -1,8 +1,8 @@
 <?
         $title="Edinburgh and Lothians Twins and Multiples Club :: Members - Newsletters";
         $root = "../../";
-        include('../../includes/header.inc');
-    include('../../includes/sidebar.inc');
+        INCLUDE '../../includes/header.inc';
+    INCLUDE '../../includes/sidebar.inc';
 ?>
 
     </div>
@@ -33,4 +33,4 @@ Every quarter members recieve a newsletter from the club.  These are also availa
     <div class="clear">
       <br />
     </div>
-<? include('../../includes/footer.inc'); ?>
+<? INCLUDE '../../includes/footer.inc'; ?>

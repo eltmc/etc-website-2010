@@ -1,8 +1,8 @@
 <?
         $title="Edinburgh Twins Club :: About Us - The Committee";
         $root = "../../";
-        include('../../includes/header.inc');
-    include('../../includes/sidebar.inc');
+        INCLUDE '../../includes/header.inc';
+    INCLUDE '../../includes/sidebar.inc';
 ?>
 
     </div>
@@ -89,4 +89,4 @@ accounts.  Setup and maintain the club email accounts.</p>
     <div class="clear">
       <br />
     </div>
-<? include('../../includes/footer.inc'); ?>
+<? INCLUDE '../../includes/footer.inc'; ?>

@@ -1,8 +1,8 @@
 <?
         $title="Edinburgh and Lothians Twins and Multiples Club :: 30th Celebrations";
         $root = "../";
-        include('../includes/header.inc');
-    include('../includes/sidebar.inc');
+        INCLUDE '../includes/header.inc';
+    INCLUDE '../includes/sidebar.inc';
 ?>
 
     </div>
@@ -62,4 +62,4 @@ To celebrate the club's 30th aniversary we are pleased to announce a very specia
     <div class="clear">
       <br />
     </div>
-<? include('../includes/footer.inc'); ?>
+<? INCLUDE '../includes/footer.inc'; ?>

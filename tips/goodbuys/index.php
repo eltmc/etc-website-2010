@@ -1,8 +1,8 @@
 <?
         $title="Edinburgh Twins Club :: Tips - Good Buys";
         $root = "../../";
-        include('../../includes/header.inc');
-    include('../../includes/sidebar.inc');
+        INCLUDE '../../includes/header.inc';
+    INCLUDE '../../includes/sidebar.inc';
 ?>
 
     </div>
@@ -28,4 +28,4 @@ Boots extra long bath mats are large enough to sit two safely
     <div class="clear">
       <br />
     </div>
-<? include('../../includes/footer.inc'); ?>
+<? INCLUDE '../../includes/footer.inc'; ?>

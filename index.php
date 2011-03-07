@@ -1,8 +1,8 @@
 <?
         $title="Edinburgh Twins Club :: Homepage";
         $root = "";
-        include('includes/header.inc');
-    include('includes/sidebar.inc');
+        INCLUDE 'includes/header.inc';
+    INCLUDE 'includes/sidebar.inc';
 ?>
 
     </div>
@@ -92,4 +92,4 @@
     <div class="clear">
       <br />
     </div>
-<? include('includes/footer.inc'); ?>
+<? INCLUDE 'includes/footer.inc';! ?>

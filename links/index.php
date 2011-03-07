@@ -1,8 +1,8 @@
 <?
         $title="Edinburgh Twins Club :: Links";
         $root = "../";
-        include('../includes/header.inc');
-    include('../includes/sidebar.inc');
+        INCLUDE '../includes/header.inc';
+    INCLUDE '../includes/sidebar.inc';
 ?>
 
     </div>
@@ -85,4 +85,4 @@ Excellent community site to catch up with other parents
     <div class="clear">
       <br />
     </div>
-<? include('../includes/footer.inc'); ?>
+<? INCLUDE '../includes/footer.inc'; ?>

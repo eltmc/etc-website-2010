@@ -1,8 +1,8 @@
 <?
         $title="Edinburgh Twins Club :: Recommended - Pregnancy";
         $root = "../../";
-        include('../../includes/header.inc');
-    include('../../includes/sidebar.inc');
+        INCLUDE '../../includes/header.inc';
+    INCLUDE '../../includes/sidebar.inc';
 ?>
 
     </div>
@@ -27,4 +27,4 @@ Twins and Multiple Births by Carol Cooper (the Tamba Bible) very informative and
     <div class="clear">
       <br />
     </div>
-<? include('../../includes/footer.inc'); ?>
+<? INCLUDE '../../includes/footer.inc'; ?>

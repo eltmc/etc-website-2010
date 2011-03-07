@@ -1,8 +1,8 @@
 <?
         $title="Edinburgh Twins Club :: Recommended - General";
         $root = "../../";
-        include('../../includes/header.inc');
-    include('../../includes/sidebar.inc');
+        INCLUDE '../../includes/header.inc';
+    INCLUDE '../../includes/sidebar.inc';
 ?>
 
     </div>
@@ -19,4 +19,4 @@ Rachael recommends Identical Stragers - "An adult book that's a great read: Iden
     <div class="clear">
       <br />
     </div>
-<? include('../../includes/footer.inc'); ?>
+<? INCLUDE '../../includes/footer.inc'; ?>

@@ -1,8 +1,8 @@
 <?
         $title="Edinburgh and Lothians Twins and Multiples Club :: Join";
         $root = "../";
-        include('../includes/header.inc');
-    include('../includes/sidebar.inc');
+        INCLUDE '../includes/header.inc';
+    INCLUDE '../includes/sidebar.inc';
 ?>
 
     </div>
@@ -32,4 +32,4 @@ Download <a href="http://www.edinburghtwins.co.uk/documents/application-form.pdf
     <div class="clear">
       <br />
     </div>
-<? include('../includes/footer.inc'); ?>
+<? INCLUDE '../includes/footer.inc'; ?>
