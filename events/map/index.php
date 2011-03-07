@@ -131,20 +131,18 @@ map.addOverlay(marker);
   <body onload="onLoad()">
       <div class="pagetitle">
       </div>
-      [%
+[%
     SET title = "Edinburgh Twins Club :: Events - Map";
     SET root = "../../";
-        INCLUDE '../../includes/header.inc';
+    INCLUDE '../../includes/header.inc';
     INCLUDE '../../includes/sidebar.inc';
-      %]
+%]
     </div>
     <h1 class="header">Map of Event Locations</h1>
     <div id="map" style="width: 600px; height: 400px" border="1"></div>
     <div id="message"></div>
 <br><br>The above map shows all our event locations.  Click on a balloon for more information about meeting times, and directions. Double click on the map to zoom in on a location.<br><br>
-[%
-    INCLUDE '../../includes/footer.inc';
-      %]
+[% INCLUDE '../../includes/footer.inc'; %]
 </div>
   </body>
 </html>
