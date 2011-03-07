@@ -132,8 +132,8 @@ map.addOverlay(marker);
       <div class="pagetitle">
       </div>
       [%
-        $title="Edinburgh Twins Club :: Events - Map";
-        $root = "../../";
+    SET title = "Edinburgh Twins Club :: Events - Map";
+    SET root = "../../";
         include('../../includes/header.inc');
     include('../../includes/sidebar.inc');
       %]

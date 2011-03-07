@@ -24,8 +24,8 @@
   </head>
   <body onload="load()" onunload="GUnload()">
 [%
-        $title="Edinburgh Twins Club :: Groups - Map";
-        $root = "../../";
+    SET title = "Edinburgh Twins Club :: Groups - Map";
+    SET root = "../../";
         INCLUDE '../../includes/header.inc';
     INCLUDE '../../includes/sidebar.inc';
 %]

@@ -1,6 +1,6 @@
 [%
-        $title="Edinburgh Twins Club :: Tips - General";
-        $root = "../../";
+    SET title = "Edinburgh Twins Club :: Tips - General";
+    SET root = "../../";
         INCLUDE '../../includes/header.inc';
     INCLUDE '../../includes/sidebar.inc';
 %]

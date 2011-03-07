@@ -1,6 +1,6 @@
 [%
-        $title="Edinburgh and Lothians Twins and Multiples Club :: Committee - Reports";
-        $root = "../../";
+    SET title = "Edinburgh and Lothians Twins and Multiples Club :: Committee - Reports";
+    SET root = "../../";
         INCLUDE '../../includes/header.inc';
     INCLUDE '../../includes/sidebar.inc';
 %]

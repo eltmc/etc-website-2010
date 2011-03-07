@@ -128,8 +128,8 @@ map.addOverlay(marker);
       <div class="pagetitle">
       </div>
       [%
-        $title="Edinburgh and Lothians Twins and Multiples Club :: Groups - Map";
-        $root = "../../";
+    SET title = "Edinburgh and Lothians Twins and Multiples Club :: Groups - Map";
+    SET root = "../../";
         INCLUDE '../../includes/header.inc';
     INCLUDE '../../includes/sidebar.inc';
       %]
