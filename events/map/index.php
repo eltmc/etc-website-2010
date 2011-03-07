@@ -134,8 +134,8 @@ map.addOverlay(marker);
       [%
     SET title = "Edinburgh Twins Club :: Events - Map";
     SET root = "../../";
-        include('../../includes/header.inc');
-    include('../../includes/sidebar.inc');
+        INCLUDE '../../includes/header.inc';
+    INCLUDE '../../includes/sidebar.inc';
       %]
     </div>
     <h1 class="header">Map of Event Locations</h1>
@@ -143,7 +143,7 @@ map.addOverlay(marker);
     <div id="message"></div>
 <br><br>The above map shows all our event locations.  Click on a balloon for more information about meeting times, and directions. Double click on the map to zoom in on a location.<br><br>
 [%
-    include('../../includes/footer.inc');
+    INCLUDE '../../includes/footer.inc';
       %]
 </div>
   </body>
