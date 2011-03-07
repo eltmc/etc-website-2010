@@ -1,9 +1,9 @@
-<?
+[%
         $title="Edinburgh Twins Club :: Tips - General";
         $root = "../../";
         INCLUDE '../../includes/header.inc';
     INCLUDE '../../includes/sidebar.inc';
-?>
+%]
 
     </div>
     <div id="content">
@@ -29,4 +29,4 @@ If things are getting on top of you phone someone from
     <div class="clear">
       <br />
     </div>
-<? INCLUDE '../../includes/footer.inc'; ?>
+[% INCLUDE '../../includes/footer.inc'; %]

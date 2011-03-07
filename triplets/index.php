@@ -1,9 +1,9 @@
-<?
+[%
         $title="Edinburgh Twins Club :: Triplets";
         $root = "../";
         INCLUDE '../includes/header.inc';
     INCLUDE '../includes/sidebar.inc';
-?>
+%]
 
     </div>
     <div id="content">
@@ -31,4 +31,4 @@ PS:See the <a href="http://www.edinburghtwins.co.uk/events">Events</a> page for 
     <div class="clear">
       <br />
     </div>
-<? INCLUDE '../includes/footer.inc'; ?>
+[% INCLUDE '../includes/footer.inc'; %]

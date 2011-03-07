@@ -1,9 +1,9 @@
-<?
+[%
         $title="Edinburgh Twins Club :: Recommended - Books for Children";
         $root = "../../";
         INCLUDE '../../includes/header.inc';
     INCLUDE '../../includes/sidebar.inc';
-?>
+%]
 
     </div>
     <div id="content">
@@ -18,4 +18,4 @@
     <div class="clear">
       <br />
     </div>
-<? INCLUDE '../../includes/footer.inc'; ?>
+[% INCLUDE '../../includes/footer.inc'; %]

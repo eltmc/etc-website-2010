@@ -1,9 +1,9 @@
-<?
+[%
         $title="Edinburgh Twins Club :: Tips - Good Buys";
         $root = "../../";
         INCLUDE '../../includes/header.inc';
     INCLUDE '../../includes/sidebar.inc';
-?>
+%]
 
     </div>
     <div id="content">
@@ -28,4 +28,4 @@ Boots extra long bath mats are large enough to sit two safely
     <div class="clear">
       <br />
     </div>
-<? INCLUDE '../../includes/footer.inc'; ?>
+[% INCLUDE '../../includes/footer.inc'; %]

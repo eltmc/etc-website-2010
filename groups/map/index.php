@@ -127,20 +127,20 @@ map.addOverlay(marker);
   <body onload="onLoad()">
       <div class="pagetitle">
       </div>
-      <?
+      [%
         $title="Edinburgh and Lothians Twins and Multiples Club :: Groups - Map";
         $root = "../../";
         INCLUDE '../../includes/header.inc';
     INCLUDE '../../includes/sidebar.inc';
-      ?>
+      %]
     </div>
     <h1 class="header">Map of Regular Group Locations</h1>
     <div id="map" style="width: 600px; height: 400px"></div>
     <div id="message"></div>
 <br><br>The above map shows all our regular group meeting locations.  Babies, Bumps and Toddler groups are marked with green balloons.  The First Years group is marked in yellow.  Click on a balloon for more information about meeting times, and directions. Double click on the map to zoom in on a location.<br><br>
-<?
+[%
     INCLUDE '../../includes/footer.inc';
-      ?>
+      %]
 </div>
   </body>
 </html>

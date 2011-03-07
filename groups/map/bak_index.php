@@ -23,12 +23,12 @@
     </script>
   </head>
   <body onload="load()" onunload="GUnload()">
-<?
+[%
         $title="Edinburgh Twins Club :: Groups - Map";
         $root = "../../";
         INCLUDE '../../includes/header.inc';
     INCLUDE '../../includes/sidebar.inc';
-?>
+%]
 
     </div>
     <div id="content">
@@ -43,7 +43,7 @@
     <div class="clear">
       <br />
     </div>
-<? INCLUDE '../../includes/footer.inc'; ?>
+[% INCLUDE '../../includes/footer.inc'; %]
 
 
 

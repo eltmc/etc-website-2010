@@ -1,9 +1,9 @@
-<?
+[%
         $title="Edinburgh and Lothians Twins and Multiples Club :: Members - Newsletters";
         $root = "../../";
         INCLUDE '../../includes/header.inc';
     INCLUDE '../../includes/sidebar.inc';
-?>
+%]
 
     </div>
     <div id="content">
@@ -33,4 +33,4 @@ Every quarter members recieve a newsletter from the club.  These are also availa
     <div class="clear">
       <br />
     </div>
-<? INCLUDE '../../includes/footer.inc'; ?>
+[% INCLUDE '../../includes/footer.inc'; %]

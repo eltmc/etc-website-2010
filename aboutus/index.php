@@ -1,9 +1,9 @@
-<?
+[%
         $title="Edinburgh Twins Club :: About Us";
         $root = "../";
         INCLUDE '../includes/header.inc';
     INCLUDE '../includes/sidebar.inc';
-?>
+%]
 
     </div>
     <div id="content">
@@ -31,4 +31,4 @@ The ethos of the club is to bring together and support those blessed with the ar
     <div class="clear">
       <br />
     </div>
-<? INCLUDE '../includes/footer.inc'; ?>
+[% INCLUDE '../includes/footer.inc'; %]

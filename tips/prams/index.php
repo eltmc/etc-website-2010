@@ -1,9 +1,9 @@
-<?
+[%
         $title="Edinburgh Twins Club :: Tips - Prams";
         $root = "../../";
         INCLUDE '../../includes/header.inc';
     INCLUDE '../../includes/sidebar.inc';
-?>
+%]
 
     </div>
     <div id="content">
@@ -28,4 +28,4 @@ Triplets - use a double buggy with a front or back pack.</p>
     <div class="clear">
       <br />
     </div>
-<? INCLUDE '../../includes/footer.inc'; ?>
+[% INCLUDE '../../includes/footer.inc'; %]
