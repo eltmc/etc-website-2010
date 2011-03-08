@@ -1,8 +1,8 @@
 [%
     SET title = "Edinburgh and Lothians Twins and Multiples Club :: Members - Discounts";
     SET root = "../../";
-    INCLUDE '../../includes/header.inc';
-    INCLUDE '../../includes/sidebar.inc';
+    INCLUDE 'header.inc';
+    INCLUDE 'sidebar.inc';
 %]
 
     </div>
@@ -41,4 +41,4 @@ I am mainly helping small businesses and start ups to develop their marketing.  
     <div class="clear">
       <br />
     </div>
-[% INCLUDE '../../includes/footer.inc'; %]
+[% INCLUDE 'footer.inc'; %]

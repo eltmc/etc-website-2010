@@ -1,8 +1,8 @@
 [%
     SET title = "Edinburgh Twins Club :: Triplets";
     SET root = "../";
-    INCLUDE '../includes/header.inc';
-    INCLUDE '../includes/sidebar.inc';
+    INCLUDE 'header.inc';
+    INCLUDE 'sidebar.inc';
 %]
 
     </div>
@@ -31,4 +31,4 @@ PS:See the <a href="http://www.edinburghtwins.co.uk/events">Events</a> page for 
     <div class="clear">
       <br />
     </div>
-[% INCLUDE '../includes/footer.inc'; %]
+[% INCLUDE 'footer.inc'; %]

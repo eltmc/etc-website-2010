@@ -1,8 +1,8 @@
 [%
     SET title = "Edinburgh Twins Club :: Events";
     SET root = "../";
-    INCLUDE '../includes/header.inc';
-    INCLUDE '../includes/sidebar.inc';
+    INCLUDE 'header.inc';
+    INCLUDE 'sidebar.inc';
 %]
 <style>
 .cancelled {
@@ -50,4 +50,4 @@ href="http://www.ceilidhkids.com">www.ceilidhkids.com</a></p>
     <div class="clear">
       <br />
     </div>
-[% INCLUDE '../includes/footer.inc'; %]
+[% INCLUDE 'footer.inc'; %]

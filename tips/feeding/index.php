@@ -1,8 +1,8 @@
 [%
     SET title = "Edinburgh Twins Club :: Tips - Feeding";
     SET root = "../../";
-    INCLUDE '../../includes/header.inc';
-    INCLUDE '../../includes/sidebar.inc';
+    INCLUDE 'header.inc';
+    INCLUDE 'sidebar.inc';
 %]
 
     </div>
@@ -37,4 +37,4 @@ Wash, sterilise and fill the bottle with boiled water, 1.5
     <div class="clear">
       <br />
     </div>
-[% INCLUDE '../../includes/footer.inc'; %]
+[% INCLUDE 'footer.inc'; %]

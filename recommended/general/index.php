@@ -1,8 +1,8 @@
 [%
     SET title = "Edinburgh Twins Club :: Recommended - General";
     SET root = "../../";
-    INCLUDE '../../includes/header.inc';
-    INCLUDE '../../includes/sidebar.inc';
+    INCLUDE 'header.inc';
+    INCLUDE 'sidebar.inc';
 %]
 
     </div>
@@ -19,4 +19,4 @@ Rachael recommends Identical Stragers - "An adult book that's a great read: Iden
     <div class="clear">
       <br />
     </div>
-[% INCLUDE '../../includes/footer.inc'; %]
+[% INCLUDE 'footer.inc'; %]

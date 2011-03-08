@@ -1,8 +1,8 @@
 [%
     SET title = "Edinburgh and Lothians Twins and Multiples Club :: Members - Newsletters";
     SET root = "../../";
-    INCLUDE '../../includes/header.inc';
-    INCLUDE '../../includes/sidebar.inc';
+    INCLUDE 'header.inc';
+    INCLUDE 'sidebar.inc';
 %]
 
     </div>
@@ -33,4 +33,4 @@ Every quarter members recieve a newsletter from the club.  These are also availa
     <div class="clear">
       <br />
     </div>
-[% INCLUDE '../../includes/footer.inc'; %]
+[% INCLUDE 'footer.inc'; %]

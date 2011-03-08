@@ -1,8 +1,8 @@
 [%
     SET title = "Edinburgh Twins Club :: About Us - How it started";
     SET root = "../../";
-    INCLUDE '../../includes/header.inc';
-    INCLUDE '../../includes/sidebar.inc';
+    INCLUDE 'header.inc';
+    INCLUDE 'sidebar.inc';
 %]
 
     </div>
@@ -28,4 +28,4 @@ Aileen Crosbie
     <div class="clear">
       <br />
     </div>
-[% INCLUDE '../../includes/footer.inc'; %]
+[% INCLUDE 'footer.inc'; %]

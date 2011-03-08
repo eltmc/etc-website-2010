@@ -1,8 +1,8 @@
 [%
     SET title = "Edinburgh Twins Club :: Groups";
     SET root = "../";
-    INCLUDE '../includes/header.inc';
-    INCLUDE '../includes/sidebar.inc';
+    INCLUDE 'header.inc';
+    INCLUDE 'sidebar.inc';
 %]
 
     </div>
@@ -145,4 +145,4 @@ all!  </p>
     <div class="clear">
       <br />
     </div>
-[% INCLUDE '../includes/footer.inc'; %]
+[% INCLUDE 'footer.inc'; %]

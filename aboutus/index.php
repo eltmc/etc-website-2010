@@ -1,8 +1,8 @@
 [%
     SET title = "Edinburgh Twins Club :: About Us";
     SET root = "../";
-    INCLUDE '../includes/header.inc';
-    INCLUDE '../includes/sidebar.inc';
+    INCLUDE 'header.inc';
+    INCLUDE 'sidebar.inc';
 %]
 
     </div>
@@ -31,4 +31,4 @@ The ethos of the club is to bring together and support those blessed with the ar
     <div class="clear">
       <br />
     </div>
-[% INCLUDE '../includes/footer.inc'; %]
+[% INCLUDE 'footer.inc'; %]

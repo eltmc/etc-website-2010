@@ -1,8 +1,8 @@
 [%
     SET title = "Edinburgh Twins Club :: Links";
     SET root = "../";
-    INCLUDE '../includes/header.inc';
-    INCLUDE '../includes/sidebar.inc';
+    INCLUDE 'header.inc';
+    INCLUDE 'sidebar.inc';
 %]
 
     </div>
@@ -85,4 +85,4 @@ Excellent community site to catch up with other parents
     <div class="clear">
       <br />
     </div>
-[% INCLUDE '../includes/footer.inc'; %]
+[% INCLUDE 'footer.inc'; %]
