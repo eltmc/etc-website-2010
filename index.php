@@ -92,4 +92,4 @@
     <div class="clear">
       <br />
     </div>
-[% INCLUDE 'includes/footer.inc';! %]
+[% INCLUDE 'includes/footer.inc'; %]
