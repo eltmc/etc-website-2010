@@ -11,6 +11,62 @@ use File::Find;
 use Data::Dumper;
 my $base_dir = File::Spec->abs2rel(abs_path "$Bin/../html");
 
+my $unreachable_whitelist = [
+    '../html/.htpasswd',
+    '../html/includes/footer.inc',
+    '../html/includes/header.inc',
+    '../html/includes/sidebar.inc',
+];
+
+
+my $problem_whitelist = {
+    '../html/events/index.html' => {
+        'mailto:social@edinburghtwins.co.uk' => { 
+            'non-http scheme' => 1,
+        },
+    },
+    '../html/flash.html' => {
+        'clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' => {
+            'non-http scheme' => 1,
+        }
+    },
+    '../html/index.html' => {
+        'messageboard/viewtopic.php?f=3&t=327' => {
+            'broken link' => 1
+        },
+        '/messageboard/viewforum.php?f=7' => {
+            'absolute path' => 1
+        },
+        'oldwebsite' => {
+            'broken link' => 1
+        }
+    },
+    '../html/groups/index.html' => {
+        '../messageboard/viewforum.php?f=7' => {
+            'broken link' => 1
+        }
+    },
+    '../html/messageboard.html' => {
+        'messageboard/' => {
+            'broken link' => 1
+        }
+    },
+    '../html/tips/goodbuys/index.html' => {
+        '../../messageboard' => {
+            'broken link' => 1
+        }
+    },
+    '../html/tips/prams/index.html' => {
+        '../../messageboard' => {
+            'broken link' => 1
+        }
+    },
+    '../html/triplets/index.html' => {
+        '../messageboard' => {
+            'broken link' => 1
+        }
+    },
+};
 
 my %PROBLEMS;
 my %SUBSCRIBERS;
@@ -93,7 +149,7 @@ sub classify_link {
     $uri = $uri->canonical;
 
     my $info = {
-        uri => $uri,
+        uri => "$uri",
     };
 
     if (my $scheme = $uri->scheme) {
@@ -102,13 +158,12 @@ sub classify_link {
             return $info;
         }
 
-        my $host = $uri->host;
-        if ($host) {
+        if ($uri->can('host') and my $host = $uri->host) {
             $info->{problem} = "absolute url linking to self"
                 if $host =~ /^(www[.])?\Qedinburghtwins.co.uk\E$/;
         }
         else {
-            $info->{problem} = "http scheme url with no host";
+            $info->{problem} = "scheme url with no host";
         }
         
         return $info;
@@ -146,7 +201,7 @@ sub classify_link {
 
 #    print "<$tag $attr>: $uri\n";
     return {
-        uri => URI->new($file_path),
+        uri => $file_path,
     };
 }
 
@@ -178,19 +233,20 @@ sub validate_html {
     $lx->parse($name);
     my $links = $lx->links;
 
-    my @problem_links;
+    my %problem_links;
     foreach my $link (@$links) {
         # skip "links" with no URI
         next 
             unless my $info = classify_link $dir, $link;
 
         # index links with a problem
-        if ($info->{problem}) {
-            push @problem_links, $info;
+        if (my $problem = $info->{problem}) {
+            my $uri = $info->{uri};
+            $problem_links{$uri}{$problem} = 1;
             next;
         }
 
-        my $target = $info->{uri};
+        my $target = URI->new($info->{uri});
 
         # Skip links with a schema, assumed to be absolute or 
         # external
@@ -203,7 +259,7 @@ sub validate_html {
     }
 
     # save the sorted list
-    $PROBLEMS{$name} = [sort { "".$a->{uri} cmp "".$b->{uri} } @problem_links];
+    $PROBLEMS{$name} = \%problem_links;
 }
 
 
@@ -218,13 +274,14 @@ find +{
 
 
 # Are there any problem links?    
-is_deeply \%PROBLEMS, {},
+my $problem_links = {map { my $p = $PROBLEMS{$_}; %$p? ($_ => $p) : () } keys %PROBLEMS}; 
+is_deeply $problem_links, $problem_whitelist,
     "no new problems"
-    or diag Dumper \%PROBLEMS;
+    or diag Dumper $problem_links;
 
 # Are there any unreachable files?
 my $unreachable = [grep {!%{  $SUBSCRIBERS{$_} } } sort keys %SUBSCRIBERS];
-is_deeply $unreachable, [], 
+is_deeply $unreachable, $unreachable_whitelist, 
     "no new unreachable files"
     or diag Dumper $unreachable;
 
