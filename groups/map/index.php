@@ -2,8 +2,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
-    <link rel="stylesheet" type="text/css" href="../css/global.css" />
-    <link rel="shortcut icon" href="../img/favicon.png" />
+    <link rel="stylesheet" type="text/css" href="../../css/global.css" />
+    [%# <link rel="shortcut icon" href="../img/favicon.png" /> %]
     <meta name="MSSmartTagsPreventParsing" content="true" />
     <meta name="ROBOTS" content="ALL" />
     <title>Edinburgh Twins Club :: Groups - Map</title>

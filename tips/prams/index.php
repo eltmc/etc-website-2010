@@ -9,7 +9,7 @@
     <div id="content">
     <h1 class="header">Tips - Prams</h1>
         <p><img src="../../images/pram.gif" width="35" height="35">
-Join the Twins and Multiples Club and buy a second hand pram through the <a href="http://www.edinburghtwins.co.uk/messageboard">messageboard</a> or in the Swap Shop in the quarterly Newsletter.</p>
+Join the Twins and Multiples Club and buy a second hand pram through the <a href="[% root %]messageboard">messageboard</a> or in the Swap Shop in the quarterly Newsletter.</p>
         <p><img src="../../images/pram.gif" width="35" height="35">
 Side-by-side buggies are good in as far as each child can
                   easily see where it is going and has plenty of legroom. Most

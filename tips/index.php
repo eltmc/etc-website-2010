@@ -14,12 +14,12 @@
               relatives and friends feel you should be doing. You know best and
               sometimes just trial and error will help you find what works for
               your family.</p>
-        <p>In addition to the pages below, there is a very useful set of tips in a Word document <a href="http://www.edinburghtwins.co.uk/documents/ETC_Top_Tips.doc">here</a></p>
-            <p> <a href="http://www.edinburghtwins.co.uk/tips/feeding">Feeding</a> </p>
-            <p><a href="http://www.edinburghtwins.co.uk/tips/outabout">Out and About</a></p>
-            <p><a href="http://www.edinburghtwins.co.uk/tips/prams">Prams and Buggies</a></p>
-            <p><a href="http://www.edinburghtwins.co.uk/tips/general">General</a></p>
-            <p><a href="http://www.edinburghtwins.co.uk/tips/goodbuys">Good Buys</a></p>
+        <p>In addition to the pages below, there is a very useful set of tips in a Word document <a href="[% root %]documents/ETC_Top_Tips.doc">here</a></p>
+            <p> <a href="feeding">Feeding</a> </p>
+            <p><a href="outabout">Out and About</a></p>
+            <p><a href="prams">Prams and Buggies</a></p>
+            <p><a href="general">General</a></p>
+            <p><a href="goodbuys">Good Buys</a></p>
     </div>
     <div class="clear">
       <br />

@@ -9,7 +9,7 @@
     <div id="content">
     <h1 class="header">Tips - Good Buys</h1>
         <p><img src="../../images/money.gif" width="35" height="35">
-Join the Twins and Multiples Club and buy things through the <a href="http://www.edinburghtwins.co.uk/messageboard">messageboard</a> and in the Swap Shop section in the quarterly Newsletter.</p>
+Join the Twins and Multiples Club and buy things through the <a href="[% root %]messageboard">messageboard</a> and in the Swap Shop section in the quarterly Newsletter.</p>
         <p><img src="../../images/money.gif" width="35" height="35">
 A freezer and microwave are very useful, especially when weaning
                   and for preparing food in advance for adults.</p>

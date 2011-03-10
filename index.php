@@ -22,7 +22,7 @@
         
         <p>Come on in and take a look around.  If there is anything
         you need from our old website, you can still find it <a
-        href="http://www.edinburghtwins.co.uk/oldwebsite">here</a>.
+        href="[% root %]oldwebsite">here</a>.
 
         <center>
         
@@ -38,7 +38,7 @@
               <b>First Years now will run on the first Wednesday of
               each month, alternating between Oxgangs Neighbourhood
               Centre in Edinburgh and St John's Hospital.</b> See the
-              <a href="groups/index.php#FirstYears">groups page</a>
+              <a href="groups/index.html#FirstYears">groups page</a>
               for more details and directions.</li><br>
 
 
@@ -48,12 +48,12 @@
 
               <li><b>Got the last newsletter? No? Check your
               membership.</b> See <a
-              href="http://www.edinburghtwins.co.uk/messageboard/viewtopic.php?f=3&t=327">this
+              href="[% root %]messageboard/viewtopic.php?f=3&t=327">this
               notice</a> </li><br>
 
               <li>Expecting twins? Maybe your babies have arrived?
               Come along to <b><a
-              href="http://www.edinburghtwins.co.uk/groups/#FirstYears">First
+              href="groups/#FirstYears">First
               Year's</a> group</b>, at 8pm on the first Wednesday of
               the month in St John's Hospital, Livingston, or 8pm on
               the second Tuesday at Oxgangs Neighbourhood Centre.
@@ -64,7 +64,7 @@
 
               <li>And don't forget the regular <b>Babies, Bumps and
               Toddler</b> groups! See the <b><a
-              href="http://www.edinburghtwins.co.uk/groups">Groups</a></b>
+              href="groups">Groups</a></b>
               page for details, including information about
               non-Twins-Club babies, bumps and toddler groups</li><br>
 

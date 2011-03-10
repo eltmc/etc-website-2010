@@ -20,12 +20,12 @@ If you join the Edinburgh Twins Club (for the small cost of £10 pa), you will g
   <li>Library of books and leaflets</li>
 </ul>        </p>
 <p>
-Download <a href="http://www.edinburghtwins.co.uk/documents/application-form.pdf">application form</a>
+Download <a href="[% root %]documents/application-form.pdf">application form</a>
 
 </p>
 <hr width=100% noshade size=1>
 <center>
-<img src="../graphics/photos/join.jpg" height=200 border=1>
+<img src="[% root %]graphics/photos/join.jpg" height=200 border=1>
 </center>
 <hr width=100% noshade size=1>
     </div>

@@ -3,7 +3,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <link rel="stylesheet" type="text/css" href="[% root %]css/global.css" />
-    <link rel="shortcut icon" href="img/favicon.png" />
+    [%# <link rel="shortcut icon" href="img/favicon.png" />  %]
     <meta name="MSSmartTagsPreventParsing" content="true" />
     <meta name="ROBOTS" content="ALL" />
     <title>[% title %]</title>
@@ -12,5 +12,5 @@
 
       
       <div class="pagetitle">
-      <a href="/"><img src="[% root %]graphics/twinslogo7.gif" height=140 alt="Edinburgh and Lothians Twin Club" /></a><hr>
+      <a href="[% root %]"><img src="[% root %]graphics/twinslogo7.gif" height=140 alt="Edinburgh and Lothians Twin Club" /></a><hr>
       </div>

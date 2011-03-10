@@ -20,7 +20,7 @@ the groups are very happy to welcome new multiple families.
 
 More information about individual groups follows.  For locations and
 directions please see the <a
-href="http://www.edinburghtwins.co.uk/groups/map">groups map</a>.
+href="map">groups map</a>.
 </p>
 
 <p>We had a successful trial meeting at St Stephens Church hall,
@@ -87,7 +87,7 @@ floor at St John's Hospital at Howden, Livingston, EH54 6PP (<a
 href="http://maps.google.co.uk/maps/place?ftid=0x4887d9565f2fa69b:0x1c5397685847df36">map</a>).</p>
 
 <p>Please see the <a
-href="http://www.edinburghtwins.co.uk/messageboard/viewforum.php?f=7">First
+href="[% root %]messageboard/viewforum.php?f=7">First
 Year's message board</a> for address and directions/buses.</p>
 
 

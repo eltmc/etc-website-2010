@@ -14,8 +14,8 @@
         </strong>
         </p>
 <p>
-<p><a href="http://www.edinburghtwins.co.uk/members/discounts">Discounts</a> - Complete list of discounts available to club members</p>
-<p><a href="http://www.edinburghtwins.co.uk/members/newsletters">Newsletters</a> - Download and read our quarterly newsletters</p>
+<p><a href="discounts">Discounts</a> - Complete list of discounts available to club members</p>
+<p><a href="newsletters">Newsletters</a> - Download and read our quarterly newsletters</p>
 </p>
     </div>
     <div class="clear">
