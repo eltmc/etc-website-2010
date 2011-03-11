@@ -1,8 +1,8 @@
 [%
     SET title = "Edinburgh Twins Club :: Message Board";
     SET root = "./";
-    INCLUDE 'includes/header.inc';
-    INCLUDE 'includes/sidebar.inc';
+    INCLUDE 'header.inc';
+    INCLUDE 'sidebar.inc';
 %]
 
     </div>
@@ -27,4 +27,4 @@ We recently had an issue with our message board which meant all previous posts w
     <div class="clear">
       <br />
     </div>
-[% INCLUDE 'includes/footer.inc'; %]
+[% INCLUDE 'footer.inc'; %]
