@@ -43,7 +43,7 @@
 
 
               <li>From Friday 18th February the <b>South Queensferry
-              Group will be relocating</b> - see the <a href="groups">Groups
+              Group has relocated</b> - see the <a href="groups">Groups
               page</a></li><br>
 
               <li><b>Got the last newsletter? No? Check your
