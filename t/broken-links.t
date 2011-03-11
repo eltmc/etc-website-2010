@@ -23,13 +23,13 @@ my $problem_whitelist = {
         },
     },
     'html/index.html' => {
-        'messageboard/viewtopic.php?f=3&t=327' => {
+        './messageboard/viewtopic.php?f=3&t=327' => {
             'broken link' => 1
         },
         '/messageboard/viewforum.php?f=7' => {
             'absolute path' => 1
         },
-        'oldwebsite' => {
+        './oldwebsite' => {
             'broken link' => 1
         }
     },

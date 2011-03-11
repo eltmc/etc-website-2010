@@ -1,6 +1,6 @@
 [%
     SET title = "Edinburgh Twins Club :: Homepage";
-    SET root = "";
+    SET root = "./";
     INCLUDE 'header.inc';
     INCLUDE 'sidebar.inc';
 %]
