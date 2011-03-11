@@ -12,25 +12,17 @@ use Data::Dumper;
 my $base_dir = File::Spec->abs2rel(abs_path "$Bin/../html");
 
 my $unreachable_whitelist = [
-    '../html/.htpasswd',
-    '../html/includes/footer.inc',
-    '../html/includes/header.inc',
-    '../html/includes/sidebar.inc',
+    'html/.htpasswd',
 ];
 
 
 my $problem_whitelist = {
-    '../html/events/index.html' => {
+    'html/events/index.html' => {
         'mailto:social@edinburghtwins.co.uk' => { 
             'non-http scheme' => 1,
         },
     },
-    '../html/flash.html' => {
-        'clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' => {
-            'non-http scheme' => 1,
-        }
-    },
-    '../html/index.html' => {
+    'html/index.html' => {
         'messageboard/viewtopic.php?f=3&t=327' => {
             'broken link' => 1
         },
@@ -41,27 +33,27 @@ my $problem_whitelist = {
             'broken link' => 1
         }
     },
-    '../html/groups/index.html' => {
+    'html/groups/index.html' => {
         '../messageboard/viewforum.php?f=7' => {
             'broken link' => 1
         }
     },
-    '../html/messageboard.html' => {
+    'html/messageboard.html' => {
         'messageboard/' => {
             'broken link' => 1
         }
     },
-    '../html/tips/goodbuys/index.html' => {
+    'html/tips/goodbuys/index.html' => {
         '../../messageboard' => {
             'broken link' => 1
         }
     },
-    '../html/tips/prams/index.html' => {
+    'html/tips/prams/index.html' => {
         '../../messageboard' => {
             'broken link' => 1
         }
     },
-    '../html/triplets/index.html' => {
+    'html/triplets/index.html' => {
         '../messageboard' => {
             'broken link' => 1
         }
@@ -143,7 +135,7 @@ link seems ok.
 =cut
 
 sub classify_link {
-    my ($dir, $link) = @_;
+    my ($name, $dir, $link) = @_;
     return unless my ($tag, $attr, $uri) = has_uri $link;
     
     $uri = $uri->canonical;
@@ -170,10 +162,10 @@ sub classify_link {
     }
 
     # Uri has no scheme
-    my $raw_path = $uri->path;
+    my $raw_path = $uri->path
+        or warn "no path in $uri from $name\n";
     my ($extended_path, $query) = split /[?]/, $raw_path, 2;
     my ($path, $anchor) = split /#/, $extended_path, 1;
-
     if ($path =~ m{^/}) {
         $info->{problem} = "absolute path";
         return $info;
@@ -237,7 +229,7 @@ sub validate_html {
     foreach my $link (@$links) {
         # skip "links" with no URI
         next 
-            unless my $info = classify_link $dir, $link;
+            unless my $info = classify_link $name, $dir, $link;
 
         # index links with a problem
         if (my $problem = $info->{problem}) {
