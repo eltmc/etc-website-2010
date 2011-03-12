@@ -9,20 +9,21 @@ use File::Spec;
 use List::Util qw(first);
 use File::Find;
 use Data::Dumper;
-my $base_dir = File::Spec->abs2rel(abs_path "$Bin/../html");
+
+my $base_dir = abs_path "$Bin/../html";
 
 my $unreachable_whitelist = [
-    'html/.htpasswd',
+    '.htpasswd',
 ];
 
 
 my $problem_whitelist = {
-    'html/events/index.html' => {
+    'events/index.html' => {
         'mailto:social@edinburghtwins.co.uk' => { 
             'non-http scheme' => 1,
         },
     },
-    'html/index.html' => {
+    'index.html' => {
         './messageboard/viewtopic.php?f=3&t=327' => {
             'broken link' => 1
         },
@@ -33,27 +34,27 @@ my $problem_whitelist = {
             'broken link' => 1
         }
     },
-    'html/groups/index.html' => {
+    'groups/index.html' => {
         '../messageboard/viewforum.php?f=7' => {
             'broken link' => 1
         }
     },
-    'html/messageboard.html' => {
+    'messageboard.html' => {
         'messageboard/' => {
             'broken link' => 1
         }
     },
-    'html/tips/goodbuys/index.html' => {
+    'tips/goodbuys/index.html' => {
         '../../messageboard' => {
             'broken link' => 1
         }
     },
-    'html/tips/prams/index.html' => {
+    'tips/prams/index.html' => {
         '../../messageboard' => {
             'broken link' => 1
         }
     },
-    'html/triplets/index.html' => {
+    'triplets/index.html' => {
         '../messageboard' => {
             'broken link' => 1
         }
@@ -135,7 +136,7 @@ link seems ok.
 =cut
 
 sub classify_link {
-    my ($name, $dir, $link) = @_;
+    my ($src_file_path, $dir, $link) = @_;
     return unless my ($tag, $attr, $uri) = has_uri $link;
     
     $uri = $uri->canonical;
@@ -163,7 +164,7 @@ sub classify_link {
 
     # Uri has no scheme
     my $raw_path = $uri->path
-        or warn "no path in $uri from $name\n";
+        or warn "no path in $uri from $src_file_path\n";
     my ($extended_path, $query) = split /[?]/, $raw_path, 2;
     my ($path, $anchor) = split /#/, $extended_path, 1;
     if ($path =~ m{^/}) {
@@ -177,23 +178,28 @@ sub classify_link {
         return $info;
     }
 
-    $file_path = File::Spec->abs2rel(abs_path($file_path));
-    if ($file_path !~ /^$base_dir/) {
-        $info->{problem} = "link outside base dir: $file_path";
+    my $rel_file_path = File::Spec->abs2rel(abs_path($file_path), $base_dir);
+    if ($rel_file_path =~ /^[.][.]/) {
+        $info->{problem} = "link outside base dir: $rel_file_path";
         return $info;
     }
-    
+
     if (-d $file_path) {
-        $file_path = first { -f } map { "$file_path/index.$_" } qw(html htm php);
-        if (!$file_path) {
+        $rel_file_path = first { 
+            -f "$base_dir/$_";
+        } map { 
+            File::Spec->canonpath("$rel_file_path/index.$_"); # get rid of leading ./
+        } qw(html htm php);
+
+        if (!$rel_file_path) {
             $info->{problem} = "link to directory with no index: $path";
             return $info;
         }
     }
+#print ">>>$rel_file_path\n";
 
-#    print "<$tag $attr>: $uri\n";
     return {
-        uri => $file_path,
+        uri => $rel_file_path,
     };
 }
 
@@ -209,27 +215,28 @@ string-ified uri keys.
 =cut
 
 sub validate_html {
-    my ($name, $dir) = ($File::Find::name, $File::Find::dir);
+    my ($path, $dir) = ($File::Find::name, $File::Find::dir);
 
     # Skip non-files
     return
-        unless -f $name;
+        unless -f $path;
 
     # Mark this file as present (if not already marked as linked to)
-    $SUBSCRIBERS{$name} ||= {};
+    my ($internal_path) = $path =~ m{^$base_dir/(.*)};
+    $SUBSCRIBERS{$internal_path} ||= {};
 
     # Don't try to parse anything but HTML files
-    return unless $name =~ /\.html$/;
+    return unless $path =~ /\.html$/;
 
     # Parse the document, extract the links
-    $lx->parse($name);
+    $lx->parse($path);
     my $links = $lx->links;
 
     my %problem_links;
     foreach my $link (@$links) {
         # skip "links" with no URI
         next 
-            unless my $info = classify_link $name, $dir, $link;
+            unless my $info = classify_link $path, $dir, $link;
 
         # index links with a problem
         if (my $problem = $info->{problem}) {
@@ -247,11 +254,11 @@ sub validate_html {
 
         # Add this link to the target file's subscriber list
         my $subscribers = $SUBSCRIBERS{$target->path} ||= {};
-        $subscribers->{$name}++;
+        $subscribers->{$internal_path}++;
     }
 
     # save the sorted list
-    $PROBLEMS{$name} = \%problem_links;
+    $PROBLEMS{$internal_path} = \%problem_links;
 }
 
 
@@ -276,4 +283,5 @@ my $unreachable = [grep {!%{  $SUBSCRIBERS{$_} } } sort keys %SUBSCRIBERS];
 is_deeply $unreachable, $unreachable_whitelist, 
     "no new unreachable files"
     or diag Dumper $unreachable;
+
 
