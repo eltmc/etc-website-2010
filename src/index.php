@@ -1,6 +1,6 @@
 [%
     SET title = "Edinburgh Twins Club :: Homepage";
-    SET root = "./";
+    SET root = "";
     INCLUDE 'header.inc';
     INCLUDE 'sidebar.inc';
 %]
@@ -37,9 +37,9 @@
               <li><b>The Joppa BBT group will not be meeting on Monday
               14th 2011,</b> but there is an alternative plan to meet at
               the park, weather permitting - see <a
-              href="messageboard/viewtopic.php?f=5&t=442">this
+              href="[% root %]messageboard/viewtopic.php?f=5&t=442">this
               messageboard post</a> and <a
-              href="messageboard/viewtopic.php?f=5&t=440">this one</a>
+              href="[% root %]messageboard/viewtopic.php?f=5&t=440">this one</a>
               for more details.</li><br>
 
               <li>Following the recent survey, since 2nd March 2011,
@@ -66,7 +66,7 @@
               the month in St John's Hospital, Livingston, or 8pm on
               the second Tuesday at Oxgangs Neighbourhood Centre.
               Watch for announcements of upcoming meetings on our <a
-              href="/messageboard/viewforum.php?f=7">First Years</a>
+              href="[% root %]messageboard/viewforum.php?f=7">First Years</a>
               messageboard.</li><br>
 
 

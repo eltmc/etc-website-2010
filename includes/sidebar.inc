@@ -2,7 +2,7 @@
       <div class="button">
       </div>
       <div id="links" class="menu">
-        <div class="title">On <a href="[% root %]">Edinburgh Twins Club</a></div>
+        <div class="title">On <a href="[% root || '.' %]">Edinburgh Twins Club</a></div>
         <div class="menucontent">
           <ul class="makeMenu">
             <li>
