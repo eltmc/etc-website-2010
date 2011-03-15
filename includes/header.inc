@@ -2,15 +2,15 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <link rel="stylesheet" type="text/css" href="<? echo "$root"; ?>css/global.css" />
-    <link rel="shortcut icon" href="img/favicon.png" />
+    <link rel="stylesheet" type="text/css" href="[% root %]css/global.css" />
+    [%# <link rel="shortcut icon" href="img/favicon.png" />  %]
     <meta name="MSSmartTagsPreventParsing" content="true" />
     <meta name="ROBOTS" content="ALL" />
-    <title><? echo $title; ?></title>
+    <title>[% title %]</title>
   </head>
   <body>
 
       
       <div class="pagetitle">
-      <a href="/"><img src="<? echo "$root"; ?>graphics/twinslogo7.gif" height=140 alt="Edinburgh and Lothians Twin Club" /></a><hr>
+      <a href="[% root %]"><img src="[% root %]graphics/twinslogo7.gif" height=140 alt="Edinburgh and Lothians Twin Club" /></a><hr>
       </div>

@@ -1,0 +1,301 @@
+/* GridPP2 Colour Codes:
+	Purple: #9999cc
+	Blue: #003366
+*/
+body 
+{
+    padding:0;
+    margin:0 10%;
+    color: black; 
+    background: #ffffff; 
+    font: 12px 'Lucida Grande', Geneva, Verdana, Helvetica, Arial, sans-serif;
+}
+
+h5 {
+    font-size: 13px;
+    margin:4ex 0em 0ex 0em;
+    text-align:left;
+}
+
+h5 .date {
+    color:gray;
+    float:right;
+}
+
+h3 {
+    font-size: 12px;
+    margin:3ex 0em 0.5ex 0em;
+
+}
+
+h2 {
+    font-size: 20px;
+    margin:4ex 0em 1.5ex 0em;
+}
+
+h1.header {
+	font-family: "Trebuchet MS", sans-serif;
+	color: #036;
+	text-align: center;
+	font-size: xx-large;
+}
+
+.pagetitle {
+	font-family: "Trebuchet MS", sans-serif;
+	color: #036;
+	text-align: center;
+	font-size: 5%;
+}
+
+p
+{
+    margin-bottom: 2ex;
+}
+
+blockquote
+{
+    font-style:italic;
+}
+
+.important
+{
+    color:#f60;
+    font-weight: bold;
+}
+
+.newsflash
+{
+	font-weight: bold;
+	color: #a00;
+}
+
+#content {
+    margin-top:5ex;
+    margin-right: 18em;
+    margin-bottom:3ex;
+}
+
+#content img{
+    margin:0.5ex 0.5em;
+}
+
+#nav {
+    /*overflow:hidden; - removed to make drop down display properly*/
+    float: right;
+    width:16em;
+}
+
+img 
+{
+    border:0px;
+    padding:0;
+    margin:0;
+}
+
+img.RightAlignWithBorder
+{
+	border:solid 1px #003366;
+	float: right;
+}
+
+img.RightAlignNoBorder
+{
+	float: right;
+}
+
+a:link 
+{
+    color:#00b;
+    text-decoration: none;
+}
+
+a:visited 
+{ 
+    color:#007; 
+    text-decoration: none;
+}
+
+a:hover 
+{
+    color: blue; 
+    text-decoration: none;
+}
+
+/* mvbl - following makeMenu items added to make drop down menu work.  Taken from http://www.howtocreate.co.uk/tutorials/testMenu.html */
+ul.makeMenu, ul.makeMenu ul {
+}
+ul.makeMenu li {
+  list-style-type: none;       /* removes the bullet points */
+  margin: 0px;                 /* Opera 7 puts large spacings between li elements */
+  position: relative;          /* makes the menu blocks be positioned relative to their parent menu item
+                                  the lack of offset makes these appear normal, but it will make a difference
+                                  to the absolutely positioned child blocks */
+  color:#0000A0 ;                 /* sets the default font colour to white */
+}
+ul.makeMenu li > ul {          /* using the > selector prevents many lesser browsers (and IE - see below) hiding child ULs */
+  display: none;               /* hides child menu blocks - one of the most important declarations */
+  position: absolute;          /* make child blocks hover without leaving space for them */
+  top: 2px;                    /* position slightly lower than the parent menu item */
+  left: 120px;                 /* this must not be more than the width of the parent block, or the mouse will
+                                  have to move off the element to move between blocks, and the menu will close */
+  border: 1px solid #003366;
+}
+
+ul.makeMenu li:hover, ul.makeMenu li.CSStoHighlight {
+  background-color: white;     /* gives the active menu items a background colour */
+}
+ul.makeMenu ul.CSStoShow {     /* must not be combined with the next rule or IE gets confused */
+  display: block;              /* specially to go with the className changes in the behaviour file */
+}
+ul.makeMenu li:hover > ul {    /* one of the most important declarations - the browser must detect hovering over arbitrary elements
+                                  the > targets only the child ul, not any child uls of that child ul */
+  background-color: white;
+  display: block;              /* makes the child block visible - one of the most important declarations */
+}
+/* and some link styles */
+ul.makeMenu li a { color: black; display: block; width: 100%; text-decoration: underline; }
+ul.makeMenu li a:hover, ul.makeMenu li a.CSStoHighLink { color: white; }
+ul.makeMenu li:hover > a { color: #000; } /* supports links in branch headings - should not be display: block; */
+
+div.menu {
+    border: 1px solid #003366;
+    background-color: #fdfdfd;
+    text-align:left;
+    width:14.5em;
+    margin: 0ex 1em 3ex 1em;
+    font-family: Geneva, Verdana, Helvetica, Arial, sans-serif;
+}
+
+#nav .button {
+    margin:0ex 1em 2ex 1.5em;
+}
+
+div.menu div.title {
+    color:black;
+    font-weight:bold;
+    background-color: #9999cc;
+    border-bottom: 1px solid #003366;
+    padding: 0.5ex 1em 0.5ex 1em;
+    font-size:12px;
+}
+
+div.menu div.menucontent {
+    color:black;
+    font-weight:normal;
+    background-color: #fdfdfd;
+    margin: 0.5ex 1em 0.5ex 1em;
+    border: 0px;
+    font-size:11px;
+}
+
+div.menu ul {
+    margin: 1ex 0px;
+    padding: 0px 15px;
+    list-style-image: url(http://www.scotgrid.ac.uk/graphics/arrow.gif);
+    text-indent: -0.0ex;
+    text-indent: -0.0ex;
+}
+
+div.menu ul li {
+    margin: 0.3ex 0px;
+}
+
+div.menu ul li a.ulheading {
+    font-weight:bold;
+    position:relative;
+    left:-0.6em;
+}
+            
+div.menu ul li div {
+    position:relative;
+    left:-0.5em;
+}
+
+div#header {
+    text-align:center;
+}
+
+div#header hr 
+{
+    color:gray;
+    margin:0ex 0ex 4ex 0ex;
+}
+
+div#footer {
+    font-size:10px;
+    text-align:center;
+    margin-bottom:5ex;
+}
+
+div#footer hr 
+{
+    color:gray;
+    margin:1ex 0ex 1ex 0ex;
+}
+
+div.clear {
+    clear:both;
+    height:1px;
+}
+
+abbr {
+    border-bottom: 1px dotted;
+}
+
+table.striped
+{
+    width:100%;
+    border-spacing:0;
+    font-size:11px;
+    border: 1px solid #a5a5a5;
+    float: left;
+}
+
+table.striped tr:hover td
+{
+    background-color: #9999cc;
+    background: #999cc;
+}
+
+table.striped th
+{
+    text-align:left;
+    padding:0.5ex 2em;
+    background-color:#e2e2e2;
+    border-bottom: 1px solid #a5a5a5;
+}
+
+table.striped td
+{
+    padding:1ex 2em;
+    border-top: 1px solid #e2e2e2;
+}
+
+table.striped tr.blue
+{
+    background-color:#003366;
+}
+
+
+table.striped tr.white
+{
+    background-color:white;
+}
+
+
+dt
+{
+	font-weight: bold;
+	line-height: 200%;
+}
+
+/*
+ * Styles for processor usage script
+ */
+td.free {
+	background-color: #9F9;
+}
+
+td.busy {
+	background-color: #F36;
+}
