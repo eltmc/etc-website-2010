@@ -1,4 +1,5 @@
 
+REMOTE_URL = nick@udon.noodlefactory.co.uk:public_html/etc/
 
 SRC := $(shell find src \( -path .git -o -path .gitignore -o -path tt -o -path messageboard -o -path html \) -prune -o -type f -print)
 
@@ -11,6 +12,9 @@ html: ttree.cfg ${SRC}
 
 test: html
 	prove t
+
+upload: test
+	rsync -arlv --delete html/ ${REMOTE_URL}
 
 
 clean:
