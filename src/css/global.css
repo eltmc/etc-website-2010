@@ -299,3 +299,35 @@ td.free {
 td.busy {
 	background-color: #F36;
 }
+
+
+
+/** nick's additions **/
+div.announcements {
+    border: solid black 1px;
+    background-color: #ffd9ff;
+    margin-bottom: 1.5em;
+}
+.announcements h2 {
+    font-size: 1em;
+    text-align: center;
+}
+.announcements li {
+    margin-bottom: 1em;
+}
+
+div.photo-bar {
+    text-align: center;
+    margin: 0.5em auto;
+    border-top: solid black 1px;
+    border-bottom: solid black 1px; 
+}
+div.support-footer {
+    text-align: center;
+    font-size: smaller;
+    font-weight: bold;
+    margin: 0.5em auto;
+}
+.photo-bar img {
+    height: 100px;
+}

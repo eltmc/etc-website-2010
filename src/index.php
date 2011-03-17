@@ -22,42 +22,36 @@
         
         <p>Come on in and take a look around.  If there is anything
         you need from our old website, you can still find it <a
-        href="[% root %]oldwebsite">here</a>.
+        href="[% root %]oldwebsite">here</a>.</p>
 
-        <center>
-        
-        <table border=1 cellpadding=5 cellspacing=0 bgcolor=#ffd9ff>
-
-        <tr><td>
-
-          <p>
-            <center><b>Announcements</b></center><br/>
-            <ul>
+        <div class="announcements">
+          <h2>Announcements</h2>
+          <ul>
 
               <li><b>The Joppa BBT group will not be meeting on Monday
               14th 2011,</b> but there is an alternative plan to meet at
               the park, weather permitting - see <a
-              href="[% root %]messageboard/viewtopic.php?f=5&t=442">this
+              href="[% root %]messageboard/viewtopic.php?f=5&amp;t=442">this
               messageboard post</a> and <a
-              href="[% root %]messageboard/viewtopic.php?f=5&t=440">this one</a>
-              for more details.</li><br>
+              href="[% root %]messageboard/viewtopic.php?f=5&amp;t=440">this one</a>
+              for more details.</li>
 
               <li>Following the recent survey, since 2nd March 2011,
               <b>First Years now runs on the first Wednesday of
               each month, alternating between Oxgangs Neighbourhood
               Centre in Edinburgh and St John's Hospital.</b> See the
               <a href="groups/index.html#FirstYears">groups page</a>
-              for more details and directions.</li><br>
+              for more details and directions.</li>
 
 
               <li>From Friday 18th February the <b>South Queensferry
               Group has relocated</b> - see the <a href="groups">Groups
-              page</a></li><br>
+              page</a></li>
 
               <li><b>Got the last newsletter? No? Check your
               membership.</b> See <a
-              href="[% root %]messageboard/viewtopic.php?f=3&t=327">this
-              notice</a> </li><br>
+              href="[% root %]messageboard/viewtopic.php?f=3&amp;t=327">this
+              notice</a> </li>
 
               <li>Expecting twins? Maybe your babies have arrived?
               Come along to <b><a
@@ -67,37 +61,30 @@
               the second Tuesday at Oxgangs Neighbourhood Centre.
               Watch for announcements of upcoming meetings on our <a
               href="[% root %]messageboard/viewforum.php?f=7">First Years</a>
-              messageboard.</li><br>
+              messageboard.</li>
 
 
               <li>And don't forget the regular <b>Babies, Bumps and
               Toddler</b> groups! See the <b><a
               href="groups">Groups</a></b>
               page for details, including information about
-              non-Twins-Club babies, bumps and toddler groups</li><br>
+              non-Twins-Club babies, bumps and toddler groups</li>
 
-            </ul>
-          </p>
+          </ul>
+        </div>
 
-        </td></tr>
-        </table>
-      </center>
 
-<br>
-<hr width=100% noshade size=1>
-<center>
-<img src="graphics/photos/IMG_3660.JPG" height=100 border=1>
-<img src="graphics/photos/AandL3.jpg" height=100 border=1>
-<img src="graphics/photos/DSC01163.JPG" height=100 border=1>
-<img src="graphics/photos/IMG_1873.JPG" height=100 border=1>
-</center>
+<div class="photo-bar">
+<img src="graphics/photos/IMG_3660.JPG" alt="twin picture #1"/>
+<img src="graphics/photos/AandL3.jpg" alt="twin picture #2"/>
+<img src="graphics/photos/DSC01163.JPG" alt="twin picture #3"/>
+<img src="graphics/photos/IMG_1873.JPG" alt="twin picture #4"/>
+</div>
 
-<hr width=100% noshade size=1>
-<p align=center><font size=-2>Please support the twin club -- if you buy from amazon using the search box on the menu  we earn a small commission</font></strong></p>
-        </p>
+<div class="support-footer">
+Please support the twin club -- if you buy from amazon using the search box on the menu we earn a small commission
+</div>
 
-    </div>
-    <div class="clear">
-      <br />
-    </div>
+</div>
+
 [% INCLUDE 'footer.inc'; %]

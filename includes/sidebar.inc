@@ -18,7 +18,7 @@
                  <ul>
                   <li><a class="ulheading" href="[% root %]groups/map">Map</a></li>
                  </ul>
-              <div>Babies, Bumps & Toddler Groups</div>
+              <div>Babies, Bumps &amp; Toddler Groups</div>
             </li>
             <li>
               <a class="ulheading" href="[% root %]events/">Events</a>
@@ -87,6 +87,6 @@
               <div>Any questions? Drop us an email...</div>
             </li>
           </ul>
-<center><iframe src="http://rcm-uk.amazon.co.uk/e/cm?t=edinburghtwin-21&o=2&p=20&l=qs1&f=ifr" width="120" height="90" frameborder="0" scrolling="no"></iframe></center>
+<iframe style="margin: 0 auto; border: 0; width: 120px; height: 90px;" src="http://rcm-uk.amazon.co.uk/e/cm?t=edinburghtwin-21&amp;o=2&amp;p=20&amp;l=qs1&amp;f=ifr" scrolling="no"></iframe>
         </div>
       </div>
