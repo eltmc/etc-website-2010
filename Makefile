@@ -13,6 +13,9 @@ html: ttree.cfg ${SRC}
 test: html
 	prove t
 
+xtest: html
+	prove xt
+
 upload: test
 	rsync -arlv --delete html/ ${REMOTE_URL}
 

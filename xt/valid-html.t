@@ -3,14 +3,6 @@ use strict;
 use warnings;
 use Test::More tests => 1;
 use FindBin qw($Bin);
-use lib "$Bin/lib";
-
-use MyTest::Dirs;
-
-#my %D = MyTest::Dirs->hash(
-#    data => [html => 'html'],
-#    temp => [out => 'out'],
-#);
 
 my $base_dir = File::Spec->abs2rel("$Bin/../html");
 
