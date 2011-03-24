@@ -25,16 +25,16 @@ my $problem_whitelist = {
     },
     'index.html' => {
         'messageboard/viewtopic.php?f=3&t=327' => {
-            'broken link' => 1
+            'link outside base dir: ../messageboard/viewtopic.php' => 1
         },
         'messageboard/viewtopic.php?f=5&t=440' => {
-            'broken link' => 1
+            'link outside base dir: ../messageboard/viewtopic.php' => 1
         },
         'messageboard/viewtopic.php?f=5&t=442' => {
-            'broken link' => 1
+            'link outside base dir: ../messageboard/viewtopic.php' => 1
         },
         'messageboard/viewforum.php?f=7' => {
-            'broken link' => 1
+            'link outside base dir: ../messageboard/viewforum.php' => 1
         },
         'oldwebsite' => {
             'broken link' => 1
@@ -42,27 +42,27 @@ my $problem_whitelist = {
     },
     'groups/index.html' => {
         '../messageboard/viewforum.php?f=7' => {
-            'broken link' => 1
+            'link outside base dir: ../messageboard/viewforum.php' => 1
         }
     },
     'messageboard.html' => {
         'messageboard/' => {
-            'broken link' => 1
+            'link outside base dir: ../messageboard' => 1
         }
     },
     'tips/goodbuys/index.html' => {
         '../../messageboard' => {
-            'broken link' => 1
+            'link outside base dir: ../messageboard' => 1
         }
     },
     'tips/prams/index.html' => {
         '../../messageboard' => {
-            'broken link' => 1
+            'link outside base dir: ../messageboard' => 1
         }
     },
     'triplets/index.html' => {
         '../messageboard' => {
-            'broken link' => 1
+            'link outside base dir: ../messageboard' => 1
         }
     },
 };
@@ -222,6 +222,10 @@ string-ified uri keys.
 
 sub validate_html {
     my ($path, $dir) = ($File::Find::name, $File::Find::dir);
+
+    # Skip symlinks
+    return $File::Find::prune = 1
+        if -l $path;
 
     # Skip non-files
     return

@@ -16,6 +16,6 @@ my $cfg = "$Bin/../ttree.cfg";
 
 system qq(cd $Bin/..; ttree -f $cfg --dest $D{out});
 
-ok 0==system(qq(diff -Bwur $D{html} $D{out})),
+ok 0==system(qq(diff -Bwur -x messageboard $D{html} $D{out})),
     "generated html has not changed significantly"; 
 

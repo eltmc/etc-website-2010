@@ -9,6 +9,7 @@ list:
 
 html: ttree.cfg ${SRC}
 	ttree -f ttree.cfg
+	ln -s ../messageboard html/messageboard 
 
 
 test: html
