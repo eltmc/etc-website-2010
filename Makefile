@@ -1,5 +1,6 @@
 
-REMOTE_URL = nick@udon.noodlefactory.co.uk:public_html/etc/
+#REMOTE_URL = nick@udon.noodlefactory.co.uk:public_html/etc/
+REMOTE_URL = twinsadmin@edinburghtwins.co.uk:www/html/
 
 SRC := $(shell find src \( -path .git -o -path .gitignore -o -path tt -o -path messageboard -o -path html \) -prune -o -type f -print)
 
