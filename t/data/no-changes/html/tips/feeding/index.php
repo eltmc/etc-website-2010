@@ -8,7 +8,7 @@
     
     <meta name="MSSmartTagsPreventParsing" content="true" />
     <meta name="ROBOTS" content="ALL" />
-    <title>Edinburgh Twins Club :: Recommended - Books for Children</title>
+    <title>Edinburgh Twins Club :: Tips - Feeding</title>
   </head>
   <body>
 
@@ -46,7 +46,7 @@
                  </ul>
             </li>
             <li>
-              <a class="ulheading" href="../../messageboard.html">Messageboard</a>
+              <a class="ulheading" href="../../messageboard.php">Messageboard</a>
               <div>Chat with other twin mums and dads</div>
             </li>
             <li>
@@ -111,13 +111,32 @@
 
     </div>
     <div id="content">
-    <h1 class="header">Recommended - Books for Children</h1>
-<p><iframe src="http://rcm-uk.amazon.co.uk/e/cm?t=edinburghtwin-21&o=2&p=8&l=as1&asins=190435128X&fc1=000000&IS2=1&lt1=_blank&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
-<iframe src="http://rcm-uk.amazon.co.uk/e/cm?t=edinburghtwin-21&o=2&p=8&l=as1&asins=1904351271&fc1=000000&IS2=1&lt1=_blank&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
-<iframe src="http://rcm-uk.amazon.co.uk/e/cm?t=edinburghtwin-21&o=2&p=8&l=as1&asins=0749852372&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
-<iframe src="http://rcm-uk.amazon.co.uk/e/cm?t=edinburghtwin-21&o=2&p=8&l=as1&asins=0552553441&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
-</p>
-<p>Rachael recommends the above books including the range of Topsy and Tim - simple stories about girl/boy twins.  These are a great way of introducing a new experience before it happens, like that first flight, or visit to the dentist. </p>
+    <h1 class="header">Tips - Feeding</h1>
+<p><img src="../../images/bottle.gif" width="35" height="35"> Feed one baby per side - don't bother swapping to avoid
+                    confusion. Alternatively a band on your wrist may help you
+                    remember who was fed from which side.</p>
+<p><img src="../../images/bottle.gif" width="35" height="35">
+<b>Simpsons drop-in breastfeeding clinic</b> - every Tuesday afternoon 12noon till 4pm Simpson Centre for Reproductive Health, Ground Floor, near maternity clinics reception desk.  More specialist twin breastfeeding advice than you'll probably get at your local health centre.  Bring your twin pillow if you have one, but there is one there if you want to try one out.  Dads or other supporters welcome to come.  Prams are tricky as the room is very small - use baby carriers or bring car seats where possible.  People from West Lothian are welcome to use this service, too.</p>
+<p><img src="../../images/bottle.gif" width="35" height="35">
+<b>Special breastfeeding class for twins</b> - First Monday of every month 1.30 - 3pm Simpson Centre for Reproductive Health, Ground Floor, near maternity clinics reception desk.  This is meant to be in addition to your local antenatal class on breastfeeding.</p>
+<p><img src="../../images/bottle.gif" width="35" height="35">
+When introducing formula mix it with equal quantities of expressed
+                  milk as this will ease the transition for the babies and avoid
+                  your breasts becoming engorged.</p>
+<p><img src="../../images/bottle.gif" width="35" height="35">
+Bottle Feeding - 2 kettles are useful in case one breaks down;
+                  it also leaves one for other things.</p>
+<p><img src="../../images/bottle.gif" width="35" height="35">
+Be brave - to heat up milk use your microwave. Once you've
+                  tried it you'll wonder how you lived without it.</p>
+<p><img src="../../images/bottle.gif" width="35" height="35">
+Wash, sterilise and fill the bottle with boiled water, 1.5
+                  ounces less than the right measure and put in the fridge. When
+                  you need the bottle, just add the small amount of boiling water
+                  you need to make the full measure, add the milk formula, shake
+                  and it's ready. You've gained some more minutes, the temperature
+                  is perfect and you don't need wait until it cools down or heats
+                  up. Sometimes with crying babies 1 minute seems like 1 hour!!</p>
     </div>
     <div class="clear">
       <br />

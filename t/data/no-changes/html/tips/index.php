@@ -8,7 +8,7 @@
     
     <meta name="MSSmartTagsPreventParsing" content="true" />
     <meta name="ROBOTS" content="ALL" />
-    <title>Edinburgh and Lothians Twins and Multiples Club :: Join</title>
+    <title>Edinburgh Twins Club :: Tips</title>
   </head>
   <body>
 
@@ -46,7 +46,7 @@
                  </ul>
             </li>
             <li>
-              <a class="ulheading" href="../messageboard.html">Messageboard</a>
+              <a class="ulheading" href="../messageboard.php">Messageboard</a>
               <div>Chat with other twin mums and dads</div>
             </li>
             <li>
@@ -111,27 +111,19 @@
 
     </div>
     <div id="content">
-    <h1 class="header">Why Join Edinburgh Twins Club?</h1>
-        <p>
-If you join the Edinburgh Twins Club (for the small cost of £10 pa), you will get the following benefits: -<br>
-<ul>
-  <li>Discounts from a number of companies (2 visits to Clarks shoe shop will pay for your membership fee !)</li>
-  <li>Support from people who are in the same position as yourself</li>
-  <li>Regular Newsletters</li>
-  <li>Organised Social Events</li>
-  <li>Weekly Bumps, Babies and Toddler sessions</li>
-  <li>"Swap Shop" or "Wanted" - details of equipment, toys and clothes for sale or wanted by members</li>
-  <li>Library of books and leaflets</li>
-</ul>        </p>
-<p>
-Download <a href="../documents/application-form.pdf">application form</a>
-
-</p>
-<hr width=100% noshade size=1>
-<center>
-<img src="../graphics/photos/join.jpg" height=200 border=1>
-</center>
-<hr width=100% noshade size=1>
+    <h1 class="header">Tips</h1>
+        <p>The following Tips are a taster of what existing members of the twins club have found in their time with multiples.<p>
+        <p>Remember it is only what worked for those people. Always listen
+              to your own instincts and don't be tempted to do what well meaning
+              relatives and friends feel you should be doing. You know best and
+              sometimes just trial and error will help you find what works for
+              your family.</p>
+        <p>In addition to the pages below, there is a very useful set of tips in a Word document <a href="../documents/ETC_Top_Tips.doc">here</a></p>
+            <p> <a href="feeding">Feeding</a> </p>
+            <p><a href="outabout">Out and About</a></p>
+            <p><a href="prams">Prams and Buggies</a></p>
+            <p><a href="general">General</a></p>
+            <p><a href="goodbuys">Good Buys</a></p>
     </div>
     <div class="clear">
       <br />

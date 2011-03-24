@@ -40,7 +40,7 @@
               <b>First Years now runs on the first Wednesday of
               each month, alternating between Oxgangs Neighbourhood
               Centre in Edinburgh and St John's Hospital.</b> See the
-              <a href="groups/index.html#FirstYears">groups page</a>
+              <a href="groups/#FirstYears">groups page</a>
               for more details and directions.</li>
 
 

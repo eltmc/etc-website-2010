@@ -8,7 +8,7 @@
     
     <meta name="MSSmartTagsPreventParsing" content="true" />
     <meta name="ROBOTS" content="ALL" />
-    <title>Edinburgh Twins Club :: Recommended - General</title>
+    <title>Edinburgh Twins Club :: Recommended - Toddler</title>
   </head>
   <body>
 
@@ -46,7 +46,7 @@
                  </ul>
             </li>
             <li>
-              <a class="ulheading" href="../../messageboard.html">Messageboard</a>
+              <a class="ulheading" href="../../messageboard.php">Messageboard</a>
               <div>Chat with other twin mums and dads</div>
             </li>
             <li>
@@ -111,18 +111,24 @@
 
     </div>
     <div id="content">
-    <h1 class="header">Recommended - General</h1>
+    <h1 class="header">Recommended - Toddler</h1>
 <p>
-<iframe src="http://rcm-uk.amazon.co.uk/e/cm?t=edinburghtwin-21&o=2&p=8&l=as1&asins=1400064961&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
-<iframe src="http://rcm-uk.amazon.co.uk/e/cm?t=edinburghtwin-21&o=2&p=8&l=as1&asins=1405088427&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+<iframe src="http://rcm-uk.amazon.co.uk/e/cm?t=edinburghtwin-21&o=2&p=8&l=as1&asins=0091902584&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+<iframe src="http://rcm-uk.amazon.co.uk/e/cm?t=edinburghtwin-21&o=2&p=8&l=as1&asins=0971030936&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 </p>
-<p>
-Rachael recommends Identical Stragers - "An adult book that's a great read: Identical Strangers - story of identical twins seperated by adoption and reunited at 30 or so". Also Extreme Motherhood - "Funny, scarey, easy read by a triplet mum about the first 6 months."
-</p>
+<p>Rachael recommends Toddler Taming</p>
+</p>Mòrag recommends Time-Out For Parents - "Although not multiple specific, a very quick, easy read with a simple yet powerful message.  How to parent yourself as well as your children with compassion.  Useful advice for breaking cyclic tantrams and learning to deal with the strong emotions evoked in parents and their children during these trying times.</p>
+<hr width=100% noshade size=1>
+<center>
+<img src="../../graphics/photos/AandL5.jpg" height=150 order=1>
+</center>
+<hr width=100% noshade size=1>
+
     </div>
     <div class="clear">
       <br />
-    </div>
+ 
+   </div>
 <div id="footer">
 	<a href="http://www.tamba.org.uk">A member of TAMBA</a>
 	<hr />

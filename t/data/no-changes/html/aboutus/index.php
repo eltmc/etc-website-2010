@@ -8,7 +8,7 @@
     
     <meta name="MSSmartTagsPreventParsing" content="true" />
     <meta name="ROBOTS" content="ALL" />
-    <title>Edinburgh Twins Club :: Contacts</title>
+    <title>Edinburgh Twins Club :: About Us</title>
   </head>
   <body>
 
@@ -46,7 +46,7 @@
                  </ul>
             </li>
             <li>
-              <a class="ulheading" href="../messageboard.html">Messageboard</a>
+              <a class="ulheading" href="../messageboard.php">Messageboard</a>
               <div>Chat with other twin mums and dads</div>
             </li>
             <li>
@@ -111,31 +111,26 @@
 
     </div>
     <div id="content">
-    <h1 class="header">Contacts</h1>
-<p><strong>The club is run by a group of volunteers who make up the committee.  We can be contacted using the following email addresses:</strong>
-<br><br>
-<strong>Chairperson:</strong><br>
-chair@edinburghtwins.co.uk<br><br>
-<strong>Social Events</strong> for bookings or to share an event idea:<br>
-social@edinburghtwins.co.uk<br><br>
-<strong>Membership</strong> enquiries:<br>
-membership@edinburghtwins.co.uk<br><br>
-<strong>Newletter</strong> enquiries or article ideas:<br>
-newsletter@edinburghtwins.co.uk<br><br>
-<strong>Website</strong> comments or questions:<br>
-webmaster@edinburghtwins.co.uk<br><br>
-<strong>Each of the regular Babies, Bumps and Toddler groups has a coordinator.  If you have any questions they can be contacted as follows:</strong><br><br>
-<strong>Comeley Bank:</strong><br>
-comelybank@edinburghtwins.co.uk<br><br>
-)<strong>Joppa:</strong><br>
-joppa@edinburghtwins.co.uk<br><br>
-<strong>Oxgangs:</strong><br>
-oxgangs@edinburghtwins.co.uk<br><br>
-<strong>South Queensferry:</strong><br>
-sqf@edinburghtwins.co.uk<br><br>
-<strong>There are now two First Years groups, however they are currently contactable via a single address:</strong><br><br>
-<strong>First Years:</strong><br>
-firstyears@edinburghtwins.co.uk<br><br>
+    <h1 class="header">About Us</h1>
+        <p>
+The Edinburgh and Lothians Twins Club is a non-profit support group for those caring for twins and other multiples.  
+We have a membership of over 140 families, who we aim to help in a number of ways.  
+These include running 3 Babies, Bumps and Toddlers groups, 
+and providing a "First Year's" monthly support evening at St Johns Hospital for those expecting or with very young twins. 
+</p><p>
+We have negotiated a number of discounts for club members with a variety of vendors.
+There are regular social events including family days and Mum's and Dad's nights out.
+Monthly emails and a quarterly newsletter help keep in touch and provide interesting and funny articles on life with multiples.
+We have a messageboard for asking questions, having a chat, finding out ideas for days out, or buying and selling useful baby and toddler items.
+</p><p>
+Due to demand, we are looking into starting up another First Year's group at Edinburgh Royal Infirmary, and a Babies, Bumps and Toddlers group in Comely Bank.</p><p>
+The ethos of the club is to bring together and support those blessed with the arrival of more than one bundle of joy.  
+        </p>
+<hr width=100% noshade size=1>
+<center>
+<img src="../graphics/photos/niallowen.jpg" border=1>
+</center>
+<hr width=100% noshade size=1>
     </div>
     <div class="clear">
       <br />

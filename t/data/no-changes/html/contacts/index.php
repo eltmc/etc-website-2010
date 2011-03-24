@@ -8,7 +8,7 @@
     
     <meta name="MSSmartTagsPreventParsing" content="true" />
     <meta name="ROBOTS" content="ALL" />
-    <title>Edinburgh Twins Club :: Recommended</title>
+    <title>Edinburgh Twins Club :: Contacts</title>
   </head>
   <body>
 
@@ -46,7 +46,7 @@
                  </ul>
             </li>
             <li>
-              <a class="ulheading" href="../messageboard.html">Messageboard</a>
+              <a class="ulheading" href="../messageboard.php">Messageboard</a>
               <div>Chat with other twin mums and dads</div>
             </li>
             <li>
@@ -111,22 +111,32 @@
 
     </div>
     <div id="content">
-    <h1 class="header">Recommended</h1>
-      <p>
-       We asked the committee what books they liked and found useful.  Some books are specifically for multiples and others are just good general parenting guides.  There are also some of our favourite children's books.  If you buy any of the books using the Amazon links, the club gets a small percentage.</p>
-<p><a href="pregnancy">Pregnancy</a> - Both serious and fun reads to guide you through your pregnancy.</p>
-<p><a href="baby">Baby</a> - Parenting guides focused on the baby stage</p>
-<p><a href="toddler">Toddler</a> - Parenting guides focused on the toddler stage</p>
-<p><a href="child">Child</a> - Parenting guides to raising children</p>
-<p><a href="feeding">Feeding</a> - Cookery books for everything from weaning to family meals</p>
-<p><a href="booksforchildren">Books for children</a> - Our favourite story books for babies, toddlers and children</p>
-<p><a href="general">General</a> - General interest books involving multiples</p>
-
-<hr width=100% noshade size=1>
-<center>
-<img src="../graphics/photos/AandL4.jpg" height=150 order=1>
-</center>
-<hr width=100% noshade size=1>
+    <h1 class="header">Contacts</h1>
+<p><strong>The club is run by a group of volunteers who make up the committee.  We can be contacted using the following email addresses:</strong>
+<br><br>
+<strong>Chairperson:</strong><br>
+chair@edinburghtwins.co.uk<br><br>
+<strong>Social Events</strong> for bookings or to share an event idea:<br>
+social@edinburghtwins.co.uk<br><br>
+<strong>Membership</strong> enquiries:<br>
+membership@edinburghtwins.co.uk<br><br>
+<strong>Newletter</strong> enquiries or article ideas:<br>
+newsletter@edinburghtwins.co.uk<br><br>
+<strong>Website</strong> comments or questions:<br>
+webmaster@edinburghtwins.co.uk<br><br>
+<strong>Each of the regular Babies, Bumps and Toddler groups has a coordinator.  If you have any questions they can be contacted as follows:</strong><br><br>
+<strong>Comeley Bank:</strong><br>
+comelybank@edinburghtwins.co.uk<br><br>
+)<strong>Joppa:</strong><br>
+joppa@edinburghtwins.co.uk<br><br>
+<strong>Oxgangs:</strong><br>
+oxgangs@edinburghtwins.co.uk<br><br>
+<strong>South Queensferry:</strong><br>
+sqf@edinburghtwins.co.uk<br><br>
+<strong>There are now two First Years groups, however they are currently contactable via a single address:</strong><br><br>
+<strong>First Years:</strong><br>
+firstyears@edinburghtwins.co.uk<br><br>
+    </div>
     <div class="clear">
       <br />
     </div>

@@ -8,7 +8,7 @@
     
     <meta name="MSSmartTagsPreventParsing" content="true" />
     <meta name="ROBOTS" content="ALL" />
-    <title>Edinburgh Twins Club :: Tips - Good Buys</title>
+    <title>Edinburgh Twins Club :: Recommended - Child</title>
   </head>
   <body>
 
@@ -46,7 +46,7 @@
                  </ul>
             </li>
             <li>
-              <a class="ulheading" href="../../messageboard.html">Messageboard</a>
+              <a class="ulheading" href="../../messageboard.php">Messageboard</a>
               <div>Chat with other twin mums and dads</div>
             </li>
             <li>
@@ -111,23 +111,10 @@
 
     </div>
     <div id="content">
-    <h1 class="header">Tips - Good Buys</h1>
-        <p><img src="../../images/money.gif" width="35" height="35">
-Join the Twins and Multiples Club and buy things through the <a href="../../messageboard">messageboard</a> and in the Swap Shop section in the quarterly Newsletter.</p>
-        <p><img src="../../images/money.gif" width="35" height="35">
-A freezer and microwave are very useful, especially when weaning
-                  and for preparing food in advance for adults.</p>
-        <p><img src="../../images/money.gif" width="35" height="35">
-Rocking car seats, such as the Britax Rock-a-Tot, are perfect
-                  for lulling babies to sleep - lying on a double bed with one
-                  on either side of you, you can rock them both off to sleep and
-                  may even be able to have a nap yourself.</p>
-        <p><img src="../../images/money.gif" width="35" height="35">
-Boots extra long bath mats are large enough to sit two safely
-                  and comfortably.
-        <p><img src="../../images/money.gif" width="35" height="35">
- A travel cot style playpen provides a safe daytime play space
-                  as well as being good for holidays.</p>
+    <h1 class="header">Recommended - Child</h1>
+<p>
+
+</p>
     </div>
     <div class="clear">
       <br />

@@ -28,7 +28,7 @@
                  </ul>
             </li>
             <li>
-              <a class="ulheading" href="[% root %]messageboard.html">Messageboard</a>
+              <a class="ulheading" href="[% root %]messageboard.php">Messageboard</a>
               <div>Chat with other twin mums and dads</div>
             </li>
             <li>

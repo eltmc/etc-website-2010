@@ -8,7 +8,7 @@
     
     <meta name="MSSmartTagsPreventParsing" content="true" />
     <meta name="ROBOTS" content="ALL" />
-    <title>Edinburgh Twins Club :: Tips - Feeding</title>
+    <title>Edinburgh Twins Club :: Recommended - Baby Books</title>
   </head>
   <body>
 
@@ -46,7 +46,7 @@
                  </ul>
             </li>
             <li>
-              <a class="ulheading" href="../../messageboard.html">Messageboard</a>
+              <a class="ulheading" href="../../messageboard.php">Messageboard</a>
               <div>Chat with other twin mums and dads</div>
             </li>
             <li>
@@ -111,32 +111,22 @@
 
     </div>
     <div id="content">
-    <h1 class="header">Tips - Feeding</h1>
-<p><img src="../../images/bottle.gif" width="35" height="35"> Feed one baby per side - don't bother swapping to avoid
-                    confusion. Alternatively a band on your wrist may help you
-                    remember who was fed from which side.</p>
-<p><img src="../../images/bottle.gif" width="35" height="35">
-<b>Simpsons drop-in breastfeeding clinic</b> - every Tuesday afternoon 12noon till 4pm Simpson Centre for Reproductive Health, Ground Floor, near maternity clinics reception desk.  More specialist twin breastfeeding advice than you'll probably get at your local health centre.  Bring your twin pillow if you have one, but there is one there if you want to try one out.  Dads or other supporters welcome to come.  Prams are tricky as the room is very small - use baby carriers or bring car seats where possible.  People from West Lothian are welcome to use this service, too.</p>
-<p><img src="../../images/bottle.gif" width="35" height="35">
-<b>Special breastfeeding class for twins</b> - First Monday of every month 1.30 - 3pm Simpson Centre for Reproductive Health, Ground Floor, near maternity clinics reception desk.  This is meant to be in addition to your local antenatal class on breastfeeding.</p>
-<p><img src="../../images/bottle.gif" width="35" height="35">
-When introducing formula mix it with equal quantities of expressed
-                  milk as this will ease the transition for the babies and avoid
-                  your breasts becoming engorged.</p>
-<p><img src="../../images/bottle.gif" width="35" height="35">
-Bottle Feeding - 2 kettles are useful in case one breaks down;
-                  it also leaves one for other things.</p>
-<p><img src="../../images/bottle.gif" width="35" height="35">
-Be brave - to heat up milk use your microwave. Once you've
-                  tried it you'll wonder how you lived without it.</p>
-<p><img src="../../images/bottle.gif" width="35" height="35">
-Wash, sterilise and fill the bottle with boiled water, 1.5
-                  ounces less than the right measure and put in the fridge. When
-                  you need the bottle, just add the small amount of boiling water
-                  you need to make the full measure, add the milk formula, shake
-                  and it's ready. You've gained some more minutes, the temperature
-                  is perfect and you don't need wait until it cools down or heats
-                  up. Sometimes with crying babies 1 minute seems like 1 hour!!</p>
+    <h1 class="header">Recommended - Baby Books</h1>
+<p>
+<iframe src="http://rcm-uk.amazon.co.uk/e/cm?t=edinburghtwin-21&o=2&p=8&l=as1&asins=071814709X&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+<iframe src="http://rcm-uk.amazon.co.uk/e/cm?t=edinburghtwin-21&o=2&p=8&l=as1&asins=0976899108&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+</p>
+<p>Torie says -"baby secrets - Jo Tantum and Barbara Want - was recommended when I wanted to get them to sleep through the night and it worked!" 
+</p>
+<p>Tess recommends 12 hours in 12 weeks</p>
+<iframe src="http://rcm-uk.amazon.co.uk/e/cm?t=edinburghtwin-21&o=2&p=8&l=as1&asins=0071381392&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+<iframe src="http://rcm-uk.amazon.co.uk/e/cm?t=edinburghtwin-21&o=2&p=8&l=as1&asins=0091857023&fc1=000000&IS2=1&lt1=_blank&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe> 
+<iframe src="http://rcm-uk.amazon.co.uk/e/cm?t=edinburghtwin-21&o=2&p=8&l=as1&asins=0971453209&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+<iframe src="http://rcm-uk.amazon.co.uk/e/cm?t=edinburghtwin-21&o=2&p=8&l=as1&asins=0091906989&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+<p>
+</p>
+<p>Rachael has this to say about the above books - "the above books go from very flexible, to very structured.  The no-cry sleep solution is at the flexible end of the scale, and the Gina Ford is at the very structured.  Babywise (in the middle) is quite routine based.</p>
+</p>Emma also recommends The Baby Whisperer - "This was my bible for the first 6 months. It is not twin specific but it is all about understanding your baby and has sensible, gentle and flexible routines that work very well with one or more."</p>
     </div>
     <div class="clear">
       <br />

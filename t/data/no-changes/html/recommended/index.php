@@ -8,7 +8,7 @@
     
     <meta name="MSSmartTagsPreventParsing" content="true" />
     <meta name="ROBOTS" content="ALL" />
-    <title>Edinburgh Twins Club :: Tips</title>
+    <title>Edinburgh Twins Club :: Recommended</title>
   </head>
   <body>
 
@@ -46,7 +46,7 @@
                  </ul>
             </li>
             <li>
-              <a class="ulheading" href="../messageboard.html">Messageboard</a>
+              <a class="ulheading" href="../messageboard.php">Messageboard</a>
               <div>Chat with other twin mums and dads</div>
             </li>
             <li>
@@ -111,20 +111,22 @@
 
     </div>
     <div id="content">
-    <h1 class="header">Tips</h1>
-        <p>The following Tips are a taster of what existing members of the twins club have found in their time with multiples.<p>
-        <p>Remember it is only what worked for those people. Always listen
-              to your own instincts and don't be tempted to do what well meaning
-              relatives and friends feel you should be doing. You know best and
-              sometimes just trial and error will help you find what works for
-              your family.</p>
-        <p>In addition to the pages below, there is a very useful set of tips in a Word document <a href="../documents/ETC_Top_Tips.doc">here</a></p>
-            <p> <a href="feeding">Feeding</a> </p>
-            <p><a href="outabout">Out and About</a></p>
-            <p><a href="prams">Prams and Buggies</a></p>
-            <p><a href="general">General</a></p>
-            <p><a href="goodbuys">Good Buys</a></p>
-    </div>
+    <h1 class="header">Recommended</h1>
+      <p>
+       We asked the committee what books they liked and found useful.  Some books are specifically for multiples and others are just good general parenting guides.  There are also some of our favourite children's books.  If you buy any of the books using the Amazon links, the club gets a small percentage.</p>
+<p><a href="pregnancy">Pregnancy</a> - Both serious and fun reads to guide you through your pregnancy.</p>
+<p><a href="baby">Baby</a> - Parenting guides focused on the baby stage</p>
+<p><a href="toddler">Toddler</a> - Parenting guides focused on the toddler stage</p>
+<p><a href="child">Child</a> - Parenting guides to raising children</p>
+<p><a href="feeding">Feeding</a> - Cookery books for everything from weaning to family meals</p>
+<p><a href="booksforchildren">Books for children</a> - Our favourite story books for babies, toddlers and children</p>
+<p><a href="general">General</a> - General interest books involving multiples</p>
+
+<hr width=100% noshade size=1>
+<center>
+<img src="../graphics/photos/AandL4.jpg" height=150 order=1>
+</center>
+<hr width=100% noshade size=1>
     <div class="clear">
       <br />
     </div>

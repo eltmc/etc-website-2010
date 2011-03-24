@@ -8,7 +8,7 @@
     
     <meta name="MSSmartTagsPreventParsing" content="true" />
     <meta name="ROBOTS" content="ALL" />
-    <title>Edinburgh Twins Club :: About Us</title>
+    <title>Edinburgh and Lothians Twins and Multiples Club :: Join</title>
   </head>
   <body>
 
@@ -46,7 +46,7 @@
                  </ul>
             </li>
             <li>
-              <a class="ulheading" href="../messageboard.html">Messageboard</a>
+              <a class="ulheading" href="../messageboard.php">Messageboard</a>
               <div>Chat with other twin mums and dads</div>
             </li>
             <li>
@@ -111,24 +111,25 @@
 
     </div>
     <div id="content">
-    <h1 class="header">About Us</h1>
+    <h1 class="header">Why Join Edinburgh Twins Club?</h1>
         <p>
-The Edinburgh and Lothians Twins Club is a non-profit support group for those caring for twins and other multiples.  
-We have a membership of over 140 families, who we aim to help in a number of ways.  
-These include running 3 Babies, Bumps and Toddlers groups, 
-and providing a "First Year's" monthly support evening at St Johns Hospital for those expecting or with very young twins. 
-</p><p>
-We have negotiated a number of discounts for club members with a variety of vendors.
-There are regular social events including family days and Mum's and Dad's nights out.
-Monthly emails and a quarterly newsletter help keep in touch and provide interesting and funny articles on life with multiples.
-We have a messageboard for asking questions, having a chat, finding out ideas for days out, or buying and selling useful baby and toddler items.
-</p><p>
-Due to demand, we are looking into starting up another First Year's group at Edinburgh Royal Infirmary, and a Babies, Bumps and Toddlers group in Comely Bank.</p><p>
-The ethos of the club is to bring together and support those blessed with the arrival of more than one bundle of joy.  
-        </p>
+If you join the Edinburgh Twins Club (for the small cost of £10 pa), you will get the following benefits: -<br>
+<ul>
+  <li>Discounts from a number of companies (2 visits to Clarks shoe shop will pay for your membership fee !)</li>
+  <li>Support from people who are in the same position as yourself</li>
+  <li>Regular Newsletters</li>
+  <li>Organised Social Events</li>
+  <li>Weekly Bumps, Babies and Toddler sessions</li>
+  <li>"Swap Shop" or "Wanted" - details of equipment, toys and clothes for sale or wanted by members</li>
+  <li>Library of books and leaflets</li>
+</ul>        </p>
+<p>
+Download <a href="../documents/application-form.pdf">application form</a>
+
+</p>
 <hr width=100% noshade size=1>
 <center>
-<img src="../graphics/photos/niallowen.jpg" border=1>
+<img src="../graphics/photos/join.jpg" height=200 border=1>
 </center>
 <hr width=100% noshade size=1>
     </div>

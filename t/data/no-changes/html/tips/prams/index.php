@@ -8,7 +8,7 @@
     
     <meta name="MSSmartTagsPreventParsing" content="true" />
     <meta name="ROBOTS" content="ALL" />
-    <title>Edinburgh Twins Club :: Recommended - Pregnancy</title>
+    <title>Edinburgh Twins Club :: Tips - Prams</title>
   </head>
   <body>
 
@@ -46,7 +46,7 @@
                  </ul>
             </li>
             <li>
-              <a class="ulheading" href="../../messageboard.html">Messageboard</a>
+              <a class="ulheading" href="../../messageboard.php">Messageboard</a>
               <div>Chat with other twin mums and dads</div>
             </li>
             <li>
@@ -111,22 +111,23 @@
 
     </div>
     <div id="content">
-    <h1 class="header">Recommended - Pregnancy</h1>
-<p>
-<iframe src="http://rcm-uk.amazon.co.uk/e/cm?t=edinburghtwin-21&o=2&p=8&l=as1&asins=0007153988&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
-
-<iframe src="http://rcm-uk.amazon.co.uk/e/cm?t=edinburghtwin-21&o=2&p=8&l=as1&asins=1905410077&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
-
-<iframe src="http://rcm-uk.amazon.co.uk/e/cm?t=edinburghtwin-21&o=2&p=8&l=as1&asins=0091894859&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
-
-<iframe src="http://rcm-uk.amazon.co.uk/e/cm?t=edinburghtwin-21&o=2&p=8&l=as1&asins=0060542683&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
-</p>
-<p>Torie recommends the following books as good pregnancy reading - "Double Trouble by Emma Mahoney was fun and gave a little preparation for being a twin mum plus she's a twin herself.  
-Babies for beginners by Roni Jay. Comic but practical advice on what to do with the baby when it arrives.  
-Twins and Multiple Births by Carol Cooper (the Tamba Bible) very informative and a good read on twin and multiple births and parenting these children." 
-</p>
-<p>Rachael recommends Twins, Triplets or Quads - "Quite American, but I found it really useful to think about nutritian and rest etc"
-</p>
+    <h1 class="header">Tips - Prams</h1>
+        <p><img src="../../images/pram.gif" width="35" height="35">
+Join the Twins and Multiples Club and buy a second hand pram through the <a href="../../messageboard">messageboard</a> or in the Swap Shop in the quarterly Newsletter.</p>
+        <p><img src="../../images/pram.gif" width="35" height="35">
+Side-by-side buggies are good in as far as each child can
+                  easily see where it is going and has plenty of legroom. Most
+                  are now able to fit through a standard doorway, however take
+                  your measuring tape when buying to make sure.</p>
+        <p><img src="../../images/pram.gif" width="35" height="35">
+Tandem buggies are by far the easiest for gaining access through
+                  doorways, along narrow pavements and for getting on and off
+                  public transport such as trains or special buses with lowered
+                  suspension. They are however heavier than side-by-sides which
+                  only becomes a problem when babies become toddlers. Also check
+                  it fits in your car before you buy it !!</p>
+        <p><img src="../../images/pram.gif" width="35" height="35">
+Triplets - use a double buggy with a front or back pack.</p>
     </div>
     <div class="clear">
       <br />

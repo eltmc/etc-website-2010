@@ -18,12 +18,12 @@ my $unreachable_whitelist = [
 
 
 my $problem_whitelist = {
-    'events/index.html' => {
+    'events/index.php' => {
         'mailto:social@edinburghtwins.co.uk' => { 
             'non-http scheme' => 1,
         },
     },
-    'index.html' => {
+    'index.php' => {
         'messageboard/viewtopic.php?f=3&t=327' => {
             'link outside base dir: ../messageboard/viewtopic.php' => 1
         },
@@ -40,27 +40,27 @@ my $problem_whitelist = {
             'broken link' => 1
         }
     },
-    'groups/index.html' => {
+    'groups/index.php' => {
         '../messageboard/viewforum.php?f=7' => {
             'link outside base dir: ../messageboard/viewforum.php' => 1
         }
     },
-    'messageboard.html' => {
+    'messageboard.php' => {
         'messageboard/' => {
             'link outside base dir: ../messageboard' => 1
         }
     },
-    'tips/goodbuys/index.html' => {
+    'tips/goodbuys/index.php' => {
         '../../messageboard' => {
             'link outside base dir: ../messageboard' => 1
         }
     },
-    'tips/prams/index.html' => {
+    'tips/prams/index.php' => {
         '../../messageboard' => {
             'link outside base dir: ../messageboard' => 1
         }
     },
-    'triplets/index.html' => {
+    'triplets/index.php' => {
         '../messageboard' => {
             'link outside base dir: ../messageboard' => 1
         }
@@ -236,7 +236,7 @@ sub validate_html {
     $SUBSCRIBERS{$internal_path} ||= {};
 
     # Don't try to parse anything but HTML files
-    return unless $path =~ /\.html$/;
+    return unless $path =~ /\.(html|php)$/;
 
     # Parse the document, extract the links
     $lx->parse($path);
