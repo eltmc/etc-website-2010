@@ -47,7 +47,7 @@ group. The aim is to support families from the surrounding areas, both
 within and out with the West side of Edinburgh. The group meets every
 Friday morning at 9.30am to 11.30am in St Thomas&apos;s Church,
 Glasgow Road, Edinburgh, EH12 8LJ (see this <a
-href="http://maps.google.co.uk/maps/place?cid=7326416247164003070">map)</a>.
+href="http://maps.google.co.uk/maps/place?cid=7326416247164003070">map</a>).
 </p>
 
 <p>Parking and access to the group can be found to the rear of St
@@ -78,7 +78,7 @@ too. Latecomers welcome!</p>
 
 <p><b>Oxgangs First Year's Group meets at Oxgangs Neighbourhood
 Centre.</b> This is located at 71 Firrhill Drive, EH13 9EU (<a
-href="http://maps.google.co.uk/maps/place?cid=4151846121787784878">map</a>.</p>.
+href="http://maps.google.co.uk/maps/place?cid=4151846121787784878">map</a>).</p>
 
 <p><b>St John's First Year's Groups meets in the Parentcraft Room.</b>
 This is located in OPD3 next to the maternity entrance, on the ground
