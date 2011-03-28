@@ -10,14 +10,13 @@
     <title>Edinburgh Twins Club :: Message Board</title>
   </head>
   <body>
-
       
-      <div class="pagetitle">
+        <div class="pagetitle">
       <a href="./"><img src="./graphics/twinslogo7.gif" height="140" alt="Edinburgh and Lothians Twin Club" /></a><hr/>
       </div>
+
 <div id="nav">
-      <div class="button">
-      </div>
+      <div class="button"></div>
       <div id="links" class="menu">
         <div class="title">On <a href="./">Edinburgh Twins Club</a></div>
         <div class="menucontent">
@@ -107,29 +106,25 @@
 <iframe style="margin: 0 auto; border: 0; width: 120px; height: 90px;" src="http://rcm-uk.amazon.co.uk/e/cm?t=edinburghtwin-21&amp;o=2&amp;p=20&amp;l=qs1&amp;f=ifr" scrolling="no"></iframe>
         </div>
       </div>
+</div>
 
-    </div>
-    <div align="center">
-<p align="center"><font face="Comic Sans MS" font size="5" color="Black">
-Important Notice For New Users<br>
+
+    <div id="content">
+
+<h2>Important Notice For New Users</h2>
+<p>
+If you are looking to register for the message boards, please complete the registration form on the message board and then email your username to <a href="mailto:webmaster@edinburghtwins.co.uk">webmaster@edinburghtwins.co.uk</a> to confirm registration. Thanks for your cooperation.
 </p>
-<p align="center"><font face="Comic Sans MS" font size="3" color="Black">
-If you are looking to register for the message boards, please complete the registration form on the message board and then email your username to webmaster@edinburghtwins.co.uk to confirm registration. Thanks for your cooperation.<br>
-</p>
-<p align="center"><font face="Comic Sans MS" font size="5" color="Black">
-Important Notice Regarding the Message Board<br>
-</p>
-<p align="center"><font face="Comic Sans MS" font size="3" color="Black">
+
+<h2>Important Notice Regarding the Message Board</h2>
+<p>
 We recently had an issue with our message board which meant all previous posts were lost. If you had an account setup previously, you will need to re-register. If you follow the above note your registration will be processed quicker. We apologise for the inconvenience this causes you.
-<br>
 </p>
-<p align="center"><font face="Comic Sans MS" font size="5" color="Black">
-<a href="messageboard/">Continue to the Message Board</a><br>
+<p>
+<a href="messageboard/">Continue to the Message Board</a>
 </p>
 
-    <div class="clear">
-      <br />
-    </div>
+</div>
 <div id="footer">
 	<a href="http://www.tamba.org.uk">A member of TAMBA</a>
 	<hr />

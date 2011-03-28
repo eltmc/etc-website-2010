@@ -10,14 +10,13 @@
     <title>Edinburgh Twins Club :: Recommended - Child</title>
   </head>
   <body>
-
       
-      <div class="pagetitle">
+        <div class="pagetitle">
       <a href="../../"><img src="../../graphics/twinslogo7.gif" height="140" alt="Edinburgh and Lothians Twin Club" /></a><hr/>
       </div>
+
 <div id="nav">
-      <div class="button">
-      </div>
+      <div class="button"></div>
       <div id="links" class="menu">
         <div class="title">On <a href="../../">Edinburgh Twins Club</a></div>
         <div class="menucontent">
@@ -107,16 +106,14 @@
 <iframe style="margin: 0 auto; border: 0; width: 120px; height: 90px;" src="http://rcm-uk.amazon.co.uk/e/cm?t=edinburghtwin-21&amp;o=2&amp;p=20&amp;l=qs1&amp;f=ifr" scrolling="no"></iframe>
         </div>
       </div>
+</div>
 
-    </div>
+
     <div id="content">
     <h1 class="header">Recommended - Child</h1>
 <p>
 
 </p>
-    </div>
-    <div class="clear">
-      <br />
     </div>
 <div id="footer">
 	<a href="http://www.tamba.org.uk">A member of TAMBA</a>

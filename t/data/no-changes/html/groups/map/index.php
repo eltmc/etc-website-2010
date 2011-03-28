@@ -1,4 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
@@ -17,7 +18,7 @@
 
  type="text/javascript">
     </script>
-   <script language="JavaScript">
+   <script language="javascript" type="text/javascript">
     dataSet = new Array()
     dataObj = new Object()
     dataColorObj = new Object();
@@ -27,10 +28,10 @@
     dataSiteLongObj=new Object();
     dataSiteLatObj=new Object();
    </script>
-   <script language="JavaScript" src="groupdata.js"></script>
-   <script language="JavaScript" src="gpsdata.js"></script>
+   <script language="javascript" type="text/javascript" src="groupdata.js"></script>
+   <script language="javascript" type="text/javascript" src="gpsdata.js"></script>
 
-    <script type="text/javascript">
+    <script language="javascript" type="text/javascript">
     //<![CDATA[
 
     function onLoad() {
@@ -126,27 +127,10 @@ map.addOverlay(marker);
   </head>
   <body onload="onLoad()">
       <div class="pagetitle">
-      </div>
-      <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-  <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <link rel="stylesheet" type="text/css" href="../../css/global.css" />
-    
-    <meta name="MSSmartTagsPreventParsing" content="true" />
-    <meta name="ROBOTS" content="ALL" />
-    <title>Edinburgh and Lothians Twins and Multiples Club :: Groups - Map</title>
-  </head>
-  <body>
-
-      
-      <div class="pagetitle">
       <a href="../../"><img src="../../graphics/twinslogo7.gif" height="140" alt="Edinburgh and Lothians Twin Club" /></a><hr/>
       </div>
 <div id="nav">
-      <div class="button">
-      </div>
+      <div class="button"></div>
       <div id="links" class="menu">
         <div class="title">On <a href="../../">Edinburgh Twins Club</a></div>
         <div class="menucontent">
@@ -236,11 +220,17 @@ map.addOverlay(marker);
 <iframe style="margin: 0 auto; border: 0; width: 120px; height: 90px;" src="http://rcm-uk.amazon.co.uk/e/cm?t=edinburghtwin-21&amp;o=2&amp;p=20&amp;l=qs1&amp;f=ifr" scrolling="no"></iframe>
         </div>
       </div>
-    </div>
+</div>
+
+<div id="content">
     <h1 class="header">Map of Regular Group Locations</h1>
     <div id="map" style="width: 600px; height: 400px"></div>
     <div id="message"></div>
-<br><br>The above map shows all our regular group meeting locations.  Babies, Bumps and Toddler groups are marked with green balloons.  The First Years group is marked in yellow.  Click on a balloon for more information about meeting times, and directions. Double click on the map to zoom in on a location.<br><br>
+
+<p>The above map shows all our regular group meeting locations.  Babies, Bumps and Toddler groups are marked with green balloons.  The First Years group is marked in yellow.  Click on a balloon for more information about meeting times, and directions. Double click on the map to zoom in on a location.</p>
+
+</div>
+
 <div id="footer">
 	<a href="http://www.tamba.org.uk">A member of TAMBA</a>
 	<hr />
@@ -249,8 +239,5 @@ map.addOverlay(marker);
   </body>
 </html>
 
-</div>
-  </body>
-</html>
 
 

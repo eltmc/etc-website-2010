@@ -10,14 +10,13 @@
     <title>Edinburgh Twins Club :: Events</title>
   </head>
   <body>
-
       
-      <div class="pagetitle">
+        <div class="pagetitle">
       <a href="../"><img src="../graphics/twinslogo7.gif" height="140" alt="Edinburgh and Lothians Twin Club" /></a><hr/>
       </div>
+
 <div id="nav">
-      <div class="button">
-      </div>
+      <div class="button"></div>
       <div id="links" class="menu">
         <div class="title">On <a href="../">Edinburgh Twins Club</a></div>
         <div class="menucontent">
@@ -107,12 +106,9 @@
 <iframe style="margin: 0 auto; border: 0; width: 120px; height: 90px;" src="http://rcm-uk.amazon.co.uk/e/cm?t=edinburghtwin-21&amp;o=2&amp;p=20&amp;l=qs1&amp;f=ifr" scrolling="no"></iframe>
         </div>
       </div>
-<style>
-.cancelled {
-      text-decoration: line-through;
-}
-</style>
-    </div>
+</div>
+
+
     <div id="content">
     <h1 class="header">Events</h1>
 
@@ -142,17 +138,14 @@ href="http://www.ceilidhkids.com">www.ceilidhkids.com</a></p>
 <p style="margin-left: 2em">
 
   <b>Where:</b>
-  <span>St Thomas' Church, 79 Glasgow Road, Corstorphine, Edinburgh, EH12 8LJ (<a href="http://maps.google.co.uk/maps/place?cid=7326416247164003070">map</a>)</span><br>
+  <span>St Thomas' Church, 79 Glasgow Road, Corstorphine, Edinburgh, EH12 8LJ (<a href="http://maps.google.co.uk/maps/place?cid=7326416247164003070">map</a>)</span><br/>
   <b>When:</b>
-  <span>Saturday February 26th, 10:00am - 12:00pm; A snack lunch will be provided.</span><br>
+  <span>Saturday February 26th, 10:00am - 12:00pm; A snack lunch will be provided.</span><br/>
   <b>Entry:</b>
-  <span>&pound;4 per participating child (non-dancers free)</span><br>
+  <span>&pound;4 per participating child (non-dancers free)</span><br/>
 
 </p> 
-
-    <div class="clear">
-      <br />
-    </div>
+</div>
 <div id="footer">
 	<a href="http://www.tamba.org.uk">A member of TAMBA</a>
 	<hr />

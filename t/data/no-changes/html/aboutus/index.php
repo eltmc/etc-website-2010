@@ -10,14 +10,13 @@
     <title>Edinburgh Twins Club :: About Us</title>
   </head>
   <body>
-
       
-      <div class="pagetitle">
+        <div class="pagetitle">
       <a href="../"><img src="../graphics/twinslogo7.gif" height="140" alt="Edinburgh and Lothians Twin Club" /></a><hr/>
       </div>
+
 <div id="nav">
-      <div class="button">
-      </div>
+      <div class="button"></div>
       <div id="links" class="menu">
         <div class="title">On <a href="../">Edinburgh Twins Club</a></div>
         <div class="menucontent">
@@ -107,8 +106,9 @@
 <iframe style="margin: 0 auto; border: 0; width: 120px; height: 90px;" src="http://rcm-uk.amazon.co.uk/e/cm?t=edinburghtwin-21&amp;o=2&amp;p=20&amp;l=qs1&amp;f=ifr" scrolling="no"></iframe>
         </div>
       </div>
+</div>
 
-    </div>
+
     <div id="content">
     <h1 class="header">About Us</h1>
         <p>
@@ -125,15 +125,12 @@ We have a messageboard for asking questions, having a chat, finding out ideas fo
 Due to demand, we are looking into starting up another First Year's group at Edinburgh Royal Infirmary, and a Babies, Bumps and Toddlers group in Comely Bank.</p><p>
 The ethos of the club is to bring together and support those blessed with the arrival of more than one bundle of joy.  
         </p>
-<hr width=100% noshade size=1>
-<center>
-<img src="../graphics/photos/niallowen.jpg" border=1>
-</center>
-<hr width=100% noshade size=1>
-    </div>
-    <div class="clear">
-      <br />
-    </div>
+
+<div class="elastic-photo-bar">
+<img src="../graphics/photos/niallowen.jpg" alt="things 1 and 2"/>
+</div>
+
+</div>
 <div id="footer">
 	<a href="http://www.tamba.org.uk">A member of TAMBA</a>
 	<hr />

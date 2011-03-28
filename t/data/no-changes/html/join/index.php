@@ -10,14 +10,13 @@
     <title>Edinburgh and Lothians Twins and Multiples Club :: Join</title>
   </head>
   <body>
-
       
-      <div class="pagetitle">
+        <div class="pagetitle">
       <a href="../"><img src="../graphics/twinslogo7.gif" height="140" alt="Edinburgh and Lothians Twin Club" /></a><hr/>
       </div>
+
 <div id="nav">
-      <div class="button">
-      </div>
+      <div class="button"></div>
       <div id="links" class="menu">
         <div class="title">On <a href="../">Edinburgh Twins Club</a></div>
         <div class="menucontent">
@@ -107,12 +106,14 @@
 <iframe style="margin: 0 auto; border: 0; width: 120px; height: 90px;" src="http://rcm-uk.amazon.co.uk/e/cm?t=edinburghtwin-21&amp;o=2&amp;p=20&amp;l=qs1&amp;f=ifr" scrolling="no"></iframe>
         </div>
       </div>
+</div>
 
-    </div>
+
     <div id="content">
     <h1 class="header">Why Join Edinburgh Twins Club?</h1>
         <p>
-If you join the Edinburgh Twins Club (for the small cost of £10 pa), you will get the following benefits: -<br>
+If you join the Edinburgh Twins Club (for the small cost of £10 pa), you will get the following benefits:</p>
+
 <ul>
   <li>Discounts from a number of companies (2 visits to Clarks shoe shop will pay for your membership fee !)</li>
   <li>Support from people who are in the same position as yourself</li>
@@ -121,20 +122,16 @@ If you join the Edinburgh Twins Club (for the small cost of £10 pa), you will g
   <li>Weekly Bumps, Babies and Toddler sessions</li>
   <li>"Swap Shop" or "Wanted" - details of equipment, toys and clothes for sale or wanted by members</li>
   <li>Library of books and leaflets</li>
-</ul>        </p>
+</ul>
 <p>
 Download <a href="../documents/application-form.pdf">application form</a>
-
 </p>
-<hr width=100% noshade size=1>
-<center>
-<img src="../graphics/photos/join.jpg" height=200 border=1>
-</center>
-<hr width=100% noshade size=1>
-    </div>
-    <div class="clear">
-      <br />
-    </div>
+
+<div class="elastic-photo-bar">
+<img src="../graphics/photos/join.jpg" alt="twins on a slide"/>
+</div>
+
+</div>
 <div id="footer">
 	<a href="http://www.tamba.org.uk">A member of TAMBA</a>
 	<hr />

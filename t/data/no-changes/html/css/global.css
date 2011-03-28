@@ -225,6 +225,7 @@ div#footer {
     font-size:10px;
     text-align:center;
     margin-bottom:5ex;
+    clear: both;
 }
 
 div#footer hr 
@@ -316,7 +317,7 @@ div.announcements {
     margin-bottom: 1em;
 }
 
-div.photo-bar {
+div.photo-bar, div.elastic-photo-bar {
     text-align: center;
     margin: 0.5em auto;
     border-top: solid black 1px;
@@ -330,4 +331,23 @@ div.support-footer {
 }
 .photo-bar img {
     height: 100px;
+}
+.cancelled {
+    text-decoration: line-through;
+}
+/* decorations used in tips pages */
+.bottle p:before {
+    content: url(../images/bottle.gif);
+}
+.info p:before {
+    content: url(../images/info.gif);
+}
+.money p:before {
+    content: url(../images/money.gif) " ";
+}
+.outandabout p:before {
+    content: url(../images/outandabout.gif) " ";
+}
+.pram p:before {
+    content: url(../images/pram.gif) " ";
 }

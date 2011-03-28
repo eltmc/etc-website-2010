@@ -10,14 +10,13 @@
     <title>Edinburgh Twins Club :: Recommended</title>
   </head>
   <body>
-
       
-      <div class="pagetitle">
+        <div class="pagetitle">
       <a href="../"><img src="../graphics/twinslogo7.gif" height="140" alt="Edinburgh and Lothians Twin Club" /></a><hr/>
       </div>
+
 <div id="nav">
-      <div class="button">
-      </div>
+      <div class="button"></div>
       <div id="links" class="menu">
         <div class="title">On <a href="../">Edinburgh Twins Club</a></div>
         <div class="menucontent">
@@ -107,8 +106,9 @@
 <iframe style="margin: 0 auto; border: 0; width: 120px; height: 90px;" src="http://rcm-uk.amazon.co.uk/e/cm?t=edinburghtwin-21&amp;o=2&amp;p=20&amp;l=qs1&amp;f=ifr" scrolling="no"></iframe>
         </div>
       </div>
+</div>
 
-    </div>
+
     <div id="content">
     <h1 class="header">Recommended</h1>
       <p>
@@ -121,14 +121,11 @@
 <p><a href="booksforchildren">Books for children</a> - Our favourite story books for babies, toddlers and children</p>
 <p><a href="general">General</a> - General interest books involving multiples</p>
 
-<hr width=100% noshade size=1>
-<center>
-<img src="../graphics/photos/AandL4.jpg" height=150 order=1>
-</center>
-<hr width=100% noshade size=1>
-    <div class="clear">
-      <br />
-    </div>
+<div class="elastic-photo-bar">
+<img src="../graphics/photos/AandL4.jpg" alt="twins"/>
+</div>
+
+</div>
 <div id="footer">
 	<a href="http://www.tamba.org.uk">A member of TAMBA</a>
 	<hr />

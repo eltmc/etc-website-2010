@@ -10,14 +10,13 @@
     <title>Edinburgh Twins Club :: Groups</title>
   </head>
   <body>
-
       
-      <div class="pagetitle">
+        <div class="pagetitle">
       <a href="../"><img src="../graphics/twinslogo7.gif" height="140" alt="Edinburgh and Lothians Twin Club" /></a><hr/>
       </div>
+
 <div id="nav">
-      <div class="button">
-      </div>
+      <div class="button"></div>
       <div id="links" class="menu">
         <div class="title">On <a href="../">Edinburgh Twins Club</a></div>
         <div class="menucontent">
@@ -107,8 +106,9 @@
 <iframe style="margin: 0 auto; border: 0; width: 120px; height: 90px;" src="http://rcm-uk.amazon.co.uk/e/cm?t=edinburghtwin-21&amp;o=2&amp;p=20&amp;l=qs1&amp;f=ifr" scrolling="no"></iframe>
         </div>
       </div>
+</div>
 
-    </div>
+
     <div id="content">
     <h1 class="header">Groups</h1>
 
@@ -151,7 +151,7 @@ group. The aim is to support families from the surrounding areas, both
 within and out with the West side of Edinburgh. The group meets every
 Friday morning at 9.30am to 11.30am in St Thomas&apos;s Church,
 Glasgow Road, Edinburgh, EH12 8LJ (see this <a
-href="http://maps.google.co.uk/maps/place?cid=7326416247164003070">map)</a>.
+href="http://maps.google.co.uk/maps/place?cid=7326416247164003070">map</a>).
 </p>
 
 <p>Parking and access to the group can be found to the rear of St
@@ -182,7 +182,7 @@ too. Latecomers welcome!</p>
 
 <p><b>Oxgangs First Year's Group meets at Oxgangs Neighbourhood
 Centre.</b> This is located at 71 Firrhill Drive, EH13 9EU (<a
-href="http://maps.google.co.uk/maps/place?cid=4151846121787784878">map</a>)</b>.
+href="http://maps.google.co.uk/maps/place?cid=4151846121787784878">map</a>).</p>
 
 <p><b>St John's First Year's Groups meets in the Parentcraft Room.</b>
 This is located in OPD3 next to the maternity entrance, on the ground
@@ -197,20 +197,20 @@ Year's message board</a> for address and directions/buses.</p>
 <p>Topics and venues are as follows:</p>
 
 <ul>
-<li>March - <b>HELP (Childcare & Support)</b> <i>(Oxgangs)</i>
-<li>April - <b>Weaning / Feeding</b> <i>(St Johns)</i>
-<li>May - <b>Childhood Illnesses</b> <i>(Oxgangs)</i>
-<li>June - <b>Routines & Sleep</b> <i>(St Johns)</i>
-<li>July - <i>NO FIRST YEARS</i>
-<li>August - <b>Development</b> <i>(St Johns)</i>
+<li>March - <b>HELP (Childcare &amp; Support)</b> <i>(Oxgangs)</i></li>
+<li>April - <b>Weaning / Feeding</b> <i>(St Johns)</i></li>
+<li>May - <b>Childhood Illnesses</b> <i>(Oxgangs)</i></li>
+<li>June - <b>Routines &amp; Sleep</b> <i>(St Johns)</i></li>
+<li>July - <i>NO FIRST YEARS</i></li>
+<li>August - <b>Development</b> <i>(St Johns)</i></li>
 </ul>
 
 <p>These groups offer a good chance to meet other people at the same
 stage, and talk to multiple mums who've been there already and can
 give advice and support. <!--More information in this Word <a
 href="http://www.edinburghtwins.co.uk/documents/First_Years.doc">document</a>.
-</p>-->
-
+-->
+</p>
 
 <h2>Other groups</h2>
 
@@ -245,9 +245,7 @@ all!  </p>
 
 
     </div>
-    <div class="clear">
-      <br />
-    </div>
+
 <div id="footer">
 	<a href="http://www.tamba.org.uk">A member of TAMBA</a>
 	<hr />
