@@ -12,7 +12,7 @@
   <body>
       
         <div class="pagetitle">
-      <a href="."><img src="graphics/twinslogo7.gif" height="140" alt="Edinburgh and Lothians Twin Club" /></a><hr/>
+      <a href="."><img src="graphics/twinslogo7.gif" alt="Edinburgh and Lothians Twin Club" /></a><hr/>
       </div>
 
 <div id="nav">
