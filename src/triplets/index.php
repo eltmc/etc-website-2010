@@ -18,7 +18,7 @@
 
 <p>Please feel free to email me or give me a call.  It would be really wonderful if we could build up a support network of triplet parents, people who have been through or are going through similar situations.  Support is a vital element when dealing with multiples so please get in touch.</p>
 <p><strong>Tess:</strong>    
-Tel - 0131 260 0392; email - <a href="triplets@edinburghtwins.co.uk">triplets@edinburghtwins.co.uk</a>
+Tel - 0131 260 0392; email - <a href="mailto:triplets@edinburghtwins.co.uk">triplets@edinburghtwins.co.uk</a>
 </p>
 
 <p><i>p.s.</i> See the <a href="[% root %]events">events page</a> for details of upcoming triplets parents evenings!</p>
