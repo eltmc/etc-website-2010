@@ -14,6 +14,14 @@ my $base_dir = abs_path "$Bin/../html";
 
 my $unreachable_whitelist = [
     '.htpasswd',
+
+    # These are reachable, but invisibly (currently) because they are referenced by stylesheets. 
+    # Ideally this test would ferret out stylesheet links too.
+    'images/bottle.gif',
+    'images/info.gif',
+    'images/money.gif',
+    'images/outandabout.gif',
+    'images/pram.gif',
 ];
 
 
@@ -48,7 +56,10 @@ my $problem_whitelist = {
     'messageboard.php' => {
         'messageboard/' => {
             'link outside base dir: ../messageboard' => 1
-        }
+        },
+        'mailto:webmaster@edinburghtwins.co.uk' => {
+            'non-http scheme' => 1
+        },
     },
     'tips/goodbuys/index.php' => {
         '../../messageboard' => {
@@ -61,10 +72,45 @@ my $problem_whitelist = {
         }
     },
     'triplets/index.php' => {
-        '../messageboard' => {
+        '../messageboard?f=6' => {
             'link outside base dir: ../messageboard' => 1
-        }
+        },
+        'mailto:triplets@edinburghtwins.co.uk' => {
+            'non-http scheme' => 1
+        },
     },
+    'contacts/index.php' => {
+        'mailto:newsletter@edinburghtwins.co.uk' => {
+            'non-http scheme' => 1
+        },
+        'mailto:oxgangs@edinburghtwins.co.uk' => {
+            'non-http scheme' => 1
+        },
+        'mailto:firstyears@edinburghtwins.co.uk' => {
+            'non-http scheme' => 1
+        },
+        'mailto:sqf@edinburghtwins.co.uk' => {
+            'non-http scheme' => 1
+        },
+        'mailto:membership@edinburghtwins.co.uk' => {
+            'non-http scheme' => 1
+        },
+        'mailto:joppa@edinburghtwins.co.uk' => {
+            'non-http scheme' => 1
+        },
+        'mailto:webmaster@edinburghtwins.co.uk' => {
+            'non-http scheme' => 1
+        },
+        'mailto:chair@edinburghtwins.co.uk' => {
+            'non-http scheme' => 1
+        },
+        'mailto:social@edinburghtwins.co.uk' => {
+            'non-http scheme' => 1
+        },
+        'mailto:comelybank@edinburghtwins.co.uk' => {
+            'non-http scheme' => 1
+        }
+    }
 };
 
 my %PROBLEMS;
