@@ -5,35 +5,57 @@
     INCLUDE 'sidebar.inc';
 %]
 
-    </div>
     <div id="content">
     <h1 class="header">Contacts</h1>
-<p><strong>The club is run by a group of volunteers who make up the committee.  We can be contacted using the following email addresses:</strong>
-<br><br>
-<strong>Chairperson:</strong><br>
-chair@edinburghtwins.co.uk<br><br>
-<strong>Social Events</strong> for bookings or to share an event idea:<br>
-social@edinburghtwins.co.uk<br><br>
-<strong>Membership</strong> enquiries:<br>
-membership@edinburghtwins.co.uk<br><br>
-<strong>Newletter</strong> enquiries or article ideas:<br>
-newsletter@edinburghtwins.co.uk<br><br>
-<strong>Website</strong> comments or questions:<br>
-webmaster@edinburghtwins.co.uk<br><br>
-<strong>Each of the regular Babies, Bumps and Toddler groups has a coordinator.  If you have any questions they can be contacted as follows:</strong><br><br>
-<strong>Comeley Bank:</strong><br>
-comelybank@edinburghtwins.co.uk<br><br>
-)<strong>Joppa:</strong><br>
-joppa@edinburghtwins.co.uk<br><br>
-<strong>Oxgangs:</strong><br>
-oxgangs@edinburghtwins.co.uk<br><br>
-<strong>South Queensferry:</strong><br>
-sqf@edinburghtwins.co.uk<br><br>
-<strong>There are now two First Years groups, however they are currently contactable via a single address:</strong><br><br>
-<strong>First Years:</strong><br>
-firstyears@edinburghtwins.co.uk<br><br>
-    </div>
-    <div class="clear">
-      <br />
-    </div>
+
+<h2>Committee</h2>
+<p>The club is run by a group of volunteers who make up the committee.  We can be contacted using the following email addresses:</p>
+
+<dl>
+  <dt>Chairperson:</dt>
+  <dd><a href="mailto:chair@edinburghtwins.co.uk">chair@edinburghtwins.co.uk</a></dd>
+
+  <dt>Social Events - for bookings or to share an event idea:</dt>
+  <dd><a href="mailto:social@edinburghtwins.co.uk">social@edinburghtwins.co.uk</a></dd>
+
+  <dt>Membership - enquiries:</dt>
+  <dd><a href="mailto:membership@edinburghtwins.co.uk">membership@edinburghtwins.co.uk</a></dd>
+
+  <dt>Newletter - enquiries or article ideas:</dt>
+  <dd><a href="mailto:newsletter@edinburghtwins.co.uk">newsletter@edinburghtwins.co.uk</a></dd>
+
+  <dt>Website - comments or questions:</dt>
+  <dd><a href="mailto:webmaster@edinburghtwins.co.uk">webmaster@edinburghtwins.co.uk</a></dd>
+</dl>
+
+<h2>Babies, Bumps and Toddler groups</h2>
+<p>Each of the regular Babies, Bumps and Toddler groups has a
+coordinator.  If you have any questions they can be contacted as
+follows:</p>
+
+<dl>
+  <dt>Comeley Bank:</dt>
+  <dd><a href="mailto:comelybank@edinburghtwins.co.uk">comelybank@edinburghtwins.co.uk</a></dd>
+
+  <dt>Joppa:</dt>
+  <dd><a href="mailto:joppa@edinburghtwins.co.uk">joppa@edinburghtwins.co.uk</a></dd>
+
+  <dt>Oxgangs:</dt>
+  <dd><a href="mailto:oxgangs@edinburghtwins.co.uk">oxgangs@edinburghtwins.co.uk</a></dd>
+
+  <dt>South Queensferry:</dt>
+  <dd><a href="mailto:sqf@edinburghtwins.co.uk">sqf@edinburghtwins.co.uk</a></dd>
+</dl>
+
+<h2>First Years groups</h2>
+<p>There are now two First Years groups, however they are currently
+contactable via a single address:</p>
+
+<dl>
+  <dt>First Years:</dt>
+  <dd><a href="mailto:firstyears@edinburghtwins.co.uk">firstyears@edinburghtwins.co.uk</a></dd>
+</dl>
+
+</div>
+
 [% INCLUDE 'footer.inc'; %]

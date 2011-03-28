@@ -5,7 +5,6 @@
     INCLUDE 'sidebar.inc';
 %]
 
-    </div>
     <div id="content">
 
         <p><strong>Hello and welcome to the Edinburgh Twins Club

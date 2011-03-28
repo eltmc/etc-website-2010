@@ -5,7 +5,6 @@
     INCLUDE 'sidebar.inc';
 %]
 
-    </div>
     <div id="content">
     <h1 class="header">Groups</h1>
 
@@ -79,7 +78,7 @@ too. Latecomers welcome!</p>
 
 <p><b>Oxgangs First Year's Group meets at Oxgangs Neighbourhood
 Centre.</b> This is located at 71 Firrhill Drive, EH13 9EU (<a
-href="http://maps.google.co.uk/maps/place?cid=4151846121787784878">map</a>)</b>.
+href="http://maps.google.co.uk/maps/place?cid=4151846121787784878">map</a>.</p>.
 
 <p><b>St John's First Year's Groups meets in the Parentcraft Room.</b>
 This is located in OPD3 next to the maternity entrance, on the ground
@@ -94,20 +93,20 @@ Year's message board</a> for address and directions/buses.</p>
 <p>Topics and venues are as follows:</p>
 
 <ul>
-<li>March - <b>HELP (Childcare & Support)</b> <i>(Oxgangs)</i>
-<li>April - <b>Weaning / Feeding</b> <i>(St Johns)</i>
-<li>May - <b>Childhood Illnesses</b> <i>(Oxgangs)</i>
-<li>June - <b>Routines & Sleep</b> <i>(St Johns)</i>
-<li>July - <i>NO FIRST YEARS</i>
-<li>August - <b>Development</b> <i>(St Johns)</i>
+<li>March - <b>HELP (Childcare &amp; Support)</b> <i>(Oxgangs)</i></li>
+<li>April - <b>Weaning / Feeding</b> <i>(St Johns)</i></li>
+<li>May - <b>Childhood Illnesses</b> <i>(Oxgangs)</i></li>
+<li>June - <b>Routines &amp; Sleep</b> <i>(St Johns)</i></li>
+<li>July - <i>NO FIRST YEARS</i></li>
+<li>August - <b>Development</b> <i>(St Johns)</i></li>
 </ul>
 
 <p>These groups offer a good chance to meet other people at the same
 stage, and talk to multiple mums who've been there already and can
 give advice and support. <!--More information in this Word <a
 href="http://www.edinburghtwins.co.uk/documents/First_Years.doc">document</a>.
-</p>-->
-
+-->
+</p>
 
 <h2>Other groups</h2>
 
@@ -142,7 +141,5 @@ all!  </p>
 
 
     </div>
-    <div class="clear">
-      <br />
-    </div>
+
 [% INCLUDE 'footer.inc'; %]

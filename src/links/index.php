@@ -5,7 +5,6 @@
     INCLUDE 'sidebar.inc';
 %]
 
-    </div>
     <div id="content">
     <h1 class="header">Links</h1>
         <p>
@@ -82,7 +81,5 @@ Excellent community site to catch up with other parents
 <p>If you come across any other useful links on your web travels,
                 please let us know.</p>
     </div>
-    <div class="clear">
-      <br />
-    </div>
+
 [% INCLUDE 'footer.inc'; %]

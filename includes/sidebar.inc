@@ -1,6 +1,5 @@
 <div id="nav">
-      <div class="button">
-      </div>
+      <div class="button"></div>
       <div id="links" class="menu">
         <div class="title">On <a href="[% root || '.' %]">Edinburgh Twins Club</a></div>
         <div class="menucontent">
@@ -90,3 +89,4 @@
 <iframe style="margin: 0 auto; border: 0; width: 120px; height: 90px;" src="http://rcm-uk.amazon.co.uk/e/cm?t=edinburghtwin-21&amp;o=2&amp;p=20&amp;l=qs1&amp;f=ifr" scrolling="no"></iframe>
         </div>
       </div>
+</div>

@@ -5,7 +5,6 @@
     INCLUDE 'sidebar.inc';
 %]
 
-    </div>
     <div id="content">
     <h1 class="header">About Us</h1>
         <p>
@@ -22,13 +21,10 @@ We have a messageboard for asking questions, having a chat, finding out ideas fo
 Due to demand, we are looking into starting up another First Year's group at Edinburgh Royal Infirmary, and a Babies, Bumps and Toddlers group in Comely Bank.</p><p>
 The ethos of the club is to bring together and support those blessed with the arrival of more than one bundle of joy.  
         </p>
-<hr width=100% noshade size=1>
-<center>
-<img src="../graphics/photos/niallowen.jpg" border=1>
-</center>
-<hr width=100% noshade size=1>
-    </div>
-    <div class="clear">
-      <br />
-    </div>
+
+<div class="elastic-photo-bar">
+<img src="../graphics/photos/niallowen.jpg" alt="things 1 and 2"/>
+</div>
+
+</div>
 [% INCLUDE 'footer.inc'; %]

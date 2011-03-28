@@ -5,7 +5,6 @@
     INCLUDE 'sidebar.inc';
 %]
 
-    </div>
     <div id="content">
     <h1 class="header">Recommended</h1>
       <p>
@@ -18,12 +17,9 @@
 <p><a href="booksforchildren">Books for children</a> - Our favourite story books for babies, toddlers and children</p>
 <p><a href="general">General</a> - General interest books involving multiples</p>
 
-<hr width=100% noshade size=1>
-<center>
-<img src="[% root %]graphics/photos/AandL4.jpg" height=150 order=1>
-</center>
-<hr width=100% noshade size=1>
-    <div class="clear">
-      <br />
-    </div>
+<div class="elastic-photo-bar">
+<img src="[% root %]graphics/photos/AandL4.jpg" alt="twins"/>
+</div>
+
+</div>
 [% INCLUDE 'footer.inc'; %]

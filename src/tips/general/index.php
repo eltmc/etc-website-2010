@@ -5,19 +5,15 @@
     INCLUDE 'sidebar.inc';
 %]
 
-    </div>
-    <div id="content">
+    <div id="content" class="info">
     <h1 class="header">Tips - General</h1>
-        <p><img src="../../images/info.gif" width="35" height="35">
-Get out and about as much as possible, come to the Twins and Multiples Club
+        <p>Get out and about as much as possible, come to the Twins and Multiples Club
                   regularly and join other local Mother and Baby groups or N.C.T.
                   groups. Having different people to speak to and share experiences
                   with stops you becoming isolated and overwhelmed.</p>
-        <p><img src="../../images/info.gif" width="35" height="35">
-In the early days try to just concentrate on the babies and
+        <p>In the early days try to just concentrate on the babies and
                   leave everything else (don't worry about the dusting !)</p>
-        <p><img src="../../images/info.gif" width="35" height="35">
-If things are getting on top of you phone someone from
+        <p>If things are getting on top of you phone someone from
                     the Twins and Multiples Club. The chairperson may be able to put you in
                     touch with another member who has experienced similar problems
                     if you wish. This could involve anything from problems with
@@ -26,7 +22,5 @@ If things are getting on top of you phone someone from
                     IVF or discussing concerns you may have about returning to
                     work.</p>
     </div>
-    <div class="clear">
-      <br />
-    </div>
+
 [% INCLUDE 'footer.inc'; %]

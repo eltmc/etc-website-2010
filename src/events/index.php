@@ -4,12 +4,7 @@
     INCLUDE 'header.inc';
     INCLUDE 'sidebar.inc';
 %]
-<style>
-.cancelled {
-      text-decoration: line-through;
-}
-</style>
-    </div>
+
     <div id="content">
     <h1 class="header">Events</h1>
 
@@ -39,15 +34,12 @@ href="http://www.ceilidhkids.com">www.ceilidhkids.com</a></p>
 <p style="margin-left: 2em">
 
   <b>Where:</b>
-  <span>St Thomas' Church, 79 Glasgow Road, Corstorphine, Edinburgh, EH12 8LJ (<a href="http://maps.google.co.uk/maps/place?cid=7326416247164003070">map</a>)</span><br>
+  <span>St Thomas' Church, 79 Glasgow Road, Corstorphine, Edinburgh, EH12 8LJ (<a href="http://maps.google.co.uk/maps/place?cid=7326416247164003070">map</a>)</span><br/>
   <b>When:</b>
-  <span>Saturday February 26th, 10:00am - 12:00pm; A snack lunch will be provided.</span><br>
+  <span>Saturday February 26th, 10:00am - 12:00pm; A snack lunch will be provided.</span><br/>
   <b>Entry:</b>
-  <span>&pound;4 per participating child (non-dancers free)</span><br>
+  <span>&pound;4 per participating child (non-dancers free)</span><br/>
 
 </p> 
-
-    <div class="clear">
-      <br />
-    </div>
+</div>
 [% INCLUDE 'footer.inc'; %]

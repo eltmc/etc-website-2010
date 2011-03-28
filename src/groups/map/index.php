@@ -1,4 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
@@ -17,7 +18,7 @@
 
  type="text/javascript">
     </script>
-   <script language="JavaScript">
+   <script language="javascript" type="text/javascript">
     dataSet = new Array()
     dataObj = new Object()
     dataColorObj = new Object();
@@ -27,10 +28,10 @@
     dataSiteLongObj=new Object();
     dataSiteLatObj=new Object();
    </script>
-   <script language="JavaScript" src="groupdata.js"></script>
-   <script language="JavaScript" src="gpsdata.js"></script>
+   <script language="javascript" type="text/javascript" src="groupdata.js"></script>
+   <script language="javascript" type="text/javascript" src="gpsdata.js"></script>
 
-    <script type="text/javascript">
+    <script language="javascript" type="text/javascript">
     //<![CDATA[
 
     function onLoad() {
@@ -125,24 +126,22 @@ map.addOverlay(marker);
 
   </head>
   <body onload="onLoad()">
-      <div class="pagetitle">
-      </div>
-      [%
-    SET title = "Edinburgh and Lothians Twins and Multiples Club :: Groups - Map";
+[%
     SET root = "../../";
-    INCLUDE 'header.inc';
+    PROCESS 'banner.inc';
     INCLUDE 'sidebar.inc';
-      %]
-    </div>
+%]
+<div id="content">
     <h1 class="header">Map of Regular Group Locations</h1>
     <div id="map" style="width: 600px; height: 400px"></div>
     <div id="message"></div>
-<br><br>The above map shows all our regular group meeting locations.  Babies, Bumps and Toddler groups are marked with green balloons.  The First Years group is marked in yellow.  Click on a balloon for more information about meeting times, and directions. Double click on the map to zoom in on a location.<br><br>
+
+<p>The above map shows all our regular group meeting locations.  Babies, Bumps and Toddler groups are marked with green balloons.  The First Years group is marked in yellow.  Click on a balloon for more information about meeting times, and directions. Double click on the map to zoom in on a location.</p>
+
+</div>
+
 [%
     INCLUDE 'footer.inc';
-      %]
-</div>
-  </body>
-</html>
+%]
 
 
