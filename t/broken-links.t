@@ -38,9 +38,6 @@ my $problem_whitelist = {
         'messageboard/viewtopic.php?f=7&t=443' => {
             'link outside base dir: ../messageboard/viewtopic.php' => 1
         },
-        'messageboard/viewforum.php?f=7' => {
-            'link outside base dir: ../messageboard/viewforum.php' => 1
-        },
         'oldwebsite' => {
             'broken link' => 1
         }
