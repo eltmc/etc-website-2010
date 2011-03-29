@@ -35,12 +35,6 @@ my $problem_whitelist = {
         'messageboard/viewtopic.php?f=3&t=327' => {
             'link outside base dir: ../messageboard/viewtopic.php' => 1
         },
-        'messageboard/viewtopic.php?f=5&t=440' => {
-            'link outside base dir: ../messageboard/viewtopic.php' => 1
-        },
-        'messageboard/viewtopic.php?f=5&t=442' => {
-            'link outside base dir: ../messageboard/viewtopic.php' => 1
-        },
         'messageboard/viewforum.php?f=7' => {
             'link outside base dir: ../messageboard/viewforum.php' => 1
         },
