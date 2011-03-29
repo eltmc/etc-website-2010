@@ -26,6 +26,10 @@
         <div class="announcements">
           <h2>Announcements</h2>
           <ul>
+              <li>The <b>next First Years group is on 6th April at St
+              John's Hospital</b> and will cover "Weaning and
+              Feeding". See <a href="messageboard/viewtopic.php?f=7&amp;t=443">this
+              message board post</a>.</li>
 
               <li>Following the recent survey, since 2nd March 2011,
               <b>First Years now runs on the first Wednesday of
