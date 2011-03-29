@@ -27,14 +27,6 @@
           <h2>Announcements</h2>
           <ul>
 
-              <li><b>The Joppa BBT group will not be meeting on Monday
-              14th 2011,</b> but there is an alternative plan to meet at
-              the park, weather permitting - see <a
-              href="[% root %]messageboard/viewtopic.php?f=5&amp;t=442">this
-              messageboard post</a> and <a
-              href="[% root %]messageboard/viewtopic.php?f=5&amp;t=440">this one</a>
-              for more details.</li>
-
               <li>Following the recent survey, since 2nd March 2011,
               <b>First Years now runs on the first Wednesday of
               each month, alternating between Oxgangs Neighbourhood
