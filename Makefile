@@ -9,9 +9,9 @@ list:
 
 html: ttree.cfg ${SRC}
 	ttree -f ttree.cfg
-	ln -sf ../messageboard html/messageboard 
-	ln -sf ../public.old html/not-so-old-website
-	ln -sf ../oldwebsite html/oldwebsite
+	ln -sfn ../messageboard html/messageboard 
+	ln -sfn ../public.old html/not-so-old-website
+	ln -sfn ../oldwebsite html/oldwebsite
 
 
 test: html
