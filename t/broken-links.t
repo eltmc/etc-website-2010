@@ -14,6 +14,7 @@ my $base_dir = abs_path "$Bin/../html";
 
 my $unreachable_whitelist = [
     '.htpasswd',
+     'documents/2011-03-18.membership-and-renewal-form.pdf', # this is actually symlinked
 
     # These are reachable, but invisibly (currently) because they are referenced by stylesheets. 
     # Ideally this test would ferret out stylesheet links too.
@@ -39,7 +40,8 @@ my $problem_whitelist = {
             'link outside base dir: ../messageboard/viewtopic.php' => 1
         },
         'oldwebsite' => {
-            'broken link' => 1
+#            'broken link' => 1
+            'link outside base dir: ../oldwebsite' => 1
         }
     },
     'groups/index.php' => {
