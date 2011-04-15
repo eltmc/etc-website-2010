@@ -14,6 +14,7 @@ my $base_dir = abs_path "$Bin/../html";
 
 my $unreachable_whitelist = [
     '.htpasswd',
+    'announcements.php',
      'documents/2011-03-18.membership-and-renewal-form.pdf', # this is actually symlinked
 
     # These are reachable, but invisibly (currently) because they are referenced by stylesheets. 
@@ -31,6 +32,14 @@ my $problem_whitelist = {
         'mailto:social@edinburghtwins.co.uk' => { 
             'non-http scheme' => 1,
         },
+    },
+    'announcements.php' => {
+        '$topic_url' => {
+            'broken link' => 1
+        },
+        'oldwebsite' => {
+            'link outside base dir: ../oldwebsite' => 1
+        }
     },
     'index.php' => {
         'messageboard/viewtopic.php?f=3&t=327' => {

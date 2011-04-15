@@ -109,8 +109,6 @@
 </div>
 
 
-
-
 <?php
 define('IN_PHPBB', true);
 $phpbb_root_path = "messageboard/";
@@ -133,15 +131,40 @@ $db->sql_connect($dbhost, $dbuser, $dbpasswd, $dbname, $dbport, false, false);
 // We do not need this any longer, unset for safety purposes
 unset($dbpasswd);
 
-$sql = 'SELECT t.topic_id, t.forum_id, topic_type, topic_title, post_text, post_time, username_clean, 
-               bbcode_uid, bbcode_bitfield, enable_bbcode
-    FROM ' . TOPICS_TABLE . ' as t
-    LEFT JOIN ' . POSTS_TABLE . ' AS p ON p.topic_id = t.topic_id
-    LEFT JOIN ' . USERS_TABLE . ' AS u ON p.poster_id = u.user_id
-    WHERE topic_type != 0  -- no normal posts
-      AND (topic_time_limit = 0 OR unix_timestamp() > post_time + topic_time_limit)
-    ORDER BY post_time
-    LIMIT 20';
+// This query selects the announcements to show.
+$group = 'GUESTS';
+$acl_option = 'f_list';
+$sql = "
+    SELECT t.topic_id, t.forum_id, topic_type, topic_title, post_text, post_time, username_clean, 
+           bbcode_uid, bbcode_bitfield, enable_bbcode
+    FROM " . TOPICS_TABLE      . " as t, /* for the topics */
+         " . GROUPS_TABLE      . " as g, /* for group names */
+         " . POSTS_TABLE . " as p, /* for option names */
+         " . USERS_TABLE . " as u, /* for option names */
+
+         " . ACL_OPTIONS_TABLE . " as ao, /* for ACL option names */
+         " . ACL_GROUPS_TABLE . " as ag /* for group ACL settings */
+
+    WHERE t.topic_id = p.topic_id           /* join posts table */
+      AND t.topic_first_post_id = p.post_id /* for the first post */
+
+      AND p.poster_id = u.user_id           /* join users table */
+
+      AND t.forum_id = ag.forum_id          /* join the forum ACLs */
+
+      AND ag.group_id = g.group_id              /* join the groups table */
+      AND ag.auth_option_id = ao.auth_option_id /* join the acl_options table */
+
+      AND t.topic_type != 0                      /* non-normal posts */
+      AND ao.auth_option = '$acl_option'         /* listable */
+      AND g.group_name = '$group'                /* by guests */
+
+      AND (topic_time_limit = 0 OR 
+           unix_timestamp() < post_time + topic_time_limit) /* unexpired */
+      
+    ORDER BY post_time DESC
+    LIMIT 20
+";
 
 $result = $db->sql_query($sql);
 
@@ -168,8 +191,6 @@ $result = $db->sql_query($sql);
 
         <div class="announcements">
           <h2>Announcements</h2>
-          <ul>
-
 <?php
     function render_announcement($topic_id, $forum_id, $topic_type, $title, $text, $time, $user, 
                                  $bbcode_uid, $bbcode_bitfield, $enable_bbcode)
@@ -199,16 +220,17 @@ $result = $db->sql_query($sql);
 	     $bbcode->template_bitfield = new bitfield(base64_encode(0xfff));
 	     $bbcode->bbcode_second_pass($text, $bbcode_uid, $bbcode_bitfield);
 	}
-	return "<li><a href='messageboard/viewtopic.php?f=$forum_id&amp;t=$topic_id'>$title</a> $text</li>";
+	$topic_url = "messageboard/viewtopic.php?f=$forum_id&amp;t=$topic_id";
+	return "<li><b><a href='$topic_url'>$title</a></b> $text <small>(<a href='$topic_url'>more...</a>)</small></li>\n";
     }
 
-
+    echo "<ul>\n";
     while ($row = $db->sql_fetchrow($result))
     {
         echo call_user_func_array("render_announcement", $row);
     }
+    echo "</ul>\n";
 ?>
-          </ul>
         </div>
 
 
