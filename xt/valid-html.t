@@ -10,26 +10,25 @@ use File::Path qw(mkpath);
 use File::Basename qw(dirname);
 use Capture::Tiny qw(capture_merged);
 use File::Slurp qw(read_file write_file);
+use Digest::MD5 qw(md5_base64);
 my $base_dir = File::Spec->abs2rel("$Bin/../html");
 
 
 my %D = MyTest::Dirs->hash(
-    data => [timestamps => 'timestamps'],
+    data => [mementos => 'mementos'],
 );
 
-sub write {
+sub md5_file {
     my $file = shift;
 
+    my $content = read_file $file;
+    my $md5 = md5_base64 $content;
 
-    open my $fh, ">", $file
-        or die "failed to open $file: $!";
-    
-    print {$fh} @_;
-    
-    close $fh
-        or die "failed to close $file: $!";
+    # Add a trailing newline is here for convenience (we don't then
+    # need to strip the newline from the memento file's md5 line to
+    # compare like with like).
+    return "$md5\n"; 
 }
-
 
 sub find(&@) {
     my ($code, @rest) = @_;
@@ -57,39 +56,39 @@ sub find(&@) {
 # This works better (if you install wdg-html-validator).
 my @cmd = qw(validate --w);
 
-# NOTE: if the timestamps get out of sync, just rm -rf data/valid-html/timestamps/*
+# NOTE: if the mementos get out of sync, just rm -rf data/valid-html/mementos/*
 
 foreach my $file (grep /\.(html|php)$/, find {$_} $base_dir) {
     (my $rel_path = $file) =~ s{^$base_dir/?}{};
-    my $timestamp_file = "$D{timestamps}/$rel_path";
+    my $memento_file = "$D{mementos}/$rel_path";
     
- SKIP: {
-        if (-e $timestamp_file 
-            && -M $file >= -M $timestamp_file) {
+    my $new_md5 = md5_file $file;
 
-            my $out = read_file $timestamp_file;
+    if (-e $memento_file) {
+        my ($old_md5, @mess) = read_file $memento_file;
+        if ($old_md5 eq $new_md5) {
+            # Then $file has not changed and it has been validated already
             
-            # Add formatting if $out contains anything, else set it to
+            # Add formatting if @mess contains anything, else set it to
             # the empty string.
-            $out = $out && $out =~ /\S/?
-                ":\n$out" : "";
-                
-            skip "$rel_path validated since last modification$out", 1;
+            my $mess = join "", @mess;
+            
+            ok $mess !~ /\S/, 
+                "validate $rel_path (unchanged, re-using last result)"
+                    or diag $mess;
+            next;
         }
-
-        my $start_time = time;
-        my $rc;
-        my $out = capture_merged { $rc = system @cmd, $file };
-        ok $rc == 0,
-            "validate $rel_path"
-                and next;
-        
-#        diag $out;
-
-        # Save the output and mark it with the time that the test actually 
-        # read the file.
-        mkpath dirname $timestamp_file;        
-        write_file $timestamp_file, $out;
-        utime $start_time, $start_time, $timestamp_file;
-    }
+    }    
+     
+    # If we get here, we need to validate
+    my $rc;
+    my $mess = capture_merged { $rc = system @cmd, $file };
+    ok $rc == 0,
+        "validate $rel_path"
+            or diag $mess;
+    
+    # Now save the result for posterity
+    
+    mkpath dirname $memento_file;        
+    write_file $memento_file, $new_md5, $mess;
 }
