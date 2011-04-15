@@ -62,8 +62,6 @@ $result = $db->sql_query($sql);
 
         <div class="announcements">
           <h2>Announcements</h2>
-          <ul>
-
 <?php
     function render_announcement($topic_id, $forum_id, $topic_type, $title, $text, $time, $user, 
                                  $bbcode_uid, $bbcode_bitfield, $enable_bbcode)
@@ -93,16 +91,16 @@ $result = $db->sql_query($sql);
 	     $bbcode->template_bitfield = new bitfield(base64_encode(0xfff));
 	     $bbcode->bbcode_second_pass($text, $bbcode_uid, $bbcode_bitfield);
 	}
-	return "<li><a href='messageboard/viewtopic.php?f=$forum_id&amp;t=$topic_id'>$title</a> $text</li>";
+	return "<li><a href='messageboard/viewtopic.php?f=$forum_id&amp;t=$topic_id'>$title</a> $text</li>\n";
     }
 
-
+    echo "<ul>\n";
     while ($row = $db->sql_fetchrow($result))
     {
         echo call_user_func_array("render_announcement", $row);
     }
+    echo "</ul>\n";
 ?>
-          </ul>
         </div>
 
 
