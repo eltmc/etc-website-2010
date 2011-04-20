@@ -1,5 +1,5 @@
 [%
-    SET title = "Edinburgh Twins Club :: Homepage";
+    SET title = "Edinburgh Twins Club :: Announcements";
     SET root = "";
     INCLUDE 'header.inc';
     INCLUDE 'sidebar.inc';
@@ -21,39 +21,22 @@
         
         <p>Come on in and take a look around.  If there is anything
         you need from our old website, you can still find it <a
-        href="[% root %]oldwebsite">here</a>.</p>
+        href="oldwebsite">here</a>.</p>
 
         <div class="announcements">
           <h2>Announcements</h2>
-          <ul>
-              <li>The <b>next First Years group is on 6th April at St
-              John's Hospital</b> and will cover "Weaning and
-              Feeding". See <a href="messageboard/viewtopic.php?f=7&amp;t=443">this
-              message board post</a>.</li>
+<?php
+    include('inc/etc.php');
 
-              <li>Following the recent survey, since 2nd March 2011,
-              <b><a href="groups/#FirstYears">First Year's</a> group
-              now runs on the first Wednesday of each month</b>,
-              alternating between Oxgangs Neighbourhood Centre in
-              Edinburgh and St John's Hospital. See the <a
-              href="groups/#FirstYears">groups page</a> more details
-              and directions.</li>
+    $result = etc_announcements('GUESTS', 'f_list');
 
-
-              <li>From Friday 18th February the <b>South Queensferry
-              Group has relocated</b> - see the <a href="groups">Groups
-              page</a></li>
-
-              <li><b>Got the last newsletter? No? Check your
-              membership.</b> See <a
-              href="[% root %]messageboard/viewtopic.php?f=3&amp;t=327">this
-              notice</a> </li>
-
-              <li>See the <b><a href="groups">Groups</a></b> page for
-              information about Babies Bumps and Toddler groups,
-              including non-Edinburgh-Twins-Club twin groups.</li>
-
-          </ul>
+    echo "<ul>\n";
+    while ($row = $db->sql_fetchrow($result))
+    {
+        echo call_user_func_array("etc_render_announcement", $row);
+    }
+    echo "</ul>\n";
+?>
         </div>
 
 
@@ -67,6 +50,7 @@
 <div class="support-footer">
 Please support the twin club -- if you buy from amazon using the search box on the menu we earn a small commission
 </div>
+
 
 </div>
 
