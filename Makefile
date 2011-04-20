@@ -20,8 +20,13 @@ test: html
 xtest: html
 	prove xt
 
-upload: test
+force_upload: html
 	rsync -arlv --delete html/ ${REMOTE_URL}
+
+upload: test force_upload
+
+
+
 
 
 clean:
