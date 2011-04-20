@@ -58,7 +58,9 @@ my @cmd = qw(validate --w);
 
 # NOTE: if the mementos get out of sync, just rm -rf data/valid-html/mementos/*
 
-foreach my $file (grep /\.(html|php)$/, find {$_} $base_dir) {
+my @files = grep !m{/inc/}, grep /\.(html|php)$/, find {$_} $base_dir;
+
+foreach my $file (@files) {
     (my $rel_path = $file) =~ s{^$base_dir/?}{};
     my $memento_file = "$D{mementos}/$rel_path";
     
