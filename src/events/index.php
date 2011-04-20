@@ -18,5 +18,17 @@ event locations.</p>
 - email: <a
 href="mailto:social@edinburghtwins.co.uk">social@edinburghtwins.co.uk</a></p>
 
+
+<?php
+    include('[% root %]inc/etc.php');
+
+    $result = etc_announcements('GUESTS', 'f_list', array(5));
+
+    while ($row = $db->sql_fetchrow($result))
+    {
+        echo call_user_func_array("etc_render_event", $row);
+    }
+?>
+
 </div>
 [% INCLUDE 'footer.inc'; %]
