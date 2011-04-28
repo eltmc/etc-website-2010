@@ -64,7 +64,7 @@
             </li>
             <li>
               <a class="ulheading" href="../../join">Join</a>
-              <div>Lots of benefits for only &pound;10 a year</div>
+              <div>Lots of benefits for only &pound;12 a year</div>
             </li>
             <li>
               <a class="ulheading" href="../../recommended">Recommended</a>                <ul>

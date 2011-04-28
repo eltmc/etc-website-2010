@@ -8,7 +8,7 @@
     <div id="content">
     <h1 class="header">Why Join Edinburgh Twins Club?</h1>
         <p>
-If you join the Edinburgh Twins Club (for the small cost of £10 pa), you will get the following benefits:</p>
+If you join the Edinburgh Twins Club (for the small cost of &pound;12 pa), you will get the following benefits:</p>
 
 <ul>
   <li>Discounts from a number of companies (2 visits to Clarks shoe shop will pay for your membership fee !)</li>
