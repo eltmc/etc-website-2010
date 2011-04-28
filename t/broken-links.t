@@ -16,7 +16,7 @@ my @exclude = qw(/inc/);
 
 my $unreachable_whitelist = [
     '.htpasswd',
-    'documents/2011-03-18.membership-and-renewal-form.pdf', # this is actually symlinked
+    'documents/2011-04-28.membership-and-renewal-form.pdf', # this is actually symlinked
 
     # These are reachable, but invisibly (currently) because they are referenced by stylesheets. 
     # Ideally this test would ferret out stylesheet links too.
