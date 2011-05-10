@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 use strict;
 use warnings;
-use Test::More tests => 27;
+use Test::More tests => 28;
 use FindBin qw($Bin);
 use lib "$Bin/../t/lib";
 use MyTest::Dirs;
