@@ -10,9 +10,7 @@
 
 <p>Besides our regular <a href="[% root %]groups">groups</a>, we organise a
 variety of events for our members and their families.  Upcoming events
-are listed below.  Use this <a
-href="[% root %]events/map">map</a> link to find
-event locations.</p>
+are listed below.</p>
 
 <p>To book any event please email our wonderful social convener Donna
 - email: <a

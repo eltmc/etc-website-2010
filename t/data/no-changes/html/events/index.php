@@ -31,17 +31,11 @@
             </li>
             <li>
               <a class="ulheading" href="../groups/">Groups</a>
-                 <ul>
-                  <li><a class="ulheading" href="../groups/map">Map</a></li>
-                 </ul>
               <div>Babies, Bumps &amp; Toddler Groups</div>
             </li>
             <li>
               <a class="ulheading" href="../events/">Events</a>
               <div>Social Events for twins and their parents?</div>
-                 <ul>
-                  <li><a class="ulheading" href="../events/map">Map</a></li>
-                 </ul>
             </li>
             <li>
               <a class="ulheading" href="../messageboard.php">Messageboard</a>
@@ -114,9 +108,7 @@
 
 <p>Besides our regular <a href="../groups">groups</a>, we organise a
 variety of events for our members and their families.  Upcoming events
-are listed below.  Use this <a
-href="../events/map">map</a> link to find
-event locations.</p>
+are listed below.</p>
 
 <p>To book any event please email our wonderful social convener Donna
 - email: <a

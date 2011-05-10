@@ -16,11 +16,21 @@ are expecting multiples it is well worth popping along to your nearest
 group and chatting to the those who already have twins or more.  It is
 also a chance to see which pushchairs are the easiest to handle! All
 the groups are very happy to welcome new multiple families.  
-
-More information about individual groups follows.  For locations and
-directions please see the <a
-href="map">groups map</a>.
 </p>
+
+<div style="float: right; margin: 1em">
+<iframe 
+   width="440"
+   height="350"
+   frameborder="0"
+   scrolling="no"
+   marginheight="0"
+   marginwidth="0"
+   src="http://maps.google.co.uk/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=213519100708941637463.0004a2ec4836eb60653a7&amp;ll=55.906115,-3.161316&amp;spn=0.739013,1.757813&amp;z=9&amp;output=embed">
+</iframe>
+<br />
+<small>View <a href="http://maps.google.co.uk/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=213519100708941637463.0004a2ec4836eb60653a7&amp;ll=55.906115,-3.161316&amp;spn=0.739013,1.757813&amp;z=9&amp;source=embed" style="color:#0000FF;text-align:left">Babies, Bumps and Toddler groups</a> in a larger map</small>
+</div>
 
 <p>We had a successful trial meeting at St Stephens Church hall,
 <strong>Comely Bank</strong> on Monday 18th February 2008, of our

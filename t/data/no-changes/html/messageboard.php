@@ -31,17 +31,11 @@
             </li>
             <li>
               <a class="ulheading" href="./groups/">Groups</a>
-                 <ul>
-                  <li><a class="ulheading" href="./groups/map">Map</a></li>
-                 </ul>
               <div>Babies, Bumps &amp; Toddler Groups</div>
             </li>
             <li>
               <a class="ulheading" href="./events/">Events</a>
               <div>Social Events for twins and their parents?</div>
-                 <ul>
-                  <li><a class="ulheading" href="./events/map">Map</a></li>
-                 </ul>
             </li>
             <li>
               <a class="ulheading" href="./messageboard.php">Messageboard</a>

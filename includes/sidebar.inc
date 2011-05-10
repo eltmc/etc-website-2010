@@ -14,17 +14,11 @@
             </li>
             <li>
               <a class="ulheading" href="[% root %]groups/">Groups</a>
-                 <ul>
-                  <li><a class="ulheading" href="[% root %]groups/map">Map</a></li>
-                 </ul>
               <div>Babies, Bumps &amp; Toddler Groups</div>
             </li>
             <li>
               <a class="ulheading" href="[% root %]events/">Events</a>
               <div>Social Events for twins and their parents?</div>
-                 <ul>
-                  <li><a class="ulheading" href="[% root %]events/map">Map</a></li>
-                 </ul>
             </li>
             <li>
               <a class="ulheading" href="[% root %]messageboard.php">Messageboard</a>
