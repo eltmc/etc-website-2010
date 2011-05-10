@@ -118,7 +118,7 @@ href="mailto:social@edinburghtwins.co.uk">social@edinburghtwins.co.uk</a></p>
 <?php
     include('../inc/etc.php');
 
-    $result = etc_announcements('GUESTS', 'f_list', array(5));
+    $result = etc_announcements('GUESTS', 'f_list', array(5, 7));
 
     while ($row = $db->sql_fetchrow($result))
     {
