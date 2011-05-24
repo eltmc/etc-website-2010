@@ -183,9 +183,6 @@ Moderate the messageboard, assisting users and setting up new
 accounts.  Setup and maintain the club email accounts.</p>
 
     </div>
-    <div class="clear">
-      <br />
-    </div>
 <div id="footer">
 	<a href="http://www.tamba.org.uk">A member of TAMBA</a>
 	<hr />

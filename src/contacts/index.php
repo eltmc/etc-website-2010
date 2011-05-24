@@ -11,7 +11,7 @@
 <h2>Committee</h2>
 <p>The club is run by a group of volunteers who make up the committee.  We can be contacted using the following email addresses:</p>
 
-<dl>
+<dl class="contacts">
   <dt>Chairperson:</dt>
   <dd><a href="mailto:chair@edinburghtwins.co.uk">chair@edinburghtwins.co.uk</a></dd>
 

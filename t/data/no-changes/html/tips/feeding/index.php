@@ -125,9 +125,6 @@
                   is perfect and you don't need wait until it cools down or heats
                   up. Sometimes with crying babies 1 minute seems like 1 hour!!</p>
     </div>
-    <div class="clear">
-      <br />
-    </div>
 <div id="footer">
 	<a href="http://www.tamba.org.uk">A member of TAMBA</a>
 	<hr />

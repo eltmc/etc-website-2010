@@ -1,7 +1,3 @@
-/* GridPP2 Colour Codes:
-	Purple: #9999cc
-	Blue: #003366
-*/
 body 
 {
     padding:0;
@@ -11,28 +7,6 @@ body
     font: 12px 'Lucida Grande', Geneva, Verdana, Helvetica, Arial, sans-serif;
 }
 
-h5 {
-    font-size: 13px;
-    margin:4ex 0em 0ex 0em;
-    text-align:left;
-}
-
-h5 .date {
-    color:gray;
-    float:right;
-}
-
-h3 {
-    font-size: 12px;
-    margin:3ex 0em 0.5ex 0em;
-
-}
-
-h2 {
-    font-size: 20px;
-    margin:4ex 0em 1.5ex 0em;
-}
-
 h1.header {
 	font-family: "Trebuchet MS", sans-serif;
 	color: #036;
@@ -40,33 +14,11 @@ h1.header {
 	font-size: xx-large;
 }
 
+/* used in the banner */
 .pagetitle {
 	font-family: "Trebuchet MS", sans-serif;
 	color: #036;
 	text-align: center;
-	font-size: 5%;
-}
-
-p
-{
-    margin-bottom: 2ex;
-}
-
-blockquote
-{
-    font-style:italic;
-}
-
-.important
-{
-    color:#f60;
-    font-weight: bold;
-}
-
-.newsflash
-{
-	font-weight: bold;
-	color: #a00;
 }
 
 #content {
@@ -79,28 +31,11 @@ blockquote
     margin:0.5ex 0.5em;
 }
 
-#nav {
-    /*overflow:hidden; - removed to make drop down display properly*/
-    float: right;
-    width:16em;
-}
-
 img 
 {
     border:0px;
     padding:0;
     margin:0;
-}
-
-img.RightAlignWithBorder
-{
-	border:solid 1px #003366;
-	float: right;
-}
-
-img.RightAlignNoBorder
-{
-	float: right;
 }
 
 a:link 
@@ -119,6 +54,14 @@ a:hover
 {
     color: blue; 
     text-decoration: none;
+}
+
+/* used in the sidebar */
+
+#nav {
+    /*overflow:hidden; - removed to make drop down display properly*/
+    float: right;
+    width:16em;
 }
 
 /* mvbl - following makeMenu items added to make drop down menu work.  Taken from http://www.howtocreate.co.uk/tutorials/testMenu.html */
@@ -211,16 +154,6 @@ div.menu ul li div {
     left:-0.5em;
 }
 
-div#header {
-    text-align:center;
-}
-
-div#header hr 
-{
-    color:gray;
-    margin:0ex 0ex 4ex 0ex;
-}
-
 div#footer {
     font-size:10px;
     text-align:center;
@@ -234,74 +167,11 @@ div#footer hr
     margin:1ex 0ex 1ex 0ex;
 }
 
-div.clear {
-    clear:both;
-    height:1px;
-}
-
-abbr {
-    border-bottom: 1px dotted;
-}
-
-table.striped
+dl.contacts dt
 {
-    width:100%;
-    border-spacing:0;
-    font-size:11px;
-    border: 1px solid #a5a5a5;
-    float: left;
+    font-weight: bold;
+    line-height: 200%;
 }
-
-table.striped tr:hover td
-{
-    background-color: #9999cc;
-    background: #999cc;
-}
-
-table.striped th
-{
-    text-align:left;
-    padding:0.5ex 2em;
-    background-color:#e2e2e2;
-    border-bottom: 1px solid #a5a5a5;
-}
-
-table.striped td
-{
-    padding:1ex 2em;
-    border-top: 1px solid #e2e2e2;
-}
-
-table.striped tr.blue
-{
-    background-color:#003366;
-}
-
-
-table.striped tr.white
-{
-    background-color:white;
-}
-
-
-dt
-{
-	font-weight: bold;
-	line-height: 200%;
-}
-
-/*
- * Styles for processor usage script
- */
-td.free {
-	background-color: #9F9;
-}
-
-td.busy {
-	background-color: #F36;
-}
-
-
 
 /** nick's additions **/
 div.announcements {

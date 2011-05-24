@@ -118,9 +118,6 @@
                   it fits in your car before you buy it !!</p>
         <p>Triplets - use a double buggy with a front or back pack.</p>
     </div>
-    <div class="clear">
-      <br />
-    </div>
 <div id="footer">
 	<a href="http://www.tamba.org.uk">A member of TAMBA</a>
 	<hr />

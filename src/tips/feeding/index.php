@@ -27,7 +27,4 @@
                   is perfect and you don't need wait until it cools down or heats
                   up. Sometimes with crying babies 1 minute seems like 1 hour!!</p>
     </div>
-    <div class="clear">
-      <br />
-    </div>
 [% INCLUDE 'footer.inc'; %]
