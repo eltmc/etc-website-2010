@@ -247,9 +247,6 @@ div.support-footer {
     overflow: auto;
 }
 /* make definitions lists put the definition in line with the term */
-.group dd, .group dt {
-    line-height: 100%; /* override a global.css style */    
-}
 .group dt {
     float: left;
     font-weight: normal;
