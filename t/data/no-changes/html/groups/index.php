@@ -102,7 +102,6 @@
       </div>
 </div>
 
-
     <div id="content">
     <h1 class="header">Groups</h1>
 
@@ -111,21 +110,21 @@
 <p> There are several Babies Bumps and Toddlers groups based around
 Edinburgh and Lothian.  Each group costs &pound;2 per family. If you
 are expecting multiples it is well worth popping along to your nearest
-group and chatting to the those who already have twins or more.  It is
-also a chance to see which pushchairs are the easiest to handle! All
-the groups are very happy to welcome new multiple families.  
-</p>
+group and chatting to the those who already have twins or more.
+Typically snacks and beverages are available, and toys for
+children. It is also a chance to see which pushchairs are the easiest
+to handle! All the groups are very happy to welcome new multiple
+families.  </p>
 
 <p>Times and places listed below, along with a map, but you can also
 view our <b><a href="../events/calendar">events
 calandar</a></b>.  As this is a Google calendar, you may be able to
-subscribe to it from your desktop organiser or mobile phone.</p>
+subscribe to it from your desktop organiser or mobile phone.  You can
+also check the <b><a href="../messageboard/viewforum.php?f=5">message board</a></b> for
+announcements.  And if you spot any mistakes, please notify <a href="mailto:webmaster@edinburghtwins.co.uk">webmaster@edinburghtwins.co.uk</a></p>
 
-
-<div style="float: right; margin: 1em">
+<div class="map">
 <iframe 
-   width="440"
-   height="350"
    frameborder="0"
    scrolling="no"
    marginheight="0"
@@ -136,91 +135,154 @@ subscribe to it from your desktop organiser or mobile phone.</p>
 <small>View <a href="http://maps.google.co.uk/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=213519100708941637463.0004a2ec4836eb60653a7&amp;ll=55.906115,-3.161316&amp;spn=0.739013,1.757813&amp;z=9&amp;source=embed" style="color:#0000FF;text-align:left">Babies, Bumps and Toddler groups</a> in a larger map</small>
 </div>
 
-<p>We had a successful trial meeting at St Stephens Church hall,
-<strong>Comely Bank</strong> on Monday 18th February 2008, of our
-newest Babies, Bumps and Toddlers group and since then the group has
-gone from strength to strength.  The group meets on Mondays from
-10am-11:30am every week.</p>
 
-<p>The <strong>Oxgangs</strong> group is the longest established twin
-group in Edinburgh, providing a welcoming, relaxed and supportive
-atmosphere for all twin mums (including those at bump stage) and
-carers. It meets every Thursday from 10-11:30am at the Oxgangs
-Neighbourhood Centre, Firrhill Drive (Tel:0131 441 7558), and has a
-number of regulars and a wide age-group, from teeny babies through to
-pre-schoolers. There are plenty of toys to keep your children amused
-(i.e. kitchens, trikes, slides, tunnels).  Soft mats and bouncy chairs
-for babies and high chairs are available and the friendly staff in the
-centre can provide tea, coffee and snacks.  Plus, we also have a
-selection of books for mums which can be lent our during sessions.</p>
+<div class="groups">
+<div class="group">
 
+<h3>Comely Bank</h3>
 
-<p>The old <strong>South Queensferry</strong> group has relocated to
-Corstorphine and has become the <strong>West Edinburgh</strong>
-group. The aim is to support families from the surrounding areas, both
-within and out with the West side of Edinburgh. The group meets every
-Friday morning at 9.30am to 11.30am in St Thomas&apos;s Church,
-Glasgow Road, Edinburgh, EH12 8LJ (see this <a
-href="http://maps.google.co.uk/maps/place?cid=7326416247164003070">map</a>).
-</p>
+<dl>
+  <dt>Where:</dt>
+  <dd><a href="http://maps.google.com/maps/place?cid=17625056014825273946">St Stephens Comely Bank Church Hall, EH4 1DW</a> (tel: 0131 315 4616)</dd>
+  <dt>When:</dt>
+  <dd>Mondays 10:00am-11:30am</dd>
+  <dt>Contact:</dt>
+  <dd><a href="mailto:comelybank@edinburghtwins.co.uk">comelybank@edinburghtwins.co.uk</a></dd>
+</dl>
 
-<p>Parking and access to the group can be found to the rear of St
-Thomas&apos;s.  (Take the opening for David Lloyd after the church,
-then first left into car park.  Access to the hall through gate at far
-end of car park.)</p>
+</div>
+<div class="group">
 
-<p>The <strong>Joppa</strong> group was restarted in 2008 and meets on
-Mondays at 10am in St Philip's church hall.</p>
+<h3>Joppa</h3>
+
+<dl>
+  <dt>Where:</dt>
+  <dd><a href="http://maps.google.com/maps/place?cid=7405065653077238606">St Philip's Church Hall, Brunstane Rd North, Joppa, EH15 2DL</a> (tel: 131 669 2410)</dd>
+  <dt>When:</dt>
+  <dd>Mondays 10:00am-11:30am</dd>
+  <dt>Contact:</dt>
+  <dd><a href="mailto:joppa@edinburghtwins.co.uk">joppa@edinburghtwins.co.uk</a></dd>
+</dl>
+
+</div>
+<div class="group">
+
+<h3>Oxgangs</h3>
+
+<dl>
+  <dt>Where:</dt>
+  <dd><a href="http://maps.google.co.uk/maps/place?cid=4151846121787784878">Oxgangs Neighbourhood Centre, 71 Firrhill Drive EH13 9EU</a> (tel: 0131 441 7558)</dd>
+  <dt>When:</dt>
+  <dd>Thursdays 10:00am-11:30am</dd>
+  <dt>Contact:</dt>
+  <dd><a href="mailto:oxgangs@edinburghtwins.co.uk">oxgangs@edinburghtwins.co.uk</a></dd>
+</dl>
+
+</div>
+<div class="group">
+
+<h3>West Edinburgh</h3>
+
+<dl>
+  <dt>Where:</dt>
+  <dd><a href="http://maps.google.co.uk/maps/place?cid=7326416247164003070">St Thomas's Church,
+Glasgow Road, Edinburgh, EH12 8LJ</a> (tel: 0131 316 4292‎)</dd>
+  <dd>Parking/access via gate at rear of St Thomas's - follow sign for <i>David Lloyd</i>, take 1st left to car park.</dd> 
+  <dt>When:</dt>
+  <dd>Fridays 9:30am-11:30am</dd>
+  <dt>Contact:</dt>
+  <dd><a href="mailto:westedin@edinburghtwins.co.uk">westedin@edinburghtwins.co.uk</a></dd>
+</dl>
+
+</div>
+</div>
 
 
 <h2><a name="FirstYears"></a>First Year's groups</h2>
 
 <p>There are now two <strong>First Year's groups</strong> - these are
 for pregnant parents and parents in their first year of raising
-multiples.</p>
+multiples. These groups offer a good chance to meet other people at
+the same stage, and talk to multiple mums who've been there already
+and can give advice and support. <!--More information in this Word <a
+href="http://www.edinburghtwins.co.uk/documents/First_Years.doc">document</a>.
+--> </p>
 
 <p>Following the survey in early 2011, from <b>2nd March 2011</b>
-First Years will run on the <b>first Wednesday of each month,
-8.00-10.00pm</b>,
-<i>alternating</i> between Oxgangs Neighbourhood Centre in Edinburgh
-and St John's Hospital.</p>
+First Year's will run on the <b>first Wednesday of each month,
+8.00-10.00pm</b>, <i>alternating</i> between Oxgangs Neighbourhood
+Centre in Edinburgh and St John's Hospital.  Check the <b><a
+href="../events/calendar">events calendar</a></b> for dates, and the <b><a href="../messageboard/viewforum.php?f=7">First Year's message board</a></b>
+for announcements.</p>
 
 <p>We will be there from 8pm. Tea, coffee or soft drinks are
 provided. There is always lots of time for questions and advice as we
 go along. Feel free to bring your babies and dads are always welcome
 too. Latecomers welcome!</p>
 
-<p><b>Oxgangs First Year's Group meets at Oxgangs Neighbourhood
-Centre.</b> This is located at 71 Firrhill Drive, EH13 9EU (<a
-href="http://maps.google.co.uk/maps/place?cid=4151846121787784878">map</a>).</p>
 
-<p><b>St John's First Year's Groups meets in the Parentcraft Room.</b>
-This is located in OPD3 next to the maternity entrance, on the ground
-floor at St John's Hospital at Howden, Livingston, EH54 6PP (<a
-href="http://maps.google.co.uk/maps/place?ftid=0x4887d9565f2fa69b:0x1c5397685847df36">map</a>).</p>
-
-<p>Please see the <a
-href="../messageboard/viewforum.php?f=7">First
-Year's message board</a> for address and directions/buses.</p>
+<div class="map">
+<iframe 
+   frameborder="0"
+   scrolling="no"
+   marginheight="0"
+   marginwidth="0"
+   src="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=213519100708941637463.0004a2eca92afe9f1b0b9&amp;ll=55.988396,-3.365936&amp;spn=0.307267,0.575409&amp;z=10&amp;output=embed"
+>
+</iframe>
+<br />
+<small>View <a href="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=213519100708941637463.0004a2eca92afe9f1b0b9&amp;ll=55.988396,-3.365936&amp;spn=0.307267,0.575409&amp;z=10&amp;source=embed"
+style="color:#0000FF;text-align:left">First Year's Groups</a> in a larger map</small>
+</div>
 
 
 <p>Topics and venues are as follows:</p>
 
-<ul>
-<li>March - <b>HELP (Childcare &amp; Support)</b> <i>(Oxgangs)</i></li>
-<li>April - <b>Weaning / Feeding</b> <i>(St Johns)</i></li>
-<li>May - <b>Childhood Illnesses</b> <i>(Oxgangs)</i></li>
-<li>June - <b>Routines &amp; Sleep</b> <i>(St Johns)</i></li>
-<li>July - <i>NO FIRST YEARS</i></li>
-<li>August - <b>Development</b> <i>(St Johns)</i></li>
-</ul>
+<dl class="group">
+<dt>March</dt><dd><b>HELP (Childcare &amp; Support)</b> <i>(Oxgangs)</i></dd>
+<dt>April</dt><dd><b>Weaning / Feeding</b> <i>(St John's)</i></dd>
+<dt>May</dt><dd><b>Childhood Illnesses</b> <i>(Oxgangs)</i></dd>
+<dt>June</dt><dd><b>Routines &amp; Sleep</b> <i>(St John's)</i></dd>
+<dt>July</dt><dd><i>NO FIRST YEARS</i></dd>
+<dt>August</dt><dd><b>Development</b> <i>(St John's)</i></dd>
+</dl>
 
-<p>These groups offer a good chance to meet other people at the same
-stage, and talk to multiple mums who've been there already and can
-give advice and support. <!--More information in this Word <a
-href="http://www.edinburghtwins.co.uk/documents/First_Years.doc">document</a>.
--->
-</p>
+
+
+<div class="groups">
+<div class="group">
+
+<h3>Oxgangs</h3>
+
+<dl>
+  <dt>Where:</dt>
+  <dd><a href="http://maps.google.co.uk/maps/place?cid=4151846121787784878">Oxgangs Neighbourhood Centre, 71 Firrhill Drive EH13 9EU</a> (tel: 0131 441 7558)</dd>
+  <dt>When:</dt>
+  <dd>First Wednesday of odd-numbered months, 8:00pm-10:00pm</dd>
+  <dt>Contact:</dt>
+  <dd><a href="mailto:1styears.oxgangs@edinburghtwins.co.uk">1styears.oxgangs@edinburghtwins.co.uk</a></dd>
+</dl>
+
+</div>
+<div class="group">
+
+<h3>St John's Hospital</h3>
+
+<dl>
+  <dt>Where:</dt>
+  <dd><a href="http://maps.google.com/maps/place?ftid=0x4887d9565f2fa69b:0x1c5397685847df36">St John's Hospital at Howden, Livingston, EH54 6PP</a></dd>
+  <dd>Meet in the Parentcraft Room, located in OPD3 next to the maternity entrance, on the ground
+floor</dd>
+  <dt>When:</dt>
+  <dd>First Wednesday of even-numbered months 8:00pm-10:00pm</dd>
+  <dt>Contact:</dt>
+  <dd><a href="mailto:1styears.stjohns@edinburghtwins.co.uk">1styears.stjohns@edinburghtwins.co.uk</a></dd
+>
+</dl>
+
+</div>
+</div>
+
 
 <h2>Other groups</h2>
 

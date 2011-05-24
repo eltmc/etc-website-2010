@@ -41,6 +41,30 @@ my $problem_whitelist = {
         }
     },
     'groups/index.php' => {
+        'mailto:webmaster@edinburghtwins.co.uk' => {
+            'non-http scheme' => 1
+        },
+        'mailto:1styears.oxgangs@edinburghtwins.co.uk' => {
+            'non-http scheme' => 1
+        },
+        'mailto:1styears.stjohns@edinburghtwins.co.uk' => {
+            'non-http scheme' => 1
+        },
+        'mailto:oxgangs@edinburghtwins.co.uk' => {
+            'non-http scheme' => 1
+        },
+        'mailto:westedin@edinburghtwins.co.uk' => {
+            'non-http scheme' => 1
+        },
+        'mailto:joppa@edinburghtwins.co.uk' => {
+            'non-http scheme' => 1
+        },
+        'mailto:comelybank@edinburghtwins.co.uk' => {
+            'non-http scheme' => 1
+        },
+        '../messageboard/viewforum.php?f=5' => {
+            'link outside base dir: ../messageboard/viewforum.php' => 1
+        },
         '../messageboard/viewforum.php?f=7' => {
             'link outside base dir: ../messageboard/viewforum.php' => 1
         }
@@ -75,19 +99,16 @@ my $problem_whitelist = {
         'mailto:newsletter@edinburghtwins.co.uk' => {
             'non-http scheme' => 1
         },
-        'mailto:oxgangs@edinburghtwins.co.uk' => {
-            'non-http scheme' => 1
-        },
         'mailto:firstyears@edinburghtwins.co.uk' => {
             'non-http scheme' => 1
         },
-        'mailto:sqf@edinburghtwins.co.uk' => {
+        'mailto:1styears.oxgangs@edinburghtwins.co.uk' => {
+            'non-http scheme' => 1
+        },
+        'mailto:1styears.stjohns@edinburghtwins.co.uk' => {
             'non-http scheme' => 1
         },
         'mailto:membership@edinburghtwins.co.uk' => {
-            'non-http scheme' => 1
-        },
-        'mailto:joppa@edinburghtwins.co.uk' => {
             'non-http scheme' => 1
         },
         'mailto:webmaster@edinburghtwins.co.uk' => {
@@ -97,6 +118,15 @@ my $problem_whitelist = {
             'non-http scheme' => 1
         },
         'mailto:social@edinburghtwins.co.uk' => {
+            'non-http scheme' => 1
+        },
+        'mailto:oxgangs@edinburghtwins.co.uk' => {
+            'non-http scheme' => 1
+        },
+        'mailto:westedin@edinburghtwins.co.uk' => {
+            'non-http scheme' => 1
+        },
+        'mailto:joppa@edinburghtwins.co.uk' => {
             'non-http scheme' => 1
         },
         'mailto:comelybank@edinburghtwins.co.uk' => {

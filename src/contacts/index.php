@@ -43,17 +43,20 @@ follows:</p>
   <dt>Oxgangs:</dt>
   <dd><a href="mailto:oxgangs@edinburghtwins.co.uk">oxgangs@edinburghtwins.co.uk</a></dd>
 
-  <dt>South Queensferry:</dt>
-  <dd><a href="mailto:sqf@edinburghtwins.co.uk">sqf@edinburghtwins.co.uk</a></dd>
+  <dt>West Edinburgh:</dt>
+  <dd><a href="mailto:westedin@edinburghtwins.co.uk">sqf@edinburghtwins.co.uk</a></dd>
 </dl>
 
 <h2>First Years groups</h2>
-<p>There are now two First Years groups, however they are currently
-contactable via a single address:</p>
+
+<p>There are two First Years groups. The old address still works, but
+they also have their own addresses:</p>
 
 <dl>
   <dt>First Years:</dt>
   <dd><a href="mailto:firstyears@edinburghtwins.co.uk">firstyears@edinburghtwins.co.uk</a></dd>
+  <dd><a href="mailto:1styears.oxgangs@edinburghtwins.co.uk">1styears.oxgangs@edinburghtwins.co.uk</a></dd>
+  <dd><a href="mailto:1styears.stjohns@edinburghtwins.co.uk">1styears.stjohns@edinburghtwins.co.uk</a></dd>
 </dl>
 
 </div>
