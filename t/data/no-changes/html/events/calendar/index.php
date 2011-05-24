@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <link rel="stylesheet" type="text/css" href="../css/global.css" />
+    <link rel="stylesheet" type="text/css" href="../../css/global.css" />
     
     <meta name="MSSmartTagsPreventParsing" content="true" />
     <meta name="ROBOTS" content="ALL" />
@@ -12,88 +12,88 @@
   <body>
       
         <div class="pagetitle">
-      <a href="../"><img src="../graphics/twinslogo7.gif" alt="Edinburgh and Lothians Twin Club" /></a><hr/>
+      <a href="../../"><img src="../../graphics/twinslogo7.gif" alt="Edinburgh and Lothians Twin Club" /></a><hr/>
       </div>
 
 <div id="nav">
       <div class="button"></div>
       <div id="links" class="menu">
-        <div class="title">On <a href="../">Edinburgh Twins Club</a></div>
+        <div class="title">On <a href="../../">Edinburgh Twins Club</a></div>
         <div class="menucontent">
           <ul class="makeMenu">
             <li>
-              <a class="ulheading" href="../aboutus/">About Us</a>
+              <a class="ulheading" href="../../aboutus/">About Us</a>
                 <ul>
-                  <li><a class="ulheading" href="../aboutus/howitstarted">How it started</a></li>
-                  <li><a class="ulheading" href="../aboutus/committee">Committee</a></li>
+                  <li><a class="ulheading" href="../../aboutus/howitstarted">How it started</a></li>
+                  <li><a class="ulheading" href="../../aboutus/committee">Committee</a></li>
                 </ul>
               <div>What is the ETC?</div>
             </li>
             <li>
-              <a class="ulheading" href="../groups/">Groups</a>
+              <a class="ulheading" href="../../groups/">Groups</a>
               <div>Babies, Bumps &amp; Toddler Groups</div>
             </li>
             <li>
-              <a class="ulheading" href="../events/">Events</a>
+              <a class="ulheading" href="../../events/">Events</a>
               <div>Social Events for twins and their parents?</div>
             </li>
             <li>
-              <a class="ulheading" href="../messageboard.php">Messageboard</a>
+              <a class="ulheading" href="../../messageboard.php">Messageboard</a>
               <div>Chat with other twin mums and dads</div>
             </li>
             <li>
-              <a class="ulheading" href="../triplets/">Triplets</a>
+              <a class="ulheading" href="../../triplets/">Triplets</a>
               <div>Information for parents and carers of triplets</div>
             </li>
             <li>
-              <a class="ulheading" href="../tips/">Tips</a>
+              <a class="ulheading" href="../../tips/">Tips</a>
                 <ul>
-                  <li><a class="ulheading" href="../tips/feeding">Feeding</a></li>
-                  <li><a class="ulheading" href="../tips/outabout">Out and About</a></li>
-                  <li><a class="ulheading" href="../tips/prams">Prams</a></li>
-                  <li><a class="ulheading" href="../tips/general">General</a></li>
-                  <li><a class="ulheading" href="../tips/goodbuys">Good Buys</a></li>
+                  <li><a class="ulheading" href="../../tips/feeding">Feeding</a></li>
+                  <li><a class="ulheading" href="../../tips/outabout">Out and About</a></li>
+                  <li><a class="ulheading" href="../../tips/prams">Prams</a></li>
+                  <li><a class="ulheading" href="../../tips/general">General</a></li>
+                  <li><a class="ulheading" href="../../tips/goodbuys">Good Buys</a></li>
                 </ul>
               <div>Useful tips on how to cope with new twins</div>
             </li>
             <li>
-              <a class="ulheading" href="../join">Join</a>
+              <a class="ulheading" href="../../join">Join</a>
               <div>Lots of benefits for only &pound;12 a year</div>
             </li>
             <li>
-              <a class="ulheading" href="../recommended">Recommended</a>                <ul>
-                  <li><a class="ulheading" href="../recommended/pregnancy">Pregnancy</a></li>
-                  <li><a class="ulheading" href="../recommended/baby">Baby</a></li>
-                  <li><a class="ulheading" href="../recommended/toddler">Toddler</a></li>
-                  <li><a class="ulheading" href="../recommended/child">Child</a></li>
-                  <li><a class="ulheading" href="../recommended/feeding">Feeding</a></li>
-                  <li><a class="ulheading" href="../recommended/booksforchildren">Books For Children</a></li>
-                  <li><a class="ulheading" href="../recommended/general">General</a></li>
+              <a class="ulheading" href="../../recommended">Recommended</a>                <ul>
+                  <li><a class="ulheading" href="../../recommended/pregnancy">Pregnancy</a></li>
+                  <li><a class="ulheading" href="../../recommended/baby">Baby</a></li>
+                  <li><a class="ulheading" href="../../recommended/toddler">Toddler</a></li>
+                  <li><a class="ulheading" href="../../recommended/child">Child</a></li>
+                  <li><a class="ulheading" href="../../recommended/feeding">Feeding</a></li>
+                  <li><a class="ulheading" href="../../recommended/booksforchildren">Books For Children</a></li>
+                  <li><a class="ulheading" href="../../recommended/general">General</a></li>
                 </ul>              <div>Useful Books</div>
             </li>
             <!-- <li>
-              <a class="ulheading" href="../members">Members</a>
+              <a class="ulheading" href="../../members">Members</a>
                 <ul>
-                  <li><a class="ulheading" href="../members/newsletters">Newsletters</a></li>
-                  <li><a class="ulheading" href="../members/discounts">Discounts</a></li>
+                  <li><a class="ulheading" href="../../members/newsletters">Newsletters</a></li>
+                  <li><a class="ulheading" href="../../members/discounts">Discounts</a></li>
                 </ul>
               <div>Members Only Area</div>
             </li>
             <li>
-              <a class="ulheading" href="../committee">Committee</a>
+              <a class="ulheading" href="../../committee">Committee</a>
                 <ul>
-                  <li><a class="ulheading" href="../committee/constitution">Constitution</a></li>
-                  <li><a class="ulheading" href="../committee/minutes">Minutes</a></li>
-                  <li><a class="ulheading" href="../committee/reports">Reports</a></li>
+                  <li><a class="ulheading" href="../../committee/constitution">Constitution</a></li>
+                  <li><a class="ulheading" href="../../committee/minutes">Minutes</a></li>
+                  <li><a class="ulheading" href="../../committee/reports">Reports</a></li>
                 </ul>
               <div>Committee Members Only Area</div>
             </li> -->
             <li>
-              <a class="ulheading" href="../links">Links</a>
+              <a class="ulheading" href="../../links">Links</a>
               <div>Some twin related links</div>
             </li>
             <li>
-              <a class="ulheading" href="../contacts/">Contacts</a>
+              <a class="ulheading" href="../../contacts/">Contacts</a>
               <div>Any questions? Drop us an email...</div>
             </li>
           </ul>

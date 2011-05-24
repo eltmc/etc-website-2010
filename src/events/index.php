@@ -12,6 +12,9 @@
 variety of events for our members and their families.  Upcoming events
 are listed below.</p>
 
+<p>Note, that we also have a <a href="calendar">calendar of events and
+groups</a>. Follow the link to view.</p>
+
 <p>To book any event please email our wonderful social convener Donna
 - email: <a
 href="mailto:social@edinburghtwins.co.uk">social@edinburghtwins.co.uk</a></p>
