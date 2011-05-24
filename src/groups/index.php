@@ -18,6 +18,12 @@ also a chance to see which pushchairs are the easiest to handle! All
 the groups are very happy to welcome new multiple families.  
 </p>
 
+<p>Times and places listed below, along with a map, but you can also
+view our <b><a href="[% root %]events/calendar">events
+calandar</a></b>.  As this is a Google calendar, you may be able to
+subscribe to it from your desktop organiser or mobile phone.</p>
+
+
 <div style="float: right; margin: 1em">
 <iframe 
    width="440"
