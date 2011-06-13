@@ -196,13 +196,14 @@ other mums who are in a similar position.  The details we have are
 shown below.  If you notice any mistakes, or know of any other groups
 for multiples, please let us know.  </p>
 
-<p> The <strong>Longniddry</strong> group meets on the first and third
-Thursday of the month in Longniddry Community Centre, but not on
-school holidays.  The centre has a staffed shop selling drinks and
-snacks, overlooking the hall, giving a safe environment to chat whilst
-looking after babies or toddlers.  There are a range of toys for
-babies and toddlers, and enough space for the older children to run
-around. There is a soft play area in the centre.</p>
+<p> The <strong>Longniddry</strong> group meets at 9.30am-11.30am on
+the first and third Thursday of the month in Longniddry Community
+Centre, but not on school holidays.  The centre has a staffed shop
+selling drinks and snacks, overlooking the hall, giving a safe
+environment to chat whilst looking after babies or toddlers.  There
+are a range of toys for babies and toddlers, and enough space for the
+older children to run around. There is a soft play area in the
+centre.</p>
 
 <p> The <strong>Broxburn</strong> group is held at Broxburn Family
 Centre every Monday morning from 9.30am - 12pm. Whilst the 3 very
