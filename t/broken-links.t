@@ -53,6 +53,9 @@ my $problem_whitelist = {
         'mailto:oxgangs@edinburghtwins.co.uk' => {
             'non-http scheme' => 1
         },
+        'mailto:westlothan@edinburghtwins.co.uk' => {
+            'non-http scheme' => 1
+        },
         'mailto:westedin@edinburghtwins.co.uk' => {
             'non-http scheme' => 1
         },

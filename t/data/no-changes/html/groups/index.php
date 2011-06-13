@@ -167,6 +167,22 @@ announcements.  And if you spot any mistakes, please notify <a href="mailto:webm
 </div>
 <div class="group">
 
+<h3>West Lothian</h3>
+
+<dl>
+  <dt>Where:</dt>
+  <dd><a href="http://maps.google.co.uk/maps?q=eh54+9da&sll=53.800651,-4.064941&sspn=15.76974,37.705078&hq=&hnear=Livingston,+West+Lothian+EH54+9HZ,+United+Kingdom&t=h&ll=55.8782,-3.496485&spn=0.002215,0.005096&z=14">Murieston Village Hall, Murieston, Livingston EH54 9HZ</a> (tel: 07557 410303; web: <a href="http://muriston.info/hall/find-us">http://muriston.info</a>)</dd>
+  <dd>Park in Livingston South station, access from across railway via pedestrian tunnel</dd>
+  <dt>When:</dt>
+  <dd>Tuesdays 10:00am-12:00pm</dd>
+  <dd>(starting 5th July 2011)</dd>
+  <dt>Contact:</dt>
+  <dd><a href="mailto:westlothan@edinburghtwins.co.uk">westlothian@edinburghtwins.co.uk</a></dd>
+</dl>
+
+</div>
+<div class="group">
+
 <h3>Oxgangs</h3>
 
 <dl>
@@ -292,13 +308,14 @@ other mums who are in a similar position.  The details we have are
 shown below.  If you notice any mistakes, or know of any other groups
 for multiples, please let us know.  </p>
 
-<p> The <strong>Longniddry</strong> group meets on the first and third
-Thursday of the month in Longniddry Community Centre, but not on
-school holidays.  The centre has a staffed shop selling drinks and
-snacks, overlooking the hall, giving a safe environment to chat whilst
-looking after babies or toddlers.  There are a range of toys for
-babies and toddlers, and enough space for the older children to run
-around. There is a soft play area in the centre.</p>
+<p> The <strong>Longniddry</strong> group meets at 9.30am-11.30am on
+the first and third Thursday of the month in Longniddry Community
+Centre, but not on school holidays.  The centre has a staffed shop
+selling drinks and snacks, overlooking the hall, giving a safe
+environment to chat whilst looking after babies or toddlers.  There
+are a range of toys for babies and toddlers, and enough space for the
+older children to run around. There is a soft play area in the
+centre.</p>
 
 <p> The <strong>Broxburn</strong> group is held at Broxburn Family
 Centre every Monday morning from 9.30am - 12pm. Whilst the 3 very

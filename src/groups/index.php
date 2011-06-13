@@ -70,6 +70,22 @@ announcements.  And if you spot any mistakes, please notify <a href="mailto:webm
 </div>
 <div class="group">
 
+<h3>West Lothian</h3>
+
+<dl>
+  <dt>Where:</dt>
+  <dd><a href="http://maps.google.co.uk/maps?q=eh54+9da&sll=53.800651,-4.064941&sspn=15.76974,37.705078&hq=&hnear=Livingston,+West+Lothian+EH54+9HZ,+United+Kingdom&t=h&ll=55.8782,-3.496485&spn=0.002215,0.005096&z=14">Murieston Village Hall, Murieston, Livingston EH54 9HZ</a> (tel: 07557 410303; web: <a href="http://muriston.info/hall/find-us">http://muriston.info</a>)</dd>
+  <dd>Park in Livingston South station, access from across railway via pedestrian tunnel</dd>
+  <dt>When:</dt>
+  <dd>Tuesdays 10:00am-12:00pm</dd>
+  <dd>(starting 5th July 2011)</dd>
+  <dt>Contact:</dt>
+  <dd><a href="mailto:westlothan@edinburghtwins.co.uk">westlothian@edinburghtwins.co.uk</a></dd>
+</dl>
+
+</div>
+<div class="group">
+
 <h3>Oxgangs</h3>
 
 <dl>
