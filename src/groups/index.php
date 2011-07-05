@@ -62,7 +62,7 @@ announcements.  And if you spot any mistakes, please notify <a href="mailto:webm
   <dt>Where:</dt>
   <dd><a href="http://maps.google.com/maps/place?cid=7405065653077238606">St Philip's Church Hall, Brunstane Rd North, Joppa, EH15 2DL</a> (tel: 131 669 2410)</dd>
   <dt>When:</dt>
-  <dd>Mondays 10:00am-11:30am</dd>
+  <dd>Mondays 10:00am-12:00pm</dd>
   <dt>Contact:</dt>
   <dd><a href="mailto:joppa@edinburghtwins.co.uk">joppa@edinburghtwins.co.uk</a></dd>
 </dl>
