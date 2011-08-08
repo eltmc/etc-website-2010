@@ -204,6 +204,38 @@ floor</dd>
 </div>
 
 
+<h2><a name="AntenatalClasses"></a>Twin And Multiple Birth Antenatal Classes</h2>
+
+<p>Following feedback from our 2011 members survey, we will be
+launching a pilot antenatal class in November 2011.  This will be held
+over three nights in November and is open to all expectant parents
+across the Lothians.  This class will complement any other antenatal
+class (such as those given by the NCT or NHS) and will cover
+twin/multiples specific issues including:</p>
+
+<ul>
+  <li>Birth,</li>
+  <li>Feeding (Breast/Bottle/Mixed)</li>
+  <li>Equipment,</li>
+  <li>Practical Baby Care (including sleep and routines),</li>
+  <li>Pregnancy,</li>
+  <li>Looking After Yourself, and</li>
+  <li>Help.</li>
+</ul>
+
+<p>Included will be personal accounts from a selection of mums
+including <i>“My Twins in Pictures”</i> which presents life in the
+first year. This class will be run by members of the club to give
+expectant parents an insight into birth and the first year of life
+with their babies.</p>
+
+<p>Venue and dates to be confirmed shortly - keep an eye out on the
+messageboard! To receive further details please contact Rosie Berridge
+(<a href="mailto:rosieberridge@gmx.co.uk">rosieberridge@gmx.co.uk</a>)
+or Tricia Murray
+(<a href="mailto:patricia@morham.info">patricia@morham.info</a>)<!--a href="mailto:firstyears@edinburghtwins.co.uk">firstyears@edinburghtwins.co.uk</a-->. Cost will be &pound;15 for the three pilot sessions.</p>
+
+
 <h2>Other groups</h2>
 
 <p> There are several other groups we know about, but which are not

@@ -41,6 +41,12 @@ my $problem_whitelist = {
         }
     },
     'groups/index.php' => {
+        'mailto:rosieberridge@gmx.co.uk' => {
+            'non-http scheme' => 1
+        },
+        'mailto:patricia@morham.info' => {
+            'non-http scheme' => 1
+        },
         'mailto:webmaster@edinburghtwins.co.uk' => {
             'non-http scheme' => 1
         },
