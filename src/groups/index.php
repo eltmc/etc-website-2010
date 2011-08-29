@@ -253,13 +253,6 @@ are a range of toys for babies and toddlers, and enough space for the
 older children to run around. There is a soft play area in the
 centre.</p>
 
-<p> The <strong>Broxburn</strong> group is held at Broxburn Family
-Centre every Monday morning from 9.30am - 12pm. Whilst the 3 very
-friendly members of staff look after our twins in the activity room,
-we can sit round the corner and have a chat over a scone and cup of
-tea (great!).  Obviously if one of your twins need you, you are close
-enough to pop in and deal with them.</p>
-
 <p> The <strong>Bo'ness</strong> group meets every Thursday morning at
 the Playbugs soft-play, Linlithgow, 10.00 till 11.30. We get a good
 discount! We have members from Larbert, Falkirk, Bo'ness, Linlithgow,
