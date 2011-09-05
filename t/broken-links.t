@@ -34,12 +34,6 @@ my $problem_whitelist = {
             'non-http scheme' => 1,
         },
     },
-    'index.php' => {
-        'oldwebsite' => {
-#            'broken link' => 1
-            'link outside base dir: ../oldwebsite' => 1
-        }
-    },
     'groups/index.php' => {
         'mailto:firstyears@edinburghtwins.co.uk' => {
             'non-http scheme' => 1

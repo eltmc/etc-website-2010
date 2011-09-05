@@ -7,21 +7,30 @@
 
     <div id="content">
 
-        <p><strong>Hello and welcome to the Edinburgh Twins Club
-        website. If you have or are expecting twins or more,
-        especially if you live in or around Edinburgh, then there
-        should be some useful information for you here.</strong></p>
+        <p><b>Hello and welcome to the Edinburgh and Lothians Twins and
+        Multiples Club website.  If you have or are expecting twins or
+        more, and if you live in the Lothians, then this is the
+        website for you.</b></p>
 
-        <p>We are a registered charity, celebrating and supporting
-        families of multiples in Edinburgh and the Lothians.  We have
-        a membership of over 150 families - the largest in
-        Scotland!</p>
-        
-        <p>In 2008 we celebrated 30 years since the club started.</p>
-        
-        <p>Come on in and take a look around.  If there is anything
-        you need from our old website, you can still find it <a
-        href="oldwebsite">here</a>.</p>
+	<p>We are a registered charity, celebrating and supporting
+	families of multiples in Edinburgh and the Lothians since
+	1978. With an ever increasing membership, we are the largest
+	club in Scotland.</p>
+
+	<p>We provide peer support, from ante-natal classes to toddler
+	groups, working alongside our local hospitals, midwives and
+	health visitors to support parents of multiples. We can offer
+	advice on pregnancy and birth, getting help and support,
+	buying the right equipment, and feeding and caring for your
+	babies once they are here.</p>
+
+	<p>Come on in and take a look around. Our website is packed
+	with useful information; check out
+	our <a href="messageboard.php">message board</a> for information on times of
+	our groups, items for sale, or join in the chat with any
+	multiple related questions you may have.</p>
+
+	<p>We look forward to hearing from you!</p>
 
         <div class="announcements">
           <h2>Announcements</h2>
