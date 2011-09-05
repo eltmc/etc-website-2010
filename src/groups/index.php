@@ -230,10 +230,9 @@ expectant parents an insight into birth and the first year of life
 with their babies.</p>
 
 <p>Venue and dates to be confirmed shortly - keep an eye out on the
-messageboard! To receive further details please contact Rosie Berridge
-(<a href="mailto:rosieberridge@gmx.co.uk">rosieberridge@gmx.co.uk</a>)
-or Tricia Murray
-(<a href="mailto:patricia@morham.info">patricia@morham.info</a>)<!--a href="mailto:firstyears@edinburghtwins.co.uk">firstyears@edinburghtwins.co.uk</a-->. Cost will be &pound;15 for the three pilot sessions.</p>
+messageboard! To receive further details please contact <a
+href="mailto:firstyears@edinburghtwins.co.uk">firstyears@edinburghtwins.co.uk</a>. Cost
+will be &pound;15 for the three pilot sessions.</p>
 
 
 <h2>Other groups</h2>
