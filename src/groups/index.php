@@ -238,29 +238,21 @@ or Tricia Murray
 
 <h2>Other groups</h2>
 
-<p> There are several other groups we know about, but which are not
-run by Edinburgh Twins Club.  They are all fantastic places to meet
-other mums who are in a similar position.  The details we have are
-shown below.  If you notice any mistakes, or know of any other groups
-for multiples, please let us know.  </p>
+<p> There are (or have been) several other groups we know about, but
+which are not run by Edinburgh Twins Club.  Details of those we
+believe are currently running follow.  If you notice any mistakes, or
+know of any other groups for multiples, please let us know via <a
+href="mailto:webmaster@edinburghtwins.co.uk">webmaster@edinburghtwins.co.uk</a></p>
 
-<p> The <strong>Longniddry</strong> group meets at 9.30am-11.30am on
-the first and third Thursday of the month in Longniddry Community
-Centre, but not on school holidays.  The centre has a staffed shop
-selling drinks and snacks, overlooking the hall, giving a safe
-environment to chat whilst looking after babies or toddlers.  There
-are a range of toys for babies and toddlers, and enough space for the
-older children to run around. There is a soft play area in the
-centre.</p>
+<h3>Longniddry</h3>
 
-<p> The <strong>Bo'ness</strong> group meets every Thursday morning at
-the Playbugs soft-play, Linlithgow, 10.00 till 11.30. We get a good
-discount! We have members from Larbert, Falkirk, Bo'ness, Linlithgow,
-and being T.A.M.B. mothers we really do think "the more the
-merrier". So wherever you are in Central Scotland, bring your babies,
-bumps or toddlers and meet some friendly mums who've been through it
-all!  </p>
-
+<p>The Longniddry group meets at 9.30am-11.30am on the first and third
+Thursday of the month in Longniddry Community Centre, but not on
+school holidays.  The centre has a staffed shop selling drinks and
+snacks, overlooking the hall, giving a safe environment to chat whilst
+looking after babies or toddlers.  There are a range of toys for
+babies and toddlers, and enough space for the older children to run
+around. There is a soft play area in the centre.</p>
 
     </div>
 
