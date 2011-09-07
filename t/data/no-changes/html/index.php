@@ -124,9 +124,9 @@
 
 	<p>Come on in and take a look around. Our website is packed
 	with useful information; check out
-	our <a href="messageboard.php">message board</a> for information on times of
-	our groups, items for sale, or join in the chat with any
-	multiple related questions you may have.</p>
+	our <b><a href="messageboard.php">message board</a></b> for
+	information on times of our groups, items for sale, or join in
+	the chat with any multiple related questions you may have.</p>
 
 	<p>We look forward to hearing from you!</p>
 
