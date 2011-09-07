@@ -156,15 +156,13 @@ style="color:#0000FF;text-align:left">First Year's Groups</a> in a larger map</s
 </div>
 
 
-<p>Topics and venues are as follows:</p>
+<p>Topics and venues for 2011 are as follows:</p>
 
 <dl class="group">
-<dt>March</dt><dd><b>HELP (Childcare &amp; Support)</b> <i>(Oxgangs)</i></dd>
-<dt>April</dt><dd><b>Weaning / Feeding</b> <i>(St John's)</i></dd>
-<dt>May</dt><dd><b>Childhood Illnesses</b> <i>(Oxgangs)</i></dd>
-<dt>June</dt><dd><b>Routines &amp; Sleep</b> <i>(St John's)</i></dd>
-<dt>July</dt><dd><i>NO FIRST YEARS</i></dd>
-<dt>August</dt><dd><b>Development</b> <i>(St John's)</i></dd>
+<dt>Sept</dt> <dd><b>Help</b> <i>(Oxgangs)</i></dd>
+<dt>Oct</dt>  <dd><b>Birth stories</b> <i>(St John's)</i></dd>
+<dt>Nov</dt>  <dd><b>Equipment</b> <i>(Oxgangs)</i></dd>
+<dt>Dec</dt>  <dd><b>Relaxation</b> <i>(St John's)</i></dd>
 </dl>
 
 
