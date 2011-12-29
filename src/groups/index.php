@@ -70,22 +70,6 @@ announcements.  And if you spot any mistakes, please notify <a href="mailto:webm
 </div>
 <div class="group">
 
-<h3>West Lothian</h3>
-
-<dl>
-  <dt>Where:</dt>
-  <dd><a href="http://maps.google.co.uk/maps?q=eh54+9da&sll=53.800651,-4.064941&sspn=15.76974,37.705078&hq=&hnear=Livingston,+West+Lothian+EH54+9HZ,+United+Kingdom&t=h&ll=55.8782,-3.496485&spn=0.002215,0.005096&z=14">Murieston Village Hall, Murieston, Livingston EH54 9HZ</a> (tel: 07557 410303; web: <a href="http://muriston.info/hall/find-us">http://muriston.info</a>)</dd>
-  <dd>Park in Livingston South station, access from across railway via pedestrian tunnel</dd>
-  <dt>When:</dt>
-  <dd>Tuesdays 10:00am-12:00pm</dd>
-  <dd>(starting 5th July 2011)</dd>
-  <dt>Contact:</dt>
-  <dd><a href="mailto:westlothan@edinburghtwins.co.uk">westlothian@edinburghtwins.co.uk</a></dd>
-</dl>
-
-</div>
-<div class="group">
-
 <h3>Oxgangs</h3>
 
 <dl>
@@ -95,6 +79,21 @@ announcements.  And if you spot any mistakes, please notify <a href="mailto:webm
   <dd>Thursdays 10:00am-11:30am</dd>
   <dt>Contact:</dt>
   <dd><a href="mailto:oxgangs@edinburghtwins.co.uk">oxgangs@edinburghtwins.co.uk</a></dd>
+</dl>
+
+</div>
+<div class="group">
+
+<h3>Torphichen</h3>
+
+<dl>
+  <dt>Where:</dt>
+  <dd><a href="http://maps.google.co.uk/maps?q=55.932425,-3.656331&ll=55.932472,-3.656044&spn=0.091736,0.338173&num=1&t=h&vpsrc=6&z=12">St John’s Hall, Manse Road, Torphichen, EH48 4LT</a> (tel: Julia on 01506 633995.)</dd>
+  <dd>Parking bays available directly outside the hall to the left, however space is limited.</dd>
+  <dt>When:</dt>
+  <dd>Thursdays 9:30am-12pm</dd>
+  <dt>Contact:</dt>
+  <dd><a href="mailto:torphichen@edinburghtwins.co.uk">torphichen@edinburghtwins.co.uk</a></dd>
 </dl>
 
 </div>
@@ -111,6 +110,22 @@ Glasgow Road, Edinburgh, EH12 8LJ</a> (tel: 0131 316 4292‎)</dd>
   <dd>Fridays 9:30am-11:30am</dd>
   <dt>Contact:</dt>
   <dd><a href="mailto:westedin@edinburghtwins.co.uk">westedin@edinburghtwins.co.uk</a></dd>
+</dl>
+
+</div>
+<div class="group">
+
+<h3>West Lothian</h3>
+
+<dl>
+  <dt>Where:</dt>
+  <dd><a href="http://maps.google.co.uk/maps?q=eh54+9da&sll=53.800651,-4.064941&sspn=15.76974,37.705078&hq=&hnear=Livingston,+West+Lothian+EH54+9HZ,+United+Kingdom&t=h&ll=55.8782,-3.496485&spn=0.002215,0.005096&z=14">Murieston Village Hall, Murieston, Livingston EH54 9HZ</a> (tel: 07557 410303; web: <a href="http://muriston.info/hall/find-us">http://muriston.info</a>)</dd>
+  <dd>Park in Livingston South station, access from across railway via pedestrian tunnel</dd>
+  <dt>When:</dt>
+  <dd>Tuesdays 10:00am-12:00pm</dd>
+  <dd>(starting 5th July 2011)</dd>
+  <dt>Contact:</dt>
+  <dd><a href="mailto:westlothan@edinburghtwins.co.uk">westlothian@edinburghtwins.co.uk</a></dd>
 </dl>
 
 </div>
