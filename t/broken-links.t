@@ -59,7 +59,7 @@ my $problem_whitelist = {
         'mailto:joppa@edinburghtwins.co.uk' => {
             'non-http scheme' => 1
         },
-        'mailto:torphichen@edinburghtwins.co.uk' => {
+        'mailto:julia@enterpriseq.plus.com' => {
             'non-http scheme' => 1
         },
         'mailto:comelybank@edinburghtwins.co.uk' => {

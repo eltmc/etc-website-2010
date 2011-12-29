@@ -181,21 +181,6 @@ announcements.  And if you spot any mistakes, please notify <a href="mailto:webm
 </div>
 <div class="group">
 
-<h3>Torphichen</h3>
-
-<dl>
-  <dt>Where:</dt>
-  <dd><a href="http://maps.google.co.uk/maps?q=55.932425,-3.656331&ll=55.932472,-3.656044&spn=0.091736,0.338173&num=1&t=h&vpsrc=6&z=12">St John’s Hall, Manse Road, Torphichen, EH48 4LT</a> (tel: Julia on 01506 633995.)</dd>
-  <dd>Parking bays available directly outside the hall to the left, however space is limited.</dd>
-  <dt>When:</dt>
-  <dd>Thursdays 9:30am-12pm</dd>
-  <dt>Contact:</dt>
-  <dd><a href="mailto:torphichen@edinburghtwins.co.uk">torphichen@edinburghtwins.co.uk</a></dd>
-</dl>
-
-</div>
-<div class="group">
-
 <h3>West Edinburgh</h3>
 
 <dl>
@@ -361,6 +346,19 @@ snacks, overlooking the hall, giving a safe environment to chat whilst
 looking after babies or toddlers.  There are a range of toys for
 babies and toddlers, and enough space for the older children to run
 around. There is a soft play area in the centre.</p>
+
+
+<h3>Torphichen</h3>
+
+<p>Meets <a href="http://maps.google.co.uk/maps?q=55.932425,-3.656331&ll=55.932472,-3.656044&spn=0.091736,0.338173&num=1&t=h&vpsrc=6&z=12">St
+John’s Hall, Manse Road, Torphichen, EH48 4LT</a>, Thursdays 9.30am to
+around 12. Charges &pound;2 per family, which includes drink and
+biscuits for the adults and water or juice for children. Plenty of
+toys to suit all ages, siblings welcome too.</p>
+
+<p>Parking bays available directly outside the hall to the left,
+however space is limited. Contact Julia an 01506 633995 or email
+<a href="mailto:julia@enterpriseq.plus.com">julia@enterpriseq.plus.com</a></p>
 
     </div>
 
