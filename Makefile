@@ -1,6 +1,7 @@
 
 #REMOTE_URL = nick@udon.noodlefactory.co.uk:public_html/etc/
 REMOTE_URL = twinsadmin@edinburghtwins.co.uk:www/html/
+#REMOTE_URL = -e 'ssh -p 1122' edinburg@uniform.unisonplatform.com:sites/live/2011/
 
 DEST = html
 
