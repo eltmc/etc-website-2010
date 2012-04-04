@@ -1,0 +1,442 @@
+---
+roles:
+  Chair:
+    description: >
+      
+    occupant:
+      - Sarah Anderson
+      - Patricia Murray
+
+  Vice-Chair:
+    description:
+    occupant: Cat Cook
+
+  Secretary:
+    description: >
+      Provide assistance to chairperson and responsible for taking minutes
+      of committee meetings.
+
+    occupant: Donna Lumsden
+
+
+  Treasurer:
+    description: >
+      Responsible for banking monies and producing financial reports.
+
+    occupant: Karen Tod
+
+  Membership Secretary:
+    description: >
+      Responsible for welcoming our new members, sending out enquiry and
+      membership packs, whilst developing relationships with our existing
+      members.
+
+      Holds the list of members willing to help.
+
+    occupant: Sally Lowell
+
+  Newsletter Editor:
+    description: >
+      Edits & produces newsletters.
+
+    occupant:
+      - Doug Adamson
+      - Kat Adamson
+
+  Fundraiser:
+    description: >
+      Raising funds for the club.
+
+    occupant:
+      - Michelle Cameron
+      - Jenny Ross
+
+  Triplets Contact:
+    description: >
+
+    occupant: Tess Joyce
+
+  Nearly New Sales Organiser:
+    description: >
+
+    occupant: Sarah Anderson
+
+  Social Convenor:
+    description: >
+      Organise social events.
+
+    occupant:
+      - Jessica Quinn
+      - Esa Aldgheri
+
+  Website Coordinator:
+    description: >
+      Responsible for maintaining and developing the club’s website.
+
+    occupant: Nick Stokoe
+
+  Oxgangs Convenor:
+    description: >
+      Organise and run the daytime group at Oxgangs Neighbourhood Centre.
+
+    occupant:
+      - Rhona McGrath
+      - Jenny Ross
+
+  Comely Bank Convenor:
+    description: >
+      Organises and runs the weekly event at Comely Bank.
+
+    occupant: Laura Atkins
+
+  West Edinburgh Convenor:
+    description: >
+      Organises and runs the weekly event at St Thomas' Church,
+      Costorphine. Used to be at South Queensferry.
+    
+    occupant:
+      - Donna Lumsden
+      - Claire Mathieson
+
+
+  Joppa Convenor:
+    description: >
+      Organises and runs the weekly event at Joppa.
+
+    occupant:
+      - Clare Morley
+      - Emily Wood
+
+
+  Muriston Convenor:
+    description: >
+      
+    occupant: Cat Cook
+
+  First Years Coordinator:
+    description: >
+      Support group held in St Johns for parents-to-be and parents of
+      multiples in their first year.
+
+    occupant: Julia Miller
+
+
+  Antenatal Coordinator:
+    description: >
+
+    occupant:
+      - Patricia Murray
+      - Rhona McGrath
+
+  General Member:
+    description: >
+
+    occupant:
+      - Jeremy Balfour
+      - Morag Hammond
+      - Donna Kudarenko
+      - Sarah Bremner 
+
+
+
+emails:
+  chair@edinburghtwins.co.uk:
+    recipients:
+      - Chair
+      - Vice-Chair
+
+  recruitment@edinburghtwins.co.uk:
+    recipients:
+
+  secretary@edinburghtwins.co.uk:
+    recipients:
+      - Secretary
+
+  treasurer@edinburghtwins.co.uk:
+    recipients:
+      - Treasurer
+
+  membership@edinburghtwins.co.uk:
+    recipients:
+      - Membership Secretary
+
+  newsletter@edinburghtwins.co.uk:
+    recipients:
+      - Newsletter Editor
+
+  fundraiser@edinburghtwins.co.uk:
+    recipients:
+      - Fundraiser
+
+  triplets@edinburghtwins.co.uk:
+    recipients:
+      - Triplets Contact
+
+  nearlynewsale@edinburghtwins.co.uk:
+    recipients:
+      - Nearly New Sales Organiser
+
+  social@edinburghtwins.co.uk:
+    recipients:
+      - Social Convenor
+
+  webmaster@edinburghtwins.co.uk:
+    recipients:
+      - Website Coordinator
+
+  oxgangs@edinburhgtwins.co.uk:
+    recipients:
+      - Oxgangs Convenor
+
+  comelybank@edinburghtwins.co.uk:
+    recipients:
+      - Comely Bank Convenor
+
+  westedin@edinburghtwins.co.uk:
+    recipients:
+      - West Edinburgh Convenor
+
+  joppa@edinburghtwins.co.uk:
+    recipients:
+      - Joppa Convenor
+
+  muriston@edinburghtwins.co.uk:
+    # FIXME create this one
+
+    recipients:
+      - Muriston Convenor
+
+
+  1styears.stjohns@edinburghtwins.co.uk:
+    # deprecated
+    recipients:
+      - First Years Coordinator
+
+  1styears.oxgangs@edinburhgtwins.co.uk:
+    # deprecated
+    recipients:
+      - First Years Coordinator
+
+  firstyears@edinburghtwins.co.uk:
+    recipients:
+      - First Years Coordinator
+  
+  # FIXME antenatal email?
+
+
+  # The current google account, edinburghtwinsadmin@googlemail.com, will
+  # send password reminders to this address. (Don't send to the same account!)
+  # The answer to the security question, "Who is clearly brilliant?" is "Matt Round".
+  google-password-recovery@edinburghtwins.co.uk:
+    recipients:
+      - Chair
+      - Website Coordinator
+
+
+contacts:
+  Allie Brogan:
+    email: allisonbrogan@live.com
+    phone: 07533 761205 
+
+  Carole Baird:
+    email: carolebaird@hotmail.com
+
+  Cat Cook:
+    email: catcook@gmail.com
+
+  Claire Mathieson:
+    email:
+      - clairelmathieson@googlemail.com
+      - clairelkeenan@hotmail.com
+
+  Clare Morley:
+    email: claremorley@ymail.com
+
+  Donna Dickinson:
+    email: dd73@btinternet.com
+    phone: 01506 671699
+
+  Donna Kudarenko:
+    email: donnakudarenko@gmail.com
+    phone:
+      home: 01506 883652
+      mobile: 07917454435
+
+  Donna Lumsden:
+    email: donna.m.lumsden@gmail.com
+
+  Doug Adamson:
+    email: dtadamson@blueyonder.co.uk
+
+  Kat Adamson:
+    email: katadamson@blueyonder.co.uk
+
+  Emily Wood:
+    email: emily@mcpemily.com 
+
+  Esa Aldgheri:
+    email: esaldegheri@googlemail.com
+
+  Gillian Morrison:
+    email: gillian_morrison@btinternet.com
+
+  Gillian Beaton:
+    email: gillian@thebeatonfamily.co.uk
+    phone: 01506 840977
+
+  Helen Gillies:
+    email: helen.gillies@sky.com
+    phone: 01506 591950
+
+  Jenny Ross:
+    email:
+      - chika_jen@hotmail.com
+      - jross@ormiston.elcschool.org.uk
+
+  Jessica Quinn:
+    email: Jessica.Quinn@wolfsonmicro.com
+
+  Jennifer Middlecote:
+    email: jenniwrenuk@yahoo.co.uk
+    phone:
+      home: 01324 557453
+      mobile: 07533 975392
+
+  Jeremy Balfour:
+    email: jeremybalfour@msn.com
+
+  Joanne Cook:
+    email: jo.cook1403@googlemail.com
+    phone: 01506 853559
+
+  Julia Miller:
+    email: julia@enterpriseq.plus.com
+
+  Karen Tod:
+    email: karentod@hotmail.com
+    phone: 0131 339 0545
+    address: 25 Craigs Rd, Edinburgh EH12 8EJ
+
+  Kirsten Harrold:
+    email: kirstenharrold@aol.com
+    phone: 0783 3393550
+
+  Laura Atkins:
+    email: laura.atkins15@gmail.com
+
+  Leon Noble:
+    email: leon_noble@hotmail.com
+
+  Leona Cunningham:
+    email: leonacunningham@aol.com
+    phone: 01506 463812
+
+  Lesley Livingston:
+    email: lesleylivingston@talktalk.net
+    phone: 01506 840792
+
+  Louise Wilson:
+    email: loui.wilson@yahoo.co.uk
+    phone: 07712 891841
+
+  Morag Hammond:
+    email: morag_monteath@yahoo.co.uk
+
+  Michelle Cameron:
+    email: steven.chelle@blueyonder.co.uk
+
+  Rhona McGrath:
+    email: rhonamcgrath@hotmail.com
+    address: 49 North Meggetland, EH14 1XQ 
+    phone: 07725 409234
+
+  Rosie Berridge:
+    email: rosieberridge@gmx.co.uk
+    phone: 0131 662 9529
+
+  Nick Stokoe:
+    email: nick@noodlefactory.co.uk
+    phone: 0794 131 7425
+
+  Patricia Murray:
+    email: patricia@morham.info
+    phone: 0131 446 9114 
+
+  Sally Lowell:
+    email: sally@noodlefactory.co.uk
+    phone: 07905 508436
+
+  Sarah Anderson:
+    email: sarahanderson76@gmail.com
+    phone: 0131 661 3392
+
+  Sarah Burke:
+    email: sarahqburke@blueyonder.co.uk
+    phone: 01506 209099
+
+  Sarah Bremner:
+    email: sarah_bremner@hotmail.com
+    phone: 07919 403143
+
+  Sharon Cowell-Smith:
+    email:
+      - s.cowellsmith@btinternet.com
+      - cowellsmith@mac.com
+    phone: 07702072448 
+
+  Sue-Ella Holmes:
+    email: lellie55@yahoo.co.uk
+    phone: 0131 445 3633
+
+  Tricia Murray:
+    email: patricia@morham.info
+    phone: 0131 446 9114 
+
+  Torie Collings:
+    email: victoriacollings@yahoo.co.uk
+    phone: 01506 462363
+
+  Vikki Bruce:
+    email: vikki_phillips@hotmail.com
+    phone: 0131 441 2526
+
+  Tess Joyce:
+    email: tess_joyce@yahoo.co.uk
+
+
+---
+# Tasks on appointment / resignation
+Add or remove:
+ - canonical personal email
+ - etc-committee subscription
+ - GMail forwarding permission
+ - GMail contacts / groups
+ - official email forwarding filter
+ - calendar edit rights
+ - any mentions remaining on website?
+
+Welcome email: >
+  Hello XXX, welcome to the ETC committee.
+  
+  I've manually added you to to the ETC committee discussion group on
+  Google groups.  This means you will get discussion emails and
+  essentially need to do nothing more if that's all you want.  You can
+  reply to these emails like normal ones, and the replies will get
+  automatically forwarded to everyone else in the group.
+  
+  However, if you want to view or search the discussions online at
+  http://groups.google.com/group/etc-committee, or change any of your
+  subscription options, you will need to create an account to log in to
+  Google with.  An invitation to log in or create an account will appear
+  if you visit that URL without being logged in.
+
+  However, if you're au-fait with Google you may already have a Google
+  account, and prefer to use that to manage your subscription to the
+  discussion group.  In that case, log in with your account, visit the
+  URL above and follow the link "join this group".
+
+  Cheers,
+  
+  Nick
+
+
