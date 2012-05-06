@@ -201,7 +201,7 @@ Glasgow Road, Edinburgh, EH12 8LJ</a> (tel: 0131 316 4292‎)</dd>
 
 <dl>
   <dt>Where:</dt>
-  <dd><a href="http://maps.google.co.uk/maps?q=eh54+9da&sll=53.800651,-4.064941&sspn=15.76974,37.705078&hq=&hnear=Livingston,+West+Lothian+EH54+9HZ,+United+Kingdom&t=h&ll=55.8782,-3.496485&spn=0.002215,0.005096&z=14">Murieston Village Hall, Murieston, Livingston EH54 9HZ</a> (tel: 07557 410303; web: <a href="http://muriston.info/hall/find-us">http://muriston.info</a>)</dd>
+  <dd><a href="http://maps.google.co.uk/maps?q=eh54+9da&amp;sll=53.800651,-4.064941&amp;sspn=15.76974,37.705078&amp;hq=&amp;hnear=Livingston,+West+Lothian+EH54+9HZ,+United+Kingdom&amp;t=h&amp;ll=55.8782,-3.496485&amp;spn=0.002215,0.005096&amp;z=14">Murieston Village Hall, Murieston, Livingston EH54 9HZ</a> (tel: 07557 410303; web: <a href="http://muriston.info/hall/find-us">http://muriston.info</a>)</dd>
   <dd>Park in Livingston South station, access from across railway via pedestrian tunnel</dd>
   <dt>When:</dt>
   <dd>Tuesdays 10:00am-12:00pm</dd>
@@ -214,119 +214,40 @@ Glasgow Road, Edinburgh, EH12 8LJ</a> (tel: 0131 316 4292‎)</dd>
 </div>
 
 
-<h2><a name="FirstYears"></a>First Year's groups</h2>
-
-<p>There are now two <strong>First Year's groups</strong> - these are
-for pregnant parents and parents in their first year of raising
-multiples. These groups offer a good chance to meet other people at
-the same stage, and talk to multiple mums who've been there already
-and can give advice and support. <!--More information in this Word <a
-href="http://www.edinburghtwins.co.uk/documents/First_Years.doc">document</a>.
---> </p>
-
-<p>Following the survey in early 2011, from <b>2nd March 2011</b>
-First Year's will run on the <b>first Wednesday of each month,
-8.00-10.00pm</b>, <i>alternating</i> between Oxgangs Neighbourhood
-Centre in Edinburgh and St John's Hospital.  Check the <b><a
-href="../events/calendar">events calendar</a></b> for dates, and the <b><a href="../messageboard/viewforum.php?f=7">First Year's message board</a></b>
-for announcements.</p>
-
-<p>We will be there from 8pm. Tea, coffee or soft drinks are
-provided. There is always lots of time for questions and advice as we
-go along. Feel free to bring your babies and dads are always welcome
-too. Latecomers welcome!</p>
-
-
-<div class="map">
-<iframe 
-   frameborder="0"
-   scrolling="no"
-   marginheight="0"
-   marginwidth="0"
-   src="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=213519100708941637463.0004a2eca92afe9f1b0b9&amp;ll=55.988396,-3.365936&amp;spn=0.307267,0.575409&amp;z=10&amp;output=embed"
->
-</iframe>
-<br />
-<small>View <a href="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=213519100708941637463.0004a2eca92afe9f1b0b9&amp;ll=55.988396,-3.365936&amp;spn=0.307267,0.575409&amp;z=10&amp;source=embed"
-style="color:#0000FF;text-align:left">First Year's Groups</a> in a larger map</small>
-</div>
-
-
-<p>Topics and venues for 2011 are as follows:</p>
-
-<dl class="group">
-<dt>Sept</dt> <dd><b>Help</b> <i>(Oxgangs)</i></dd>
-<dt>Oct</dt>  <dd><b>Birth stories</b> <i>(St John's)</i></dd>
-<dt>Nov</dt>  <dd><b>Equipment</b> <i>(Oxgangs)</i></dd>
-<dt>Dec</dt>  <dd><b>Relaxation</b> <i>(St John's)</i></dd>
-</dl>
-
-
-
-<div class="groups">
-<div class="group">
-
-<h3>Oxgangs</h3>
-
-<dl>
-  <dt>Where:</dt>
-  <dd><a href="http://maps.google.co.uk/maps/place?cid=4151846121787784878">Oxgangs Neighbourhood Centre, 71 Firrhill Drive EH13 9EU</a> (tel: 0131 441 7558)</dd>
-  <dt>When:</dt>
-  <dd>First Wednesday of odd-numbered months, 8:00pm-10:00pm</dd>
-  <dt>Contact:</dt>
-  <dd><a href="mailto:1styears.oxgangs@edinburghtwins.co.uk">1styears.oxgangs@edinburghtwins.co.uk</a></dd>
-</dl>
-
-</div>
-<div class="group">
-
-<h3>St John's Hospital</h3>
-
-<dl>
-  <dt>Where:</dt>
-  <dd><a href="http://maps.google.com/maps/place?ftid=0x4887d9565f2fa69b:0x1c5397685847df36">St John's Hospital at Howden, Livingston, EH54 6PP</a></dd>
-  <dd>Meet in the Parentcraft Room, located in OPD3 next to the maternity entrance, on the ground
-floor</dd>
-  <dt>When:</dt>
-  <dd>First Wednesday of even-numbered months 8:00pm-10:00pm</dd>
-  <dt>Contact:</dt>
-  <dd><a href="mailto:1styears.stjohns@edinburghtwins.co.uk">1styears.stjohns@edinburghtwins.co.uk</a></dd
->
-</dl>
-
-</div>
-</div>
-
-
 <h2><a name="AntenatalClasses"></a>Twin And Multiple Birth Antenatal Classes</h2>
 
-<p>Following feedback from our 2011 members survey, we will be
-launching a pilot antenatal class in November 2011.  This will be held
-over three nights in November and is open to all expectant parents
-across the Lothians.  This class will complement any other antenatal
-class (such as those given by the NCT or NHS) and will cover
-twin/multiples specific issues including:</p>
+<p>Antenatal classes are held on a regular basis at Fairmilehead
+Parish Church hall in Edinburgh. This venue has been chosen as it is
+quite central given our large catchment - being Edinburgh and the
+Lothians. This course is being held at the rate of &pound;30.00 which covers
+attendance at all three nights per family.</p>
+
+<p>The course is not designed to take the place of other mainstream
+antenatal provision from either the NHS or NCT. We are hoping to
+provide a twins perspective - <i>'how do I feed twins?'</i>, <i>'how
+do I carry twins?'</i>, <i>'what kind of routine should I
+have?'</i>, <i>'Can I get on a bus with twin buggies?'</i> and so on -
+and so we are aiming to provide discussion, experience and advice for
+these and the gazillion other questions which start occurring to you
+as soon as you find out you have twins! The course will specifically
+cover the following topics:</p>
 
 <ul>
-  <li>Birth,</li>
-  <li>Feeding (Breast/Bottle/Mixed)</li>
-  <li>Equipment,</li>
-  <li>Practical Baby Care (including sleep and routines),</li>
-  <li>Pregnancy,</li>
-  <li>Looking After Yourself, and</li>
-  <li>Help.</li>
+<li>Pregnancy and Birth (led by a midwife)</li>
+<li>Equipment</li>
+<li>Feeding</li>
+<li>Help and Support</li>
+<li>Practical Baby Care - including routines and sleep</li>
 </ul>
 
-<p>Included will be personal accounts from a selection of mums
-including <i>“My Twins in Pictures”</i> which presents life in the
-first year. This class will be run by members of the club to give
-expectant parents an insight into birth and the first year of life
-with their babies.</p>
+<p>The other main aim of the course is to put you in touch with others
+in the same boat, and at the same stage with a view to providing the
+opportunity for you to form a network of twin parents from whom you
+can get support on an ongoing basis.</p>
 
-<p>Venue and dates to be confirmed shortly - keep an eye out on the
-messageboard! To receive further details please contact <a
-href="mailto:firstyears@edinburghtwins.co.uk">firstyears@edinburghtwins.co.uk</a>. Cost
-will be &pound;15 for the three pilot sessions.</p>
+<p>Further details available
+from <a href="mailto:antenatal@edinburghtwins.co.uk">antenatal@edinburghtwins.co.uk</a>
+or via our <b><a href="../messageboard/viewforum.php?f=7">message board</a></b>.</p>
 
 
 <h2>Other groups</h2>
@@ -350,7 +271,7 @@ around. There is a soft play area in the centre.</p>
 
 <h3>Torphichen</h3>
 
-<p>Meets <a href="http://maps.google.co.uk/maps?q=55.932425,-3.656331&ll=55.932472,-3.656044&spn=0.091736,0.338173&num=1&t=h&vpsrc=6&z=12">St
+<p>Meets <a href="http://maps.google.co.uk/maps?q=55.932425,-3.656331&amp;ll=55.932472,-3.656044&amp;spn=0.091736,0.338173&amp;num=1&amp;t=h&amp;vpsrc=6&amp;z=12">St
 John’s Hall, Manse Road, Torphichen, EH48 4LT</a>, Thursdays 9.30am to
 around 12. Charges &pound;2 per family, which includes drink and
 biscuits for the adults and water or juice for children. Plenty of

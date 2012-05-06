@@ -35,16 +35,10 @@ my $problem_whitelist = {
         },
     },
     'groups/index.php' => {
-        'mailto:firstyears@edinburghtwins.co.uk' => {
-            'non-http scheme' => 1
-        },
         'mailto:webmaster@edinburghtwins.co.uk' => {
             'non-http scheme' => 1
         },
-        'mailto:1styears.oxgangs@edinburghtwins.co.uk' => {
-            'non-http scheme' => 1
-        },
-        'mailto:1styears.stjohns@edinburghtwins.co.uk' => {
+        'mailto:antenatal@edinburghtwins.co.uk' => {
             'non-http scheme' => 1
         },
         'mailto:oxgangs@edinburghtwins.co.uk' => {
