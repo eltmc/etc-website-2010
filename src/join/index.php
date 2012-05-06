@@ -20,7 +20,7 @@ If you join the Edinburgh Twins Club (for the small cost of &pound;12 pa), you w
   <li>Library of books and leaflets</li>
 </ul>
 <p>
-Download <a href="[% root %]documents/application-form.pdf">application form</a>
+Download the application form here in <a href="[% root %]documents/application-form.pdf">PDF</a> / <a href="[% root %]documents/application-form.doc">MS Word</a> format.
 </p>
 
 <div class="elastic-photo-bar">
