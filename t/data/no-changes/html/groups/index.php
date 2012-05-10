@@ -258,17 +258,6 @@ believe are currently running follow.  If you notice any mistakes, or
 know of any other groups for multiples, please let us know via <a
 href="mailto:webmaster@edinburghtwins.co.uk">webmaster@edinburghtwins.co.uk</a></p>
 
-<h3>Longniddry</h3>
-
-<p>The Longniddry group meets at 9.30am-11.30am on the first and third
-Thursday of the month in Longniddry Community Centre, but not on
-school holidays.  The centre has a staffed shop selling drinks and
-snacks, overlooking the hall, giving a safe environment to chat whilst
-looking after babies or toddlers.  There are a range of toys for
-babies and toddlers, and enough space for the older children to run
-around. There is a soft play area in the centre.</p>
-
-
 <h3>Torphichen</h3>
 
 <p>Meets <a href="http://maps.google.co.uk/maps?q=55.932425,-3.656331&amp;ll=55.932472,-3.656044&amp;spn=0.091736,0.338173&amp;num=1&amp;t=h&amp;vpsrc=6&amp;z=12">St
