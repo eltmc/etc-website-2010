@@ -1,7 +1,8 @@
 
-#REMOTE_URL = nick@udon.noodlefactory.co.uk:public_html/etc/
-REMOTE_URL = twinsadmin@edinburghtwins.co.uk:www/html/
-#REMOTE_URL = -e 'ssh -p 1122' edinburg@uniform.unisonplatform.com:sites/live/2011/
+REMOTE_URL = -e 'ssh -p 1122' edinburg@uniform.unisonplatform.com:i/sites/old/replica-of-clearlybrilliant-site/
+
+# Allow the above to be overridden in this file
+-include config.local
 
 DEST = html
 
